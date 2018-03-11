@@ -1,0 +1,35 @@
+[
+  {
+    "title": "周倩玉的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "hii我回来了",
+      "base64": "aGlp5oiR5Zue5p2l5LqG"
+    },
+    "picPath": "https://source.48.cn/mediasource/liveAction/avatar/e37c6e41-048b-416a-9c37-7aaab7711537.png",
+    "startTime": {
+      "timeStamp": 1487047612974,
+      "dateTime": "2017-02-14T12:46:52Z"
+    },
+    "memberId": 327561,
+    "liveType": 1,
+    "streamPath": "https://mp5.48.cn/live/6c0fd1a0-30d5-413e-b094-0b7ca751a672.mp4"
+  },
+  {
+    "title": "周倩玉的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "早上好啊\n还不睡吗",
+      "base64": "5pep5LiK5aW95ZWKCui/mOS4jeedoeWQlw=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/8bf4ba74-79d9-4fde-baab-23c519987e46.jpg",
+      "https://source.48.cn/mediasource/live/32234702-428b-4e2f-9520-c4a21df51afc.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1486942142348,
+      "dateTime": "2017-02-13T07:29:02Z"
+    },
+    "memberId": 327561,
+    "liveType": 1,
+    "streamPath": "https://mp5.48.cn/live/a76d7015-e6ed-45d8-8022-6fcd0d1c9a4c.mp4"
+  }
+]

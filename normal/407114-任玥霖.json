@@ -1,0 +1,38 @@
+[
+  {
+    "title": "任玥霖的电台（回放生成中）",
+    "subTitle": {
+      "raw": "和老黄唱会歌",
+      "base64": "5ZKM6ICB6buE5ZSx5Lya5q2M"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15017496216255ir6570s88.JPG",
+      "https://source.48.cn/mediasource/live/1501689804101z251xh8YCV.JPG"
+    ],
+    "startTime": {
+      "timeStamp": 1501749621843,
+      "dateTime": "2017-08-03T16:40:21Z"
+    },
+    "memberId": 407114,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/59a74f42-d1e9-4353-8bed-93b77ccc9d50.mp4"
+  },
+  {
+    "title": "任玥霖的电台（回放生成中）",
+    "subTitle": {
+      "raw": "哈哈哈哈\n",
+      "base64": "5ZOI5ZOI5ZOI5ZOICg=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1501689804010XsDRnX3721.JPG",
+      "https://source.48.cn/mediasource/live/1501689804101z251xh8YCV.JPG"
+    ],
+    "startTime": {
+      "timeStamp": 1501689803942,
+      "dateTime": "2017-08-03T00:03:23Z"
+    },
+    "memberId": 407114,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/fde8c0bb-e1d0-42b8-992b-007831ee9416.mp4"
+  }
+]

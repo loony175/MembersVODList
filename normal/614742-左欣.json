@@ -1,0 +1,65 @@
+[
+  {
+    "title": "左欣的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "聊聊日常",
+      "base64": "6IGK6IGK5pel5bi4"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/15153244165891jdgHI1pfs.png",
+    "startTime": {
+      "timeStamp": 1515324439401,
+      "dateTime": "2018-01-07T19:27:19Z"
+    },
+    "memberId": 614742,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/3887d3b1-a268-4eee-b542-a9c0ea94963a.mp4"
+  },
+  {
+    "title": "左欣的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "嘻嘻嘻 😁",
+      "base64": "5Zi75Zi75Zi7IPCfmIE="
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1514810185073oaML1MEl99.png",
+    "startTime": {
+      "timeStamp": 1514810185451,
+      "dateTime": "2018-01-01T20:36:25Z"
+    },
+    "memberId": 614742,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/8b4cd377-9ef9-4427-9b41-2d9b26a11a29.mp4"
+  },
+  {
+    "title": "左欣的电台（回放生成中）",
+    "subTitle": {
+      "raw": "聊天啦",
+      "base64": "6IGK5aSp5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1514464900707Uzfm1cn9HT.png",
+      "http://www.ckg48.com/images/member/zp_50017.jpg?ram=1514205090447"
+    ],
+    "startTime": {
+      "timeStamp": 1514468660053,
+      "dateTime": "2017-12-28T21:44:20Z"
+    },
+    "memberId": 614742,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/cab3afe8-ebc1-43b5-8053-9f7b4b4bdce8.mp4"
+  },
+  {
+    "title": "左欣的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "嘻嘻嘻  平安夜快乐",
+      "base64": "5Zi75Zi75Zi7ICDlubPlronlpJzlv6vkuZA="
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1514117087992Gc6GL2XoWb.png",
+    "startTime": {
+      "timeStamp": 1514117121547,
+      "dateTime": "2017-12-24T20:05:21Z"
+    },
+    "memberId": 614742,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/6cb22099-adaf-4835-a385-7ac5706827e1.mp4"
+  }
+]

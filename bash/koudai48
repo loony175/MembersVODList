@@ -1,0 +1,18 @@
+#!/bin/bash
+randomString=$(cat /dev/urandom | base64 | sed 's/[^a-zA-Z0-9]//g' | head -c 32)
+echo "Downloading JSON file from Koudai48 API..."
+./pkt48 -r -L all -N > "$randomString"
+memberId=$(awk -F "," '{print $2}' MemberID.csv | tail -n +2)
+echo "$memberId" | while read line ; do
+	memberName=$(awk -F "," "\$2==\"$line\" {print \$1}" MemberID.csv)
+	memberID=$(echo "$line" | awk '{printf("%06d\n",$1)}')
+	filename1="$memberID-$memberName.json"
+	filename2="$memberID-$memberName.txt"
+	cat "$randomString" | jq "map(select(.memberId == $line))" > "../normal/$filename1"
+	sum=$(cat "../normal/$filename1" | jq '.[] | .streamPath' | wc -l)
+	echo "[normal] $sum URL(s) written in ../normal/$filename1"
+	cat "../normal/$filename1" | jq '.[] | {(.startTime.dateTime): .streamPath}' | grep -Po '"[^{|}]*' > "../quiet/$filename2"
+	sum=$(cat "../quiet/$filename2" | wc -l)
+	echo "[quiet]  $sum URL(s) written in ../quiet/$filename2"
+done
+rm "$randomString"

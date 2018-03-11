@@ -1,0 +1,69 @@
+#!/bin/bash
+timeStamp=0
+groupID=0
+memberID=0
+limit=20
+api1=https://plive.48.cn/livesystem/api/live/v1/memberLivePage
+api2=https://pother.48.cn/othersystem/api/version/v1/download/fansapp/android
+GETOPT=`getopt -o lrt:g:m:L:nN --long live,review,lastTime:,groupID:,memberName:,limit:,sum,no-sum -n 'exit' -- "$@"`
+randomString=$(cat /dev/urandom | base64 | sed 's/[^a-zA-Z0-9]//g' | head -c 32)
+LatestVersion(){
+	curl -sI $api2 | grep -Po '\d+\.\d+\.\d+' | tail -1 | tee pocket48_version.conf
+}
+if [ -f pocket48_version.conf ] ; then
+	now=$(date +%Y-%m-%dT%TZ | sed 's/^/"&/ ; s/$/&"/' | jq fromdate)
+	modifiedTime=$(ls --full-time -l pocket48_version.conf | awk -F "." '{print $1}' | awk '{print $6,$7}' | sed 's/^/"&/ ; s/ /T/ ; s/$/&Z"/' | jq fromdate)
+	if [ $(awk "BEGIN{print ($now-$modifiedTime)}") -lt 2592000 ] ; then
+		version=$(cat pocket48_version.conf)
+	else
+		version=$(LatestVersion)
+	fi
+else
+	version=$(LatestVersion)
+fi
+header1="Content-Type: application/json"
+header2="version: $version"
+header3="os: android"
+MemberID(){
+	case "$memberName" in
+		陈佳莹) echo "4" ;;
+		李娜) echo "407132" ;;
+		*) awk -F "," "\$1==\"$memberName\" {print \$2}" MemberID.csv ;;
+	esac
+}
+eval set -- "$GETOPT"
+while true ; do
+	case "$1" in
+		-l|--live) Type=liveList ; shift ;;
+		-r|--review) Type=reviewList ; shift ;;
+		-t|--lastTime) lastTime="$2" ; shift 2 ;;
+		-g|--groupID) groupID="$2" ; shift 2 ;;
+		-m|--memberName) memberName="$2" ; shift 2 ;;
+		-L|--limit) limit="$2" ; shift 2 ;;
+		-n|--sum) sumOnly=true ; shift ;;
+		-N|--no-sum) noSum=true ; shift ;;
+		--) shift ; break ;;
+		*) exit 1 ;;
+	esac
+done
+if [ -n "$lastTime" ] ; then
+	timeStamp=$(echo "$lastTime" | sed 's/^/"&/ ; s/$/&"/' | jq '(fromdate-28800)*1000')
+fi
+if [ -n "$memberName" ] ; then
+	memberID=$(MemberID)
+fi
+if [ $limit == "all" ] ; then
+	limit=20000
+fi
+data="{"lastTime": $timeStamp, "groupId": $groupID, "memberId": $memberID, "limit": $limit}"
+jq="{title, subTitle: {raw: .subTitle, base64: (.subTitle|@base64)}, picPath, startTime: {timeStamp: .startTime, dateTime: (.startTime/1000+28800|todate)}, memberId, liveType, streamPath}"
+stdout=$(curl -s -X POST $api1 -H "$header1" -H "$header2" -H "$header3" --data "$data" | jq ".content.$Type | map($jq | if (.picPath|contains(\",\")) then setpath([\"picPath\"];(.picPath/\",\")) else . end)" | sed 's/\/mediasource/https:\/\/source.48.cn&/g')
+sum=$(echo "$stdout" | jq '.[] | .streamPath' | wc -l)
+if [ ! $sumOnly ] ; then
+	echo "$stdout"
+	if [ ! $noSum ] ; then
+		echo -e "\n$sum URL(s) found.\n"
+	fi
+else
+	echo "$sum"
+fi

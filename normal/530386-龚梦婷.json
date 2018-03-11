@@ -1,0 +1,65 @@
+[
+  {
+    "title": "龚梦婷的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "最后一次",
+      "base64": "5pyA5ZCO5LiA5qyh"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/15163749037112E0FXRuLlx.jpg",
+    "startTime": {
+      "timeStamp": 1519567255084,
+      "dateTime": "2018-02-25T22:00:55Z"
+    },
+    "memberId": 530386,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/166a3764-58d7-403a-b69d-07c5b0bf0489.mp4"
+  },
+  {
+    "title": "龚梦婷的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "怎么办 好喜欢你！",
+      "base64": "5oCO5LmI5YqeIOWlveWWnOasouS9oO+8gQ=="
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1510750555833f20sIC1Q9H.jpg",
+    "startTime": {
+      "timeStamp": 1515246128304,
+      "dateTime": "2018-01-06T21:42:08Z"
+    },
+    "memberId": 530386,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/07ba7c66-3148-4969-8cb3-b9225641164b.mp4"
+  },
+  {
+    "title": "龚梦婷的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "我超喜欢你！",
+      "base64": "5oiR6LaF5Zac5qyi5L2g77yB"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1510750555833f20sIC1Q9H.jpg",
+    "startTime": {
+      "timeStamp": 1514623890822,
+      "dateTime": "2017-12-30T16:51:30Z"
+    },
+    "memberId": 530386,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/92a1b95b-3979-43a4-b21b-8280c8bcd91b.mp4"
+  },
+  {
+    "title": "龚梦婷的电台（回放生成中）",
+    "subTitle": {
+      "raw": "朋友，来聊个100块的天",
+      "base64": "5pyL5Y+L77yM5p2l6IGK5LiqMTAw5Z2X55qE5aSp"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1509798185180gWg8xh48hM.jpg",
+      "https://source.48.cn/mediasource/live/1509798185436es2hP34m69.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1513005150868,
+      "dateTime": "2017-12-11T23:12:30Z"
+    },
+    "memberId": 530386,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/d5ff75c9-4317-486c-afba-5d48b0375038.mp4"
+  }
+]
