@@ -7,6 +7,21 @@
     },
     "picPath": "https://source.48.cn/mediasource/live/15207752793025549b35ozR.png",
     "startTime": {
+      "timeStamp": 1520776160132,
+      "dateTime": "2018-03-11T21:49:20Z"
+    },
+    "memberId": 6735,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/002sCtyqjx07iONKRS1W070d010006hZ0k01.m3u8"
+  },
+  {
+    "title": "李钊的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "#吃我一钊#中国菜篇——深夜蛇堂",
+      "base64": "I+WQg+aIkeS4gOmSiiPkuK3lm73oj5znr4figJTigJTmt7HlpJzom4floII="
+    },
+    "picPath": "https://source.48.cn/mediasource/live/15207752793025549b35ozR.png",
+    "startTime": {
       "timeStamp": 1520775279459,
       "dateTime": "2018-03-11T21:34:39Z"
     },

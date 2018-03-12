@@ -1,5 +1,4 @@
 #!/bin/bash
-randomString=$(cat /dev/urandom | base64 | sed 's/[^a-zA-Z0-9]//g' | head -c 32)
 echo "Downloading JSON file from Koudai48 API..."
 temp=$(./pkt48 -r -L all -N)
 memberId=$(awk -F "," '{print $2}' MemberID.csv | tail -n +2)
@@ -12,6 +11,5 @@ echo "$memberId" | while read line ; do
 	sum=$(cat "../normal/$filename1" | jq '.[] | .streamPath' | wc -l)
 	echo "[normal] $sum URL(s) written in ../normal/$filename1"
 	cat "../normal/$filename1" | jq '.[] | {(.startTime.dateTime): .streamPath}' | grep -Po '"[^{|}]*' > "../quiet/$filename2"
-	sum=$(cat "../quiet/$filename2" | wc -l)
 	echo "[quiet]  $sum URL(s) written in ../quiet/$filename2"
 done
