@@ -2,6 +2,21 @@
   {
     "title": "左欣的直播间（回放生成中）",
     "subTitle": {
+      "raw": "直播半小时",
+      "base64": "55u05pKt5Y2K5bCP5pe2"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1521215101688ZYPQa373PN.png",
+    "startTime": {
+      "timeStamp": 1521215101406,
+      "dateTime": "2018-03-16T23:45:01Z"
+    },
+    "memberId": 614742,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/1bf1da22-e39e-40c2-9acb-f2ed3570e59b.mp4"
+  },
+  {
+    "title": "左欣的直播间（回放生成中）",
+    "subTitle": {
       "raw": "聊聊日常",
       "base64": "6IGK6IGK5pel5bi4"
     },
