@@ -2,6 +2,39 @@
   {
     "title": "冯嘉希的电台（回放生成中）",
     "subTitle": {
+      "raw": "感激有歌，今夜陪着我过。vol.088",
+      "base64": "5oSf5r+A5pyJ5q2M77yM5LuK5aSc6Zmq552A5oiR6L+H44CCdm9sLjA4OA=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15130008730414zFt155O4n.jpg",
+      "https://source.48.cn/mediasource/live/1513000873194H49FuNc851.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1521472329797,
+      "dateTime": "2018-03-19T23:12:09Z"
+    },
+    "memberId": 327565,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/060205cd-4371-4bc9-9556-6d2b44fffcea.mp4"
+  },
+  {
+    "title": "冯嘉希的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "抽奖",
+      "base64": "5oq95aWW"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1521389827168q361k6F3WI.jpg",
+    "startTime": {
+      "timeStamp": 1521389827554,
+      "dateTime": "2018-03-19T00:17:07Z"
+    },
+    "memberId": 327565,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/003pWTEyjx07j06FWURh070d010001B70k01.m3u8"
+  },
+  {
+    "title": "冯嘉希的电台（回放生成中）",
+    "subTitle": {
       "raw": "感激有歌，今夜陪着我过。vol.087",
       "base64": "5oSf5r+A5pyJ5q2M77yM5LuK5aSc6Zmq552A5oiR6L+H44CCdm9sLjA4Nw=="
     },
