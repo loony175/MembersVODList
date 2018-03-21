@@ -2,6 +2,45 @@
   {
     "title": "林芝的直播间（回放生成中）",
     "subTitle": {
+      "raw": "一起看电影吗",
+      "base64": "5LiA6LW355yL55S15b2x5ZCX"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1521633085047Fr3m26yFC7.jpg",
+    "startTime": {
+      "timeStamp": 1521633085250,
+      "dateTime": "2018-03-21T19:51:25Z"
+    },
+    "memberId": 607523,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/a99371cf-702e-4dd2-baf7-ad4940e68e1f.mp4"
+  },
+  {
+    "title": "林芝的电台（回放生成中）",
+    "subTitle": {
+      "raw": "滴滴滴",
+      "base64": "5ru05ru05ru0"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15208629477464RiijPJU09.jpg",
+      "https://source.48.cn/mediasource/live/1520862947910a0d4F1J7Kh.jpg",
+      "https://source.48.cn/mediasource/live/152086294807288BYJnthI2.jpg",
+      "https://source.48.cn/mediasource/live/1520862948215XrcP0d1P37.jpg",
+      "https://source.48.cn/mediasource/live/1520862948395hk2aqAR801.jpg",
+      "https://source.48.cn/mediasource/live/15208629485349GQKogObml.jpg",
+      "https://source.48.cn/mediasource/live/152086294869297rHfMP7Td.jpg",
+      "https://source.48.cn/mediasource/live/15208629488632Vc6m8G78V.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1521631058849,
+      "dateTime": "2018-03-21T19:17:38Z"
+    },
+    "memberId": 607523,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/479812b9-a37b-468b-a4db-1a272083c75d.mp4"
+  },
+  {
+    "title": "林芝的直播间（回放生成中）",
+    "subTitle": {
       "raw": "滴滴滴你的小偶像开直播啦",
       "base64": "5ru05ru05ru05L2g55qE5bCP5YG25YOP5byA55u05pKt5ZWm"
     },
