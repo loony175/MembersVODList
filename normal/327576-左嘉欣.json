@@ -7,6 +7,40 @@
     },
     "picPath": "https://source.48.cn/mediasource/live/15216240401041948tsY2Z2.jpg",
     "startTime": {
+      "timeStamp": 1521910039214,
+      "dateTime": "2018-03-25T00:47:19Z"
+    },
+    "memberId": 327576,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/f2ec2580-2d69-4ac7-a1cd-ccaa921e2d99.mp4"
+  },
+  {
+    "title": "左嘉欣的电台（回放生成中）",
+    "subTitle": {
+      "raw": "百万问答",
+      "base64": "55m+5LiH6Zeu562U"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1514130798492SVK8HtB5Ny.jpg",
+      "https://source.48.cn/mediasource/live/1521087988855qI19Au66bG.jpg",
+      "https://source.48.cn/mediasource/live/15210879890570yv2rTb1qy.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1521877793020,
+      "dateTime": "2018-03-24T15:49:53Z"
+    },
+    "memberId": 327576,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/822312df-b664-4efb-90a2-d1155588f1df.mp4"
+  },
+  {
+    "title": "左嘉欣的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "我爱丝芭",
+      "base64": "5oiR54ix5Lid6Iqt"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/15216240401041948tsY2Z2.jpg",
+    "startTime": {
       "timeStamp": 1521816112485,
       "dateTime": "2018-03-23T22:41:52Z"
     },

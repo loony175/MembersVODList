@@ -11,6 +11,55 @@
       "https://source.48.cn/mediasource/live/1521641174297549CY85btp.jpg"
     ],
     "startTime": {
+      "timeStamp": 1521988852531,
+      "dateTime": "2018-03-25T22:40:52Z"
+    },
+    "memberId": 327568,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/5382a2c5-6b0c-473c-a924-b1bb2599fdeb.mp4"
+  },
+  {
+    "title": "刘倩倩的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "直播一会儿～✨",
+      "base64": "55u05pKt5LiA5Lya5YS/772e4pyo"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/15182670998268ec2sjpDq0.jpg",
+    "startTime": {
+      "timeStamp": 1521988202814,
+      "dateTime": "2018-03-25T22:30:02Z"
+    },
+    "memberId": 327568,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/005d111a-ec96-44b0-b265-1018aa89b23d.mp4"
+  },
+  {
+    "title": "刘倩倩的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "直播一会儿～✨",
+      "base64": "55u05pKt5LiA5Lya5YS/772e4pyo"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/15182670998268ec2sjpDq0.jpg",
+    "startTime": {
+      "timeStamp": 1521986871833,
+      "dateTime": "2018-03-25T22:07:51Z"
+    },
+    "memberId": 327568,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/de78158b-27da-4346-991b-baa502529bb8.mp4"
+  },
+  {
+    "title": "刘倩倩的电台（回放生成中）",
+    "subTitle": {
+      "raw": "闲聊会～",
+      "base64": "6Zey6IGK5Lya772e"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1521641173945WE39VhlFFd.jpg",
+      "https://source.48.cn/mediasource/live/1521641174105Kccn8AQT1o.jpg",
+      "https://source.48.cn/mediasource/live/1521641174297549CY85btp.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1521641174571,
       "dateTime": "2018-03-21T22:06:14Z"
     },

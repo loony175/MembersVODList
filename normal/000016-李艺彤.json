@@ -16,6 +16,30 @@
       "https://source.48.cn/mediasource/live/1519641688506D8xG9ND3uF.jpg"
     ],
     "startTime": {
+      "timeStamp": 1521993066383,
+      "dateTime": "2018-03-25T23:51:06Z"
+    },
+    "memberId": 16,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/9fcbc0b0-dd7f-4425-9dd9-cd86ebfdac7b.mp4"
+  },
+  {
+    "title": "李艺彤的电台（回放生成中）",
+    "subTitle": {
+      "raw": "瞎聊20分",
+      "base64": "556O6IGKMjDliIY="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1521206081786ea1kE1KBVz.jpg",
+      "https://source.48.cn/mediasource/live/15196416866934T13u99o1V.jpg",
+      "https://source.48.cn/mediasource/live/1519641687002rExRWDf6x0.jpg",
+      "https://source.48.cn/mediasource/live/1519641687302BN5FBL1u47.jpg",
+      "https://source.48.cn/mediasource/live/151964168757595Bm583B84.jpg",
+      "https://source.48.cn/mediasource/live/1519641687897I6iZTa3g9R.jpg",
+      "https://source.48.cn/mediasource/live/1519641688154yzGr03CM4J.jpg",
+      "https://source.48.cn/mediasource/live/1519641688506D8xG9ND3uF.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1521707043493,
       "dateTime": "2018-03-22T16:24:03Z"
     },
