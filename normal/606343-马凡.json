@@ -2,6 +2,69 @@
   {
     "title": "马凡的直播间（回放生成中）",
     "subTitle": {
+      "raw": "我自己的直播2",
+      "base64": "5oiR6Ieq5bex55qE55u05pKtMg=="
+    },
+    "picPath": "https://source.48.cn/mediasource/live/152077689296202E6daX1Aq.png",
+    "startTime": {
+      "timeStamp": 1522157378097,
+      "dateTime": "2018-03-27T21:29:38Z"
+    },
+    "memberId": 606343,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/5b1812dd-ea2f-46d5-b687-cb91853a814a.mp4"
+  },
+  {
+    "title": "马凡的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "我自己的直播2",
+      "base64": "5oiR6Ieq5bex55qE55u05pKtMg=="
+    },
+    "picPath": "https://source.48.cn/mediasource/live/152077689296202E6daX1Aq.png",
+    "startTime": {
+      "timeStamp": 1522155698139,
+      "dateTime": "2018-03-27T21:01:38Z"
+    },
+    "memberId": 606343,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/d16e50cd-1917-48ab-928c-48cd83147175.mp4"
+  },
+  {
+    "title": "马凡的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "我自己的直播",
+      "base64": "5oiR6Ieq5bex55qE55u05pKt"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/152077689296202E6daX1Aq.png",
+    "startTime": {
+      "timeStamp": 1522149247707,
+      "dateTime": "2018-03-27T19:14:07Z"
+    },
+    "memberId": 606343,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/788b9092-d772-4ec1-8ea2-247bb393b9a9.mp4"
+  },
+  {
+    "title": "马凡的电台（回放生成中）",
+    "subTitle": {
+      "raw": "睡前童话",
+      "base64": "552h5YmN56ul6K+d"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1515421776506PdW3oPIIKz.png",
+      "https://source.48.cn/mediasource/live/15154257536953Muwr4y5jV.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1522076064815,
+      "dateTime": "2018-03-26T22:54:24Z"
+    },
+    "memberId": 606343,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/d2d0b010-04b1-4d5b-b851-552beb9ddca8.mp4"
+  },
+  {
+    "title": "马凡的直播间（回放生成中）",
+    "subTitle": {
       "raw": "小周和小幻",
       "base64": "5bCP5ZGo5ZKM5bCP5bm7"
     },
