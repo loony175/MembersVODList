@@ -5,10 +5,66 @@ memberID=0
 limit=20
 api1=https://plive.48.cn/livesystem/api/live/v1/memberLivePage
 api2=https://pother.48.cn/othersystem/api/version/v1/download/fansapp/android
-GETOPT=`getopt -o lrt:g:m:L:nN --long live,review,lastTime:,groupID:,memberName:,limit:,sum,no-sum -n 'exit' -- "$@"`
-randomString=$(cat /dev/urandom | base64 | sed 's/[^a-zA-Z0-9]//g' | head -c 32)
+GETOPT=`getopt -o lrt:g:m:L:nNT:f:d:M: --long live,review,lastTime:,groupID:,memberName:,limit:,sum,no-sum,type:,format:,date:,memberList: -n 'exit' -- "$@"`
+randomString1=$(cat /proc/sys/kernel/random/uuid)
+randomString2=$(cat /proc/sys/kernel/random/uuid)
+jq="{title, subTitle: {raw: .subTitle, base64: (.subTitle|@base64)}, picPath, startTime: {timeStamp: .startTime, dateTime: (.startTime/1000+28800|todate)}, memberId, liveType, streamPath}"
 LatestVersion(){
 	curl -sI $api2 | grep -Po '\d+\.\d+\.\d+' | tail -1 | tee pocket48_version.conf
+}
+MemberID(){
+	case "$memberName" in
+		陈佳莹) echo "4" ;;
+		李娜) echo "407132" ;;
+		*) awk -F "," "\$1==\"$memberName\" {print \$2}" MemberID.csv ;;
+	esac
+}
+POST(){
+	curl -s -X POST $api1 -H "$header1" -H "$header2" -H "$header3" --data "$data" | jq ".content.$Type | map($jq | if (.picPath|contains(\",\")) then setpath([\"picPath\"];(.picPath/\",\")) else . end)" | sed 's/\/mediasource/https:\/\/source.48.cn&/g'
+}
+Filter(){
+	if [ -n "$liveType" ] ; then
+		temp=$(echo "$temp" | jq "map(select(.liveType == $liveType))")
+	fi
+	if [ -n "$format" ] ; then
+		temp=$(echo "$temp" | jq "map(select(.streamPath|contains(\".$format\")))")
+	fi
+	if [ -n "$Set" ] ; then
+		echo "$Set" | while read line ; do
+			memberName=$line
+			memberID=$(MemberID)
+			if [ -n "$memberID" ] ; then
+				temp2=$(echo "$temp" | jq "map(select(.memberId == $memberID))")
+				if [ $(echo "$temp2" | wc -l) -gt 1 ] ; then
+					if [ ! -f "$randomString2" ] ; then
+						echo "$temp2" >> "$randomString2"
+					else
+						sed -i '$d ; s/}$/&,/' "$randomString2"
+						echo "$temp2" | sed '1d' >> "$randomString2"
+					fi
+				fi
+			fi
+		done
+		if [ -f "$randomString2" ] ; then
+			temp=$(cat "$randomString2" | jq 'sort_by(.startTime.timeStamp) | reverse')
+			rm "$randomString2"
+		else
+			temp="[]"
+		fi
+	fi
+}
+Request(){
+	data="{"lastTime": $timeStamp, "groupId": $groupID, "memberId": $memberID, "limit": $limit}"
+	temp=$(POST)
+	Filter
+}
+MultipleRequests(){
+	Request
+	if [ $(echo "$temp" | wc -l) -eq 1 ] ; then
+		break
+	fi
+	sed -i '$d ; s/}$/&,/' "$randomString1"
+	echo "$temp" | sed '1d' >> "$randomString1"
 }
 if [ -f pocket48_version.conf ] ; then
 	now=$(date +%Y-%m-%dT%TZ | sed 's/^/"&/ ; s/$/&"/' | jq fromdate)
@@ -24,13 +80,6 @@ fi
 header1="Content-Type: application/json"
 header2="version: $version"
 header3="os: android"
-MemberID(){
-	case "$memberName" in
-		陈佳莹) echo "4" ;;
-		李娜) echo "407132" ;;
-		*) awk -F "," "\$1==\"$memberName\" {print \$2}" MemberID.csv ;;
-	esac
-}
 eval set -- "$GETOPT"
 while true ; do
 	case "$1" in
@@ -40,6 +89,10 @@ while true ; do
 		-g|--groupID) groupID="$2" ; shift 2 ;;
 		-m|--memberName) memberName="$2" ; shift 2 ;;
 		-L|--limit) limit="$2" ; shift 2 ;;
+		-T|--type) liveType="$2" ; shift 2 ;;
+		-f|--format) format="$2" ; shift 2 ;;
+		-d|--date) date="$2" ; shift 2 ;;
+		-M|--memberList) memberList="$2" ; shift 2 ;;
 		-n|--sum) sumOnly=true ; shift ;;
 		-N|--no-sum) noSum=true ; shift ;;
 		--) shift ; break ;;
@@ -55,15 +108,74 @@ fi
 if [ $limit == "all" ] ; then
 	limit=20000
 fi
-data="{"lastTime": $timeStamp, "groupId": $groupID, "memberId": $memberID, "limit": $limit}"
-jq="{title, subTitle: {raw: .subTitle, base64: (.subTitle|@base64)}, picPath, startTime: {timeStamp: .startTime, dateTime: (.startTime/1000+28800|todate)}, memberId, liveType, streamPath}"
-stdout=$(curl -s -X POST $api1 -H "$header1" -H "$header2" -H "$header3" --data "$data" | jq ".content.$Type | map($jq | if (.picPath|contains(\",\")) then setpath([\"picPath\"];(.picPath/\",\")) else . end)" | sed 's/\/mediasource/https:\/\/source.48.cn&/g')
-sum=$(echo "$stdout" | jq '.[] | .streamPath' | wc -l)
+if [ -n "$date" ] ; then
+	timeStamp=$(echo "$date" | sed 's/^/"&/ ; s/$/&T23:59:59Z"/' | jq '(fromdate-28800)*1000+1000')
+	beginTime=$(echo "$date" | sed 's/^/"&/ ; s/$/&T00:00:00Z"/' | jq '(fromdate-28800)*1000')
+	limit=70
+fi
+num=$limit
+if [ -n "$liveType" -o -n "$format" ] ; then
+	let "limit*=2"
+fi
+if [ -n "$memberList" ] ; then
+	case "$memberList" in
+		SII|NII|HII|X|Ft|预备生) gID=10 ; groupID=10 ;;
+		B|E|J) gID=20 ; groupID=11 ;;
+		G|NIII|Z|预备队) gID=30 ; groupID=12 ;;
+		SIII|HIII) gID=40 ; groupID=13 ;;
+		C|K) gID=50 ; groupID=14 ;;
+		*) isLocalList=true ;;
+	esac
+	if [ $memberList == "预备队" ] ; then
+		memberList="预备生"
+	fi
+	if [ ! $isLocalList ] ; then
+		api3="http://h5.snh48.com/resource/jsonp/members.php?gid=$gID"
+		Set=$(curl -s $api3 | jq ".rows[] | select(.tname == \"$memberList\") | select(.status == \"99\") | .sname" | sed 's/"//g')
+	else
+		Set=$(cat "$memberList")
+	fi
+fi
+Request
+if [ $Type == "liveList" ] ; then
+	stdout=$temp
+else
+	if [ ! -n "$date" ] ; then
+		sum=$(echo "$temp" | jq '.[] | .streamPath' | wc -l)
+		if [ $sum -ge $num ] ; then
+			stdout=$(echo "$temp" | jq ".[:$num]")
+		else
+			echo "$temp" >> "$randomString1"
+			while [ $sum -lt $num ] ; do
+				timeStamp=$(cat "$randomString1" | jq '.[] | .startTime.timeStamp' | tail -1)
+				MultipleRequests
+				sum=$(cat "$randomString1" | jq '.[] | .streamPath' | wc -l)
+			done
+			stdout=$(cat "$randomString1" | jq ".[:$num]")
+			rm "$randomString1"
+		fi
+	else
+		firstTime=$(echo "$temp" | jq '.[] | .startTime.timeStamp' | tail -1)
+		if [ $firstTime -le $beginTime ] ; then
+			stdout=$(echo "$temp" | jq "map(select(.startTime.timeStamp >= $beginTime))")
+		else
+			echo "$temp" >> "$randomString1"
+			while [ $firstTime -gt $beginTime ] ; do
+				timeStamp=$firstTime
+				MultipleRequests
+				firstTime=$(cat "$randomString1" | jq '.[] | .startTime.timeStamp' | tail -1)
+			done
+			stdout=$(cat "$randomString1" | jq "map(select(.startTime.timeStamp >= $beginTime))")
+			rm "$randomString1"
+		fi
+	fi
+fi
+num=$(echo "$stdout" | jq '.[] | .streamPath' | wc -l)
 if [ ! $sumOnly ] ; then
 	echo "$stdout"
 	if [ ! $noSum ] ; then
-		echo -e "\n$sum URL(s) found.\n"
+		echo -e "\n$num URL(s) found.\n"
 	fi
 else
-	echo "$sum"
+	echo "$num"
 fi
