@@ -5,10 +5,11 @@ memberID=0
 limit=20
 api1=https://plive.48.cn/livesystem/api/live/v1/memberLivePage
 api2=https://pother.48.cn/othersystem/api/version/v1/download/fansapp/android
-GETOPT=`getopt -o lrt:g:m:L:nNT:f:d:M: --long live,review,lastTime:,groupID:,memberName:,limit:,sum,no-sum,type:,format:,date:,memberList: -n 'exit' -- "$@"`
+GETOPT=`getopt -o lrt:g:m:L:nNT:f:d:M:q --long live,review,lastTime:,groupID:,memberName:,limit:,sum,no-sum,type:,format:,date:,memberList:,quiet -n 'exit' -- "$@"`
 randomString1=$(cat /proc/sys/kernel/random/uuid)
 randomString2=$(cat /proc/sys/kernel/random/uuid)
-jq="{title, subTitle: {raw: .subTitle, base64: (.subTitle|@base64)}, picPath, startTime: {timeStamp: .startTime, dateTime: (.startTime/1000+28800|todate)}, memberId, liveType, streamPath}"
+jq1="{title, subTitle: {raw: .subTitle, base64: (.subTitle|@base64)}, picPath, startTime: {timeStamp: .startTime, dateTime: (.startTime/1000+28800|todate)}, memberId, liveType, streamPath}"
+jq2="{title, subTitle: .subTitle.raw, startTime: .startTime.dateTime, streamPath}"
 LatestVersion(){
 	curl -sI $api2 | grep -Po '\d+\.\d+\.\d+' | tail -1 | tee pocket48_version.conf
 }
@@ -20,9 +21,10 @@ MemberID(){
 	esac
 }
 POST(){
-	curl -s -X POST $api1 -H "$header1" -H "$header2" -H "$header3" --data "$data" | jq ".content.$Type | map($jq | if (.picPath|contains(\",\")) then setpath([\"picPath\"];(.picPath/\",\")) else . end)" | sed 's/\/mediasource/https:\/\/source.48.cn&/g'
+	curl -s -X POST $api1 -H "$header1" -H "$header2" -H "$header3" --data "$data" | jq ".content.$Type | map($jq1 | if (.picPath|contains(\",\")) then setpath([\"picPath\"];(.picPath/\",\")) else . end)" | sed 's/\/mediasource/https:\/\/source.48.cn&/g'
 }
 Filter(){
+	timeStamp=$(echo "$temp" | jq '.[] | .startTime.timeStamp' | tail -1)
 	if [ -n "$liveType" ] ; then
 		temp=$(echo "$temp" | jq "map(select(.liveType == $liveType))")
 	fi
@@ -30,8 +32,7 @@ Filter(){
 		temp=$(echo "$temp" | jq "map(select(.streamPath|contains(\".$format\")))")
 	fi
 	if [ -n "$Set" ] ; then
-		echo "$Set" | while read line ; do
-			memberName=$line
+		echo "$Set" | while read memberName ; do
 			memberID=$(MemberID)
 			if [ -n "$memberID" ] ; then
 				temp2=$(echo "$temp" | jq "map(select(.memberId == $memberID))")
@@ -56,15 +57,17 @@ Filter(){
 Request(){
 	data="{"lastTime": $timeStamp, "groupId": $groupID, "memberId": $memberID, "limit": $limit}"
 	temp=$(POST)
-	Filter
 }
 MultipleRequests(){
 	Request
 	if [ $(echo "$temp" | wc -l) -eq 1 ] ; then
 		break
 	fi
-	sed -i '$d ; s/}$/&,/' "$randomString1"
-	echo "$temp" | sed '1d' >> "$randomString1"
+	Filter
+	if [ $(echo "$temp" | wc -l) -gt 1 ] ; then
+		sed -i '$d ; s/}$/&,/' "$randomString1"
+		echo "$temp" | sed '1d' >> "$randomString1"
+	fi
 }
 if [ -f pocket48_version.conf ] ; then
 	now=$(date +%Y-%m-%dT%TZ | sed 's/^/"&/ ; s/$/&"/' | jq fromdate)
@@ -91,8 +94,9 @@ while true ; do
 		-L|--limit) limit="$2" ; shift 2 ;;
 		-T|--type) liveType="$2" ; shift 2 ;;
 		-f|--format) format="$2" ; shift 2 ;;
-		-d|--date) date="$2" ; shift 2 ;;
 		-M|--memberList) memberList="$2" ; shift 2 ;;
+		-d|--date) date="$2" ; shift 2 ;;
+		-q|--quiet) quiet=true ; shift ;;
 		-n|--sum) sumOnly=true ; shift ;;
 		-N|--no-sum) noSum=true ; shift ;;
 		--) shift ; break ;;
@@ -137,6 +141,7 @@ if [ -n "$memberList" ] ; then
 	fi
 fi
 Request
+Filter
 if [ $Type == "liveList" ] ; then
 	stdout=$temp
 else
@@ -147,7 +152,6 @@ else
 		else
 			echo "$temp" >> "$randomString1"
 			while [ $sum -lt $num ] ; do
-				timeStamp=$(cat "$randomString1" | jq '.[] | .startTime.timeStamp' | tail -1)
 				MultipleRequests
 				sum=$(cat "$randomString1" | jq '.[] | .streamPath' | wc -l)
 			done
@@ -161,7 +165,6 @@ else
 		else
 			echo "$temp" >> "$randomString1"
 			while [ $firstTime -gt $beginTime ] ; do
-				timeStamp=$firstTime
 				MultipleRequests
 				firstTime=$(cat "$randomString1" | jq '.[] | .startTime.timeStamp' | tail -1)
 			done
@@ -169,6 +172,9 @@ else
 			rm "$randomString1"
 		fi
 	fi
+fi
+if [ $quiet ] ; then
+	stdout=$(echo "$stdout" | jq "map($jq2)")
 fi
 num=$(echo "$stdout" | jq '.[] | .streamPath' | wc -l)
 if [ ! $sumOnly ] ; then
