@@ -23,6 +23,10 @@ MemberID(){
 POST(){
 	curl -s -X POST $api1 -H "$header1" -H "$header2" -H "$header3" --data "$data" | jq ".content.$Type | map($jq1 | if (.picPath|contains(\",\")) then setpath([\"picPath\"];(.picPath/\",\")) else . end)" | sed 's/\/mediasource/https:\/\/source.48.cn&/g'
 }
+Merging(){
+	sed -i '$d ; s/}$/&,/' "$1"
+	echo "$2" | sed '1d' >> "$1"
+}
 Filter(){
 	timeStamp=$(echo "$temp" | jq '.[] | .startTime.timeStamp' | tail -1)
 	if [ -n "$liveType" ] ; then
@@ -40,14 +44,13 @@ Filter(){
 					if [ ! -f "$randomString2" ] ; then
 						echo "$temp2" >> "$randomString2"
 					else
-						sed -i '$d ; s/}$/&,/' "$randomString2"
-						echo "$temp2" | sed '1d' >> "$randomString2"
+						Merging "$randomString2" "$temp2"
 					fi
 				fi
 			fi
 		done
 		if [ -f "$randomString2" ] ; then
-			temp=$(cat "$randomString2" | jq 'sort_by(.startTime.timeStamp) | reverse')
+			temp=$(jq 'sort_by(.startTime.timeStamp) | reverse' "$randomString2")
 			rm "$randomString2"
 		else
 			temp="[]"
@@ -65,9 +68,12 @@ MultipleRequests(){
 	fi
 	Filter
 	if [ $(echo "$temp" | wc -l) -gt 1 ] ; then
-		sed -i '$d ; s/}$/&,/' "$randomString1"
-		echo "$temp" | sed '1d' >> "$randomString1"
+		Merging "$randomString1" "$temp"
 	fi
+}
+STDOUT(){
+	stdout=$(jq "$1" "$randomString1")
+	rm "$randomString1"
 }
 if [ -f pocket48_version.conf ] ; then
 	now=$(date +%Y-%m-%dT%TZ | sed 's/^/"&/ ; s/$/&"/' | jq fromdate)
@@ -115,13 +121,14 @@ fi
 if [ -n "$date" ] ; then
 	timeStamp=$(echo "$date" | sed 's/^/"&/ ; s/$/&T23:59:59Z"/' | jq '(fromdate-28800)*1000+1000')
 	beginTime=$(echo "$date" | sed 's/^/"&/ ; s/$/&T00:00:00Z"/' | jq '(fromdate-28800)*1000')
-	limit=70
+	limit=100
 fi
 num=$limit
 if [ -n "$liveType" -o -n "$format" ] ; then
 	let "limit*=2"
 fi
 if [ -n "$memberList" ] ; then
+	let "limit*=5"
 	case "$memberList" in
 		SII|NII|HII|X|Ft|预备生) gID=10 ; groupID=10 ;;
 		B|E|J) gID=20 ; groupID=11 ;;
@@ -135,7 +142,7 @@ if [ -n "$memberList" ] ; then
 	fi
 	if [ ! $isLocalList ] ; then
 		api3="http://h5.snh48.com/resource/jsonp/members.php?gid=$gID"
-		Set=$(curl -s $api3 | jq ".rows[] | select(.tname == \"$memberList\") | select(.status == \"99\") | .sname" | sed 's/"//g')
+		Set=$(curl -s $api3 | jq -r ".rows[] | select(.tname == \"$memberList\") | select(.status == \"99\") | .sname")
 	else
 		Set=$(cat "$memberList")
 	fi
@@ -153,10 +160,9 @@ else
 			echo "$temp" >> "$randomString1"
 			while [ $sum -lt $num ] ; do
 				MultipleRequests
-				sum=$(cat "$randomString1" | jq '.[] | .streamPath' | wc -l)
+				sum=$(jq '.[] | .streamPath' "$randomString1" | wc -l)
 			done
-			stdout=$(cat "$randomString1" | jq ".[:$num]")
-			rm "$randomString1"
+			STDOUT ".[:$num]"
 		fi
 	else
 		firstTime=$(echo "$temp" | jq '.[] | .startTime.timeStamp' | tail -1)
@@ -166,10 +172,9 @@ else
 			echo "$temp" >> "$randomString1"
 			while [ $firstTime -gt $beginTime ] ; do
 				MultipleRequests
-				firstTime=$(cat "$randomString1" | jq '.[] | .startTime.timeStamp' | tail -1)
+				firstTime=$(jq '.[] | .startTime.timeStamp' "$randomString1" | tail -1)
 			done
-			stdout=$(cat "$randomString1" | jq "map(select(.startTime.timeStamp >= $beginTime))")
-			rm "$randomString1"
+			STDOUT "map(select(.startTime.timeStamp >= $beginTime))"
 		fi
 	fi
 fi

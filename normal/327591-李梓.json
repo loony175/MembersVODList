@@ -10,6 +10,24 @@
       "https://source.48.cn/mediasource/live/1520691152834ulf13x5Fs4.jpg"
     ],
     "startTime": {
+      "timeStamp": 1522503251775,
+      "dateTime": "2018-03-31T21:34:11Z"
+    },
+    "memberId": 327591,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/68c0e035-e908-4c96-b2f2-f74adada3e6a.mp4"
+  },
+  {
+    "title": "李梓的电台（回放生成中）",
+    "subTitle": {
+      "raw": "阿梓桑的万事屋半小时放送",
+      "base64": "6Zi/5qKT5qGR55qE5LiH5LqL5bGL5Y2K5bCP5pe25pS+6YCB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1520691107825933OQB6F1f.jpg",
+      "https://source.48.cn/mediasource/live/1520691152834ulf13x5Fs4.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1521985393447,
       "dateTime": "2018-03-25T21:43:13Z"
     },

@@ -2,7 +2,8 @@ SNH48 Group所有能获取到的成员录播
 
 ## Requirement
 ```
-sudo apt update && sudo apt install -y jq
+sudo apt update && sudo apt install -y jq parallel
+parallel --bibtex
 ```
 
 ## Usage & Updating manually

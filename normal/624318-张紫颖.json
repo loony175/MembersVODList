@@ -5,6 +5,47 @@
       "raw": "聊天",
       "base64": "6IGK5aSp"
     },
+    "picPath": "https://source.48.cn/mediasource/live/15225907772588Dq7qdZLt5.jpg",
+    "startTime": {
+      "timeStamp": 1522590777634,
+      "dateTime": "2018-04-01T21:52:57Z"
+    },
+    "memberId": 624318,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/5f9305be-0810-44a0-81aa-d630891ca8aa.mp4"
+  },
+  {
+    "title": "张紫颖的电台（回放生成中）",
+    "subTitle": {
+      "raw": "聊天",
+      "base64": "6IGK5aSp"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1522506822270WAIyJBKkKw.jpg",
+      "https://source.48.cn/mediasource/live/15225068224437qW424PaZl.jpg",
+      "https://source.48.cn/mediasource/live/1522506822570xXJGe8Zo4k.jpg",
+      "https://source.48.cn/mediasource/live/1522506822692dpTybL0P93.jpg",
+      "https://source.48.cn/mediasource/live/1522506822811dqdbgvngXR.jpg",
+      "https://source.48.cn/mediasource/live/15225068229359TDY8JEG4u.jpg",
+      "https://source.48.cn/mediasource/live/1522506823036dT4sI1tc3y.jpg",
+      "https://source.48.cn/mediasource/live/1522506823136fTiA49408Q.jpg",
+      "https://source.48.cn/mediasource/live/1522506823253d90621G1FY.jpg",
+      "https://source.48.cn/mediasource/live/15225068233749iXWb0S8u4.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1522506823510,
+      "dateTime": "2018-03-31T22:33:43Z"
+    },
+    "memberId": 624318,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/8af42097-982b-4eb5-a266-f0da8283a1e1.mp4"
+  },
+  {
+    "title": "张紫颖的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "聊天",
+      "base64": "6IGK5aSp"
+    },
     "picPath": "https://source.48.cn/mediasource/live/15214639507356196dfySti.jpg",
     "startTime": {
       "timeStamp": 1522249048013,

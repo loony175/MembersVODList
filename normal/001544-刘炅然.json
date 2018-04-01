@@ -2,6 +2,21 @@
   {
     "title": "刘炅然的直播间（回放生成中）",
     "subTitle": {
+      "raw": "Hello",
+      "base64": "SGVsbG8="
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1522508522289NYoBg20x43.jpg",
+    "startTime": {
+      "timeStamp": 1522508731017,
+      "dateTime": "2018-03-31T23:05:31Z"
+    },
+    "memberId": 1544,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/c415c6aa-e110-4406-b6b2-242a537dd7f4.mp4"
+  },
+  {
+    "title": "刘炅然的直播间（回放生成中）",
+    "subTitle": {
       "raw": "嗯嗯",
       "base64": "5Zev5Zev"
     },
