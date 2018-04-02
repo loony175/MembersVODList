@@ -3,18 +3,17 @@ echo "Downloading JSON file from Koudai48 API..."
 ./pkt48 -r -L all -N >> temp.json
 memberId=$(awk -F "," '{print $2}' MemberID.csv | tail -n +2)
 Do(){
-	line=$1
-	memberName=$(awk -F "," "\$2==\"$line\" {print \$1}" MemberID.csv)
-	memberID=$(echo $line | awk '{printf("%06d\n",$1)}')
+	memberName=$(awk -F "," "\$2==\"$1\" {print \$1}" MemberID.csv)
+	memberID=$(echo $1 | awk '{printf("%06d\n",$1)}')
 	filename1="$memberID-$memberName.json"
 	filename2="$memberID-$memberName.txt"
-	jq "map(select(.memberId == $line))" temp.json > "../normal/$filename1"
+	jq "map(select(.memberId == $1))" temp.json > "../normal/$filename1"
 	sum=$(jq '.[] | .streamPath' "../normal/$filename1" | wc -l)
 	echo "[normal] $sum URL(s) written in ../normal/$filename1"
 	jq '.[] | {(.startTime.dateTime): .streamPath}' "../normal/$filename1" | grep -Po '"[^{|}]*' > "../quiet/$filename2"
-	echo "[quiet]  $sum URL(s) written in ../quiet/$filename2"
+	echo "[quiet] $sum URL(s) written in ../quiet/$filename2"
 }
 export -f Do
-echo "$memberId" | parallel Do
+parallel -k Do ::: "$memberId"
 echo "Cleaning up..."
 rm temp.json
