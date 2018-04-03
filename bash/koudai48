@@ -1,4 +1,14 @@
 #!/bin/bash
+thread=$(grep processor /proc/cpuinfo | wc -l)
+GETOPT=`getopt -o j: --long job: -n 'exit' -- "$@"`
+eval set -- "$GETOPT"
+while true ; do
+	case "$1" in
+		-j|--job) thread="$2" ; shift 2 ;;
+		--) shift ; break ;;
+		*) exit 1 ;;
+	esac
+done
 echo "Downloading JSON file from Koudai48 API..."
 ./pkt48 -r -L all -N >> temp.json
 memberId=$(awk -F "," '{print $2}' MemberID.csv | tail -n +2)
@@ -14,6 +24,6 @@ Do(){
 	echo "[quiet] $sum URL(s) written in ../quiet/$filename2"
 }
 export -f Do
-parallel -k Do ::: "$memberId"
+parallel -j "$thread" -k Do ::: "$memberId"
 echo "Cleaning up..."
 rm temp.json
