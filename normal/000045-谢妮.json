@@ -2,6 +2,21 @@
   {
     "title": "谢妮的直播间（回放生成中）",
     "subTitle": {
+      "raw": "直播",
+      "base64": "55u05pKt"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1523264849263XP75fHIijK.jpg",
+    "startTime": {
+      "timeStamp": 1523264849522,
+      "dateTime": "2018-04-09T17:07:29Z"
+    },
+    "memberId": 45,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/c5ebc286-321a-4cab-932a-048639e03a1d.mp4"
+  },
+  {
+    "title": "谢妮的直播间（回放生成中）",
+    "subTitle": {
       "raw": "真滴很久没直播了",
       "base64": "55yf5ru05b6I5LmF5rKh55u05pKt5LqG"
     },
