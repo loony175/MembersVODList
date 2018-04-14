@@ -7,6 +7,42 @@
     },
     "picPath": "https://source.48.cn/mediasource/live/15224203573451zt8Iy6h7S.jpg",
     "startTime": {
+      "timeStamp": 1523710535748,
+      "dateTime": "2018-04-14T20:55:35Z"
+    },
+    "memberId": 480668,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/58294752-0632-4d83-9403-de5a6aeb1445.mp4"
+  },
+  {
+    "title": "李晴的电台（回放生成中）",
+    "subTitle": {
+      "raw": "开始直播‘",
+      "base64": "5byA5aeL55u05pKt4oCY"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1514046963524deCCucfX35.jpg",
+      "https://source.48.cn/mediasource/live/152353970370974d64ZEaBT.jpg",
+      "https://source.48.cn/mediasource/live/152353970389489YV23Aa84.jpg",
+      "https://source.48.cn/mediasource/live/1523539704075CQkCe3381C.jpg",
+      "https://source.48.cn/mediasource/live/152353970427905iMTABuhM.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1523539704624,
+      "dateTime": "2018-04-12T21:28:24Z"
+    },
+    "memberId": 480668,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/df35b448-e667-4695-9bee-d4d0c5f2f0db.mp4"
+  },
+  {
+    "title": "李晴的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "啵",
+      "base64": "5ZW1"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/15224203573451zt8Iy6h7S.jpg",
+    "startTime": {
       "timeStamp": 1522420357625,
       "dateTime": "2018-03-30T22:32:37Z"
     },

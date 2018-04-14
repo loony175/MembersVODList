@@ -14,6 +14,28 @@
       "https://source.48.cn/mediasource/live/15234498618954Qk5g86mXs.jpg"
     ],
     "startTime": {
+      "timeStamp": 1523537054888,
+      "dateTime": "2018-04-12T20:44:14Z"
+    },
+    "memberId": 623828,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/4b8679de-02d9-4d00-ac6c-3813b1d5acb3.mp4"
+  },
+  {
+    "title": "李娜(三期生)的电台（回放生成中）",
+    "subTitle": {
+      "raw": "李糖豆的留声机",
+      "base64": "5p2O57OW6LGG55qE55WZ5aOw5py6"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1521986627207HRaHW3ALrb.jpg",
+      "https://source.48.cn/mediasource/live/15234498611353c80172na1.jpg",
+      "https://source.48.cn/mediasource/live/152344986131992qu4QCe5g.jpg",
+      "https://source.48.cn/mediasource/live/1523449861428La1pCFe3J0.jpg",
+      "https://source.48.cn/mediasource/live/1523449861667IP2gMH6skO.jpg",
+      "https://source.48.cn/mediasource/live/15234498618954Qk5g86mXs.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1523449862158,
       "dateTime": "2018-04-11T20:31:02Z"
     },
