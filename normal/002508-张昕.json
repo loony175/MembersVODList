@@ -2,6 +2,21 @@
   {
     "title": "张昕的直播间（回放生成中）",
     "subTitle": {
+      "raw": "hi",
+      "base64": "aGk="
+    },
+    "picPath": "https://source.48.cn/mediasource/live/15244107472619w3LF8BW0f.jpg",
+    "startTime": {
+      "timeStamp": 1524410910472,
+      "dateTime": "2018-04-22T23:28:30Z"
+    },
+    "memberId": 2508,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/9c438323-89ec-4b1d-9a6d-14fc272d460a.mp4"
+  },
+  {
+    "title": "张昕的直播间（回放生成中）",
+    "subTitle": {
       "raw": "10min",
       "base64": "MTBtaW4="
     },

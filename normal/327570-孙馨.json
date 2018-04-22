@@ -2,6 +2,66 @@
   {
     "title": "孙馨的直播间（回放生成中）",
     "subTitle": {
+      "raw": "一周一播",
+      "base64": "5LiA5ZGo5LiA5pKt"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1524319417226Z5h0m50ex4.png",
+    "startTime": {
+      "timeStamp": 1524319417102,
+      "dateTime": "2018-04-21T22:03:37Z"
+    },
+    "memberId": 327570,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/ed627e1b-d2bc-4569-add3-4ed6a2a49bd6.mp4"
+  },
+  {
+    "title": "孙馨的电台（回放生成中）",
+    "subTitle": {
+      "raw": "夜间校园点歌台",
+      "base64": "5aSc6Ze05qCh5Zut54K55q2M5Y+w"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15242295301365G27EG47e7.jpg",
+      "https://source.48.cn/mediasource/live/1524229530383TZTH6469rO.jpg",
+      "https://source.48.cn/mediasource/live/1524229530579kUge3N73Sv.jpg",
+      "https://source.48.cn/mediasource/live/1524229530796tY260CO2af.jpg",
+      "https://source.48.cn/mediasource/live/15242295309690nv51db0QR.png",
+      "https://source.48.cn/mediasource/live/1524229531110WZP8V2WP97.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1524229530921,
+      "dateTime": "2018-04-20T21:05:30Z"
+    },
+    "memberId": 327570,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/024ff5c3-b7de-4b55-8314-b8ff6f8f9485.mp4"
+  },
+  {
+    "title": "孙馨的电台（回放生成中）",
+    "subTitle": {
+      "raw": "校园电台",
+      "base64": "5qCh5Zut55S15Y+w"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1524053755890654Ul8ljo2.jpg",
+      "https://source.48.cn/mediasource/live/15240537560568726OJDT1C.jpg",
+      "https://source.48.cn/mediasource/live/1524053756243lys0J5CdSm.png",
+      "https://source.48.cn/mediasource/live/1524053756523HDSKqNd8V3.jpg",
+      "https://source.48.cn/mediasource/live/1524053756849iOVBdyyyk8.jpg",
+      "https://source.48.cn/mediasource/live/15240537571073i40PJP7wD.png",
+      "https://source.48.cn/mediasource/live/1524053757243PvLJR831B6.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1524053757431,
+      "dateTime": "2018-04-18T20:15:57Z"
+    },
+    "memberId": 327570,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/0ab1e345-cd89-48bc-876b-905071cf3f5a.mp4"
+  },
+  {
+    "title": "孙馨的直播间（回放生成中）",
+    "subTitle": {
       "raw": "我最喜欢你们啦~",
       "base64": "5oiR5pyA5Zac5qyi5L2g5Lus5ZWmfg=="
     },
