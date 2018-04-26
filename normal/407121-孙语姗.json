@@ -2,6 +2,39 @@
   {
     "title": "孙语姗的直播间（回放生成中）",
     "subTitle": {
+      "raw": "在地铁…",
+      "base64": "5Zyo5Zyw6ZOB4oCm"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1522748258414DekQ5qL02e.jpg",
+    "startTime": {
+      "timeStamp": 1524665485132,
+      "dateTime": "2018-04-25T22:11:25Z"
+    },
+    "memberId": 407121,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/001Lp0ffjx07jYypa7vy070d010002fO0k01.m3u8"
+  },
+  {
+    "title": "孙语姗的电台（回放生成中）",
+    "subTitle": {
+      "raw": "qiu—",
+      "base64": "cWl14oCU"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1524493421717xFsO8V501w.jpg",
+      "https://source.48.cn/mediasource/live/1524493421828wlz2W828rU.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1524493422066,
+      "dateTime": "2018-04-23T22:23:42Z"
+    },
+    "memberId": 407121,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/477a9820-7983-41d0-8139-e9b283cb3231.mp4"
+  },
+  {
+    "title": "孙语姗的直播间（回放生成中）",
+    "subTitle": {
       "raw": "直播",
       "base64": "55u05pKt"
     },

@@ -14,6 +14,28 @@
       "https://source.48.cn/mediasource/live/1524063646548vAfFWVLrFl.jpg"
     ],
     "startTime": {
+      "timeStamp": 1524672104387,
+      "dateTime": "2018-04-26T00:01:44Z"
+    },
+    "memberId": 327573,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/fc4b49e4-31dc-4c80-9bff-98b2eecae2ff.mp4"
+  },
+  {
+    "title": "肖文铃的电台（回放生成中）",
+    "subTitle": {
+      "raw": "日常甜",
+      "base64": "5pel5bi455Sc"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15240636454628I9KEL2WjD.jpg",
+      "https://source.48.cn/mediasource/live/1524063645780SPhYT6zsaP.jpg",
+      "https://source.48.cn/mediasource/live/15240636460074WF0T0uw30.jpg",
+      "https://source.48.cn/mediasource/live/15240636461861aocRm1g2g.jpg",
+      "https://source.48.cn/mediasource/live/1524063646386NA6rks1Cy2.jpg",
+      "https://source.48.cn/mediasource/live/1524063646548vAfFWVLrFl.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1524063646796,
       "dateTime": "2018-04-18T23:00:46Z"
     },
