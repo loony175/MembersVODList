@@ -16,6 +16,30 @@
       "https://source.48.cn/mediasource/live/1524492819997a29wcH55Z8.jpg"
     ],
     "startTime": {
+      "timeStamp": 1524931062143,
+      "dateTime": "2018-04-28T23:57:42Z"
+    },
+    "memberId": 480668,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/2a35d0aa-b283-4dbf-9e1c-b5695e4642d0.mp4"
+  },
+  {
+    "title": "李晴的电台（回放生成中）",
+    "subTitle": {
+      "raw": "开始直播‘",
+      "base64": "5byA5aeL55u05pKt4oCY"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1514046963524deCCucfX35.jpg",
+      "https://source.48.cn/mediasource/live/1524492818700N5vF4LyJx6.jpg",
+      "https://source.48.cn/mediasource/live/1524492818892NnL0Dcd581.jpg",
+      "https://source.48.cn/mediasource/live/15244928190827HV8781Gwj.jpg",
+      "https://source.48.cn/mediasource/live/1524492819249ZL0615zZ4S.jpg",
+      "https://source.48.cn/mediasource/live/1524492819464eDtdPa6Q13.jpg",
+      "https://source.48.cn/mediasource/live/1524492819739g13w0In9Z7.jpg",
+      "https://source.48.cn/mediasource/live/1524492819997a29wcH55Z8.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1524492820350,
       "dateTime": "2018-04-23T22:13:40Z"
     },
