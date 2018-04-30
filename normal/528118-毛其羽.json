@@ -10,6 +10,69 @@
       "https://source.48.cn/mediasource/live/1524917227841O153i93Y7M.jpg"
     ],
     "startTime": {
+      "timeStamp": 1525025284257,
+      "dateTime": "2018-04-30T02:08:04Z"
+    },
+    "memberId": 528118,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/ee03b735-98b5-4111-93e0-0f36a2adecc4.mp4"
+  },
+  {
+    "title": "毛其羽的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "429",
+      "base64": "NDI5"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1524316091436ipFCmLdAB7.jpg",
+    "startTime": {
+      "timeStamp": 1525025074613,
+      "dateTime": "2018-04-30T02:04:34Z"
+    },
+    "memberId": 528118,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/45225a57-e4ed-4d58-af2c-b2d1713416b9.mp4"
+  },
+  {
+    "title": "毛其羽的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "429",
+      "base64": "NDI5"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1524316091436ipFCmLdAB7.jpg",
+    "startTime": {
+      "timeStamp": 1525024331179,
+      "dateTime": "2018-04-30T01:52:11Z"
+    },
+    "memberId": 528118,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/ca11baa0-25ef-48c9-ab1d-14f246b22226.mp4"
+  },
+  {
+    "title": "毛其羽的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "429",
+      "base64": "NDI5"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1524316091436ipFCmLdAB7.jpg",
+    "startTime": {
+      "timeStamp": 1525023335164,
+      "dateTime": "2018-04-30T01:35:35Z"
+    },
+    "memberId": 528118,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/04c4894d-16cd-41f1-b692-b0d187291727.mp4"
+  },
+  {
+    "title": "毛其羽的电台（回放生成中）",
+    "subTitle": {
+      "raw": "一小會",
+      "base64": "5LiA5bCP5pyD"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1524917227667Tq4Dh031x7.jpg",
+      "https://source.48.cn/mediasource/live/1524917227841O153i93Y7M.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1524917228013,
       "dateTime": "2018-04-28T20:07:08Z"
     },

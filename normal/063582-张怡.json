@@ -2,6 +2,21 @@
   {
     "title": "张怡的直播间（回放生成中）",
     "subTitle": {
+      "raw": "Hello朋友们",
+      "base64": "SGVsbG/mnIvlj4vku6w="
+    },
+    "picPath": "https://source.48.cn/mediasource/live/152259397539268b55Ifhhu.jpg",
+    "startTime": {
+      "timeStamp": 1525014245647,
+      "dateTime": "2018-04-29T23:04:05Z"
+    },
+    "memberId": 63582,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/a7ae2a28-5071-4647-aa93-a875cb7afc4a.mp4"
+  },
+  {
+    "title": "张怡的直播间（回放生成中）",
+    "subTitle": {
       "raw": "晚上好呀～",
       "base64": "5pma5LiK5aW95ZGA772e"
     },
