@@ -2,6 +2,21 @@
   {
     "title": "张语格的直播间（回放生成中）",
     "subTitle": {
+      "raw": "liao liao tian ya",
+      "base64": "bGlhb+KAhmxpYW/igIZ0aWFu4oCGeWE="
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1525087173923X2AmhjN12h.jpg",
+    "startTime": {
+      "timeStamp": 1525087174158,
+      "dateTime": "2018-04-30T19:19:34Z"
+    },
+    "memberId": 1,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/91a0ade5-eca0-40ab-86c2-fd15d6523494.mp4"
+  },
+  {
+    "title": "张语格的直播间（回放生成中）",
+    "subTitle": {
       "raw": "闲暇时刻。",
       "base64": "6Zey5pqH5pe25Yi744CC"
     },

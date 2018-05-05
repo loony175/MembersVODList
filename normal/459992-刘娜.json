@@ -7,6 +7,47 @@
     },
     "picPath": "https://source.48.cn/mediasource/live/15250014297674be1508Zdz.jpg",
     "startTime": {
+      "timeStamp": 1525177989235,
+      "dateTime": "2018-05-01T20:33:09Z"
+    },
+    "memberId": 459992,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/002pnZRrjx07k81k7yIw070d010001ao0k01.m3u8"
+  },
+  {
+    "title": "刘娜的电台（回放生成中）",
+    "subTitle": {
+      "raw": "啦啦啦",
+      "base64": "5ZWm5ZWm5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1525101014310PiS7JD2Lhj.jpg",
+      "https://source.48.cn/mediasource/live/1525101014526mP31bkU54E.jpg",
+      "https://source.48.cn/mediasource/live/1525101014724RpAw6De221.jpg",
+      "https://source.48.cn/mediasource/live/1525101014942Tk4xE86mYj.jpg",
+      "https://source.48.cn/mediasource/live/152510101513036NLZ6Sv8y.jpg",
+      "https://source.48.cn/mediasource/live/15251010153537T8q0hwY06.jpg",
+      "https://source.48.cn/mediasource/live/15251010155427q4Y4mcpSf.jpg",
+      "https://source.48.cn/mediasource/live/1525101015771e0os9CW8O2.jpg",
+      "https://source.48.cn/mediasource/live/1525101015975b3U38E64QO.jpg",
+      "https://source.48.cn/mediasource/live/1525101016161y5OtD2z411.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1525101016327,
+      "dateTime": "2018-04-30T23:10:16Z"
+    },
+    "memberId": 459992,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/a30da0fe-f74c-4355-8654-55038e11233d.mp4"
+  },
+  {
+    "title": "刘娜的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "珍惜一周一次的直播",
+      "base64": "54+N5oOc5LiA5ZGo5LiA5qyh55qE55u05pKt"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/15250014297674be1508Zdz.jpg",
+    "startTime": {
       "timeStamp": 1525001430388,
       "dateTime": "2018-04-29T19:30:30Z"
     },
