@@ -18,6 +18,32 @@
       "https://source.48.cn/mediasource/live/1525273044601AY72SGluZ3.jpg"
     ],
     "startTime": {
+      "timeStamp": 1525620520112,
+      "dateTime": "2018-05-06T23:28:40Z"
+    },
+    "memberId": 624318,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/4fa60562-f957-4be6-acbc-98556c60bb2a.mp4"
+  },
+  {
+    "title": "张紫颖的电台（回放生成中）",
+    "subTitle": {
+      "raw": "聊天",
+      "base64": "6IGK5aSp"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15251013687787HGv0a0I44.jpg",
+      "https://source.48.cn/mediasource/live/1525273043419Vpad7JL2IL.jpg",
+      "https://source.48.cn/mediasource/live/15252730435764Lrx0E7VE1.jpg",
+      "https://source.48.cn/mediasource/live/1525273043719wf15wcizal.jpg",
+      "https://source.48.cn/mediasource/live/1525273043829biOshAgwVy.jpg",
+      "https://source.48.cn/mediasource/live/1525273043986LVtTL0Tka9.jpg",
+      "https://source.48.cn/mediasource/live/1525273044105L77d82rbkq.jpg",
+      "https://source.48.cn/mediasource/live/1525273044286IjvI23sHn0.jpg",
+      "https://source.48.cn/mediasource/live/1525273044423n78VjM2aHH.jpg",
+      "https://source.48.cn/mediasource/live/1525273044601AY72SGluZ3.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1525446639437,
       "dateTime": "2018-05-04T23:10:39Z"
     },

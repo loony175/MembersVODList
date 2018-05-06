@@ -1,5 +1,20 @@
 [
   {
+    "title": "臧聪的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "一个",
+      "base64": "5LiA5Liq"
+    },
+    "picPath": "https://source.48.cn/mediasource/live/1523713468131rYbTQR5zlp.png",
+    "startTime": {
+      "timeStamp": 1525532922625,
+      "dateTime": "2018-05-05T23:08:42Z"
+    },
+    "memberId": 530381,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/b63e3b4f-8478-4d46-b1e1-f64f4e88c4d9.mp4"
+  },
+  {
     "title": "臧聪的电台（回放生成中）",
     "subTitle": {
       "raw": "确认过眼神",
@@ -22,21 +37,6 @@
     "memberId": 530381,
     "liveType": 2,
     "streamPath": "https://mp4.48.cn/live/835a8b32-44d6-485d-b3da-5faad808a511.mp4"
-  },
-  {
-    "title": "臧聪的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "一个",
-      "base64": "5LiA5Liq"
-    },
-    "picPath": "https://source.48.cn/mediasource/live/1523713468131rYbTQR5zlp.png",
-    "startTime": {
-      "timeStamp": 1524322243480,
-      "dateTime": "2018-04-21T22:50:43Z"
-    },
-    "memberId": 530381,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/9845d3d2-7387-4d9c-934f-aabfff78de3b.mp4"
   },
   {
     "title": "臧聪的直播间（回放生成中）",
