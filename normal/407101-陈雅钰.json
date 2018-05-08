@@ -5,7 +5,9 @@
       "raw": "BEJ48-陈雅钰的一直播",
       "base64": "QkVKNDgt6ZmI6ZuF6ZKw55qE5LiA55u05pKt"
     },
-    "picPath": "https://source.48.cn/mediasource/live/1524837482659158zxC5yzV.png",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1524837482659158zxC5yzV.png"
+    ],
     "startTime": {
       "timeStamp": 1525541774127,
       "dateTime": "2018-05-06T01:36:14Z"

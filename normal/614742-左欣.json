@@ -5,7 +5,9 @@
       "raw": "聊聊日常",
       "base64": "6IGK6IGK5pel5bi4"
     },
-    "picPath": "https://source.48.cn/mediasource/live/15153244165891jdgHI1pfs.png",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15153244165891jdgHI1pfs.png"
+    ],
     "startTime": {
       "timeStamp": 1515324439401,
       "dateTime": "2018-01-07T19:27:19Z"
@@ -20,7 +22,9 @@
       "raw": "嘻嘻嘻 😁",
       "base64": "5Zi75Zi75Zi7IPCfmIE="
     },
-    "picPath": "https://source.48.cn/mediasource/live/1514810185073oaML1MEl99.png",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1514810185073oaML1MEl99.png"
+    ],
     "startTime": {
       "timeStamp": 1514810185451,
       "dateTime": "2018-01-01T20:36:25Z"

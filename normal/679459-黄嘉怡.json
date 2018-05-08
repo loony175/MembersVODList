@@ -62,7 +62,9 @@
       "raw": "嗨呀",
       "base64": "5Zeo5ZGA"
     },
-    "picPath": "https://source.48.cn/mediasource/live/1524404363262736E7471if.png",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1524404363262736E7471if.png"
+    ],
     "startTime": {
       "timeStamp": 1524404363489,
       "dateTime": "2018-04-22T21:39:23Z"
@@ -96,7 +98,9 @@
       "raw": "嗨呀",
       "base64": "5Zeo5ZGA"
     },
-    "picPath": "https://source.48.cn/mediasource/live/1523622676534mueBuycON5.png",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1523622676534mueBuycON5.png"
+    ],
     "startTime": {
       "timeStamp": 1523622676833,
       "dateTime": "2018-04-13T20:31:16Z"

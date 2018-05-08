@@ -5,7 +5,9 @@
       "raw": "哈哈哈哈哈哈哈哈",
       "base64": "5ZOI5ZOI5ZOI5ZOI5ZOI5ZOI5ZOI5ZOI"
     },
-    "picPath": "https://source.48.cn/mediasource/avatar/407077.jpg",
+    "picPath": [
+      "https://source.48.cn/mediasource/avatar/407077.jpg"
+    ],
     "startTime": {
       "timeStamp": 1482663571604,
       "dateTime": "2016-12-25T18:59:31Z"

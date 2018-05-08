@@ -5,7 +5,9 @@
       "raw": "我胡汉三又回来了",
       "base64": "5oiR6IOh5rGJ5LiJ5Y+I5Zue5p2l5LqG"
     },
-    "picPath": "https://source.48.cn/mediasource/live/15050353522424sn9PQhi0B.JPG",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15050353522424sn9PQhi0B.JPG"
+    ],
     "startTime": {
       "timeStamp": 1505037651543,
       "dateTime": "2017-09-10T18:00:51Z"

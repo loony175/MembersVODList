@@ -5,7 +5,9 @@
       "raw": "CKG48 Team K出道首演全员直播",
       "base64": "Q0tHNDggVGVhbSBL5Ye66YGT6aaW5ryU5YWo5ZGY55u05pKt"
     },
-    "picPath": "https://source.48.cn/mediasource/live/15097881977100i09wh5c2a.jpg",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15097881977100i09wh5c2a.jpg"
+    ],
     "startTime": {
       "timeStamp": 1509788197844,
       "dateTime": "2017-11-04T17:36:37Z"
@@ -20,7 +22,9 @@
       "raw": "CKG48 Team C出道首演全员直播",
       "base64": "Q0tHNDggVGVhbSBD5Ye66YGT6aaW5ryU5YWo5ZGY55u05pKt"
     },
-    "picPath": "https://source.48.cn/mediasource/live/15097223519914fSwg3wEe3.jpg",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15097223519914fSwg3wEe3.jpg"
+    ],
     "startTime": {
       "timeStamp": 1509722352207,
       "dateTime": "2017-11-03T23:19:12Z"

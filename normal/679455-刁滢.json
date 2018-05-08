@@ -5,7 +5,9 @@
       "raw": "来玩",
       "base64": "5p2l546p"
     },
-    "picPath": "https://source.48.cn/mediasource/profile_icon.png",
+    "picPath": [
+      "https://source.48.cn/mediasource/profile_icon.png"
+    ],
     "startTime": {
       "timeStamp": 1525515938931,
       "dateTime": "2018-05-05T18:25:38Z"
@@ -20,7 +22,9 @@
       "raw": "晚上好",
       "base64": "5pma5LiK5aW9"
     },
-    "picPath": "https://source.48.cn/mediasource/profile_icon.png",
+    "picPath": [
+      "https://source.48.cn/mediasource/profile_icon.png"
+    ],
     "startTime": {
       "timeStamp": 1524914577800,
       "dateTime": "2018-04-28T19:22:57Z"
@@ -153,7 +157,9 @@
       "raw": "聊天",
       "base64": "6IGK5aSp"
     },
-    "picPath": "https://source.48.cn/mediasource/profile_icon.png",
+    "picPath": [
+      "https://source.48.cn/mediasource/profile_icon.png"
+    ],
     "startTime": {
       "timeStamp": 1524322623855,
       "dateTime": "2018-04-21T22:57:03Z"
@@ -168,7 +174,9 @@
       "raw": "聊天",
       "base64": "6IGK5aSp"
     },
-    "picPath": "https://source.48.cn/mediasource/profile_icon.png",
+    "picPath": [
+      "https://source.48.cn/mediasource/profile_icon.png"
+    ],
     "startTime": {
       "timeStamp": 1524317345751,
       "dateTime": "2018-04-21T21:29:05Z"

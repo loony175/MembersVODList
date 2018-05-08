@@ -5,7 +5,9 @@
       "raw": "啦啦啦啦啦。我来了",
       "base64": "5ZWm5ZWm5ZWm5ZWm5ZWm44CC5oiR5p2l5LqG"
     },
-    "picPath": "http://www.bej48.com/images/member/zp_20017.jpg?ram=1514204959335",
+    "picPath": [
+      "http://www.bej48.com/images/member/zp_20017.jpg?ram=1514204959335"
+    ],
     "startTime": {
       "timeStamp": 1523634151525,
       "dateTime": "2018-04-13T23:42:31Z"

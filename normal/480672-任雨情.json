@@ -5,7 +5,9 @@
       "raw": "十九岁了 !",
       "base64": "5Y2B5Lmd5bKB5LqGICE="
     },
-    "picPath": "https://source.48.cn/mediasource/live/1509879138739gtDArJ12G1.png",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1509879138739gtDArJ12G1.png"
+    ],
     "startTime": {
       "timeStamp": 1509879138986,
       "dateTime": "2017-11-05T18:52:18Z"

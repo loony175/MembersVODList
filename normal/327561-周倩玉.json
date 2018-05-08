@@ -5,7 +5,9 @@
       "raw": "hii我回来了",
       "base64": "aGlp5oiR5Zue5p2l5LqG"
     },
-    "picPath": "https://source.48.cn/mediasource/liveAction/avatar/e37c6e41-048b-416a-9c37-7aaab7711537.png",
+    "picPath": [
+      "https://source.48.cn/mediasource/liveAction/avatar/e37c6e41-048b-416a-9c37-7aaab7711537.png"
+    ],
     "startTime": {
       "timeStamp": 1487047612974,
       "dateTime": "2017-02-14T12:46:52Z"

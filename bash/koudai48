@@ -32,7 +32,7 @@ while true ; do
 	esac
 done
 echo "Downloading JSON file from Koudai48 API..."
-curl -s -X POST $api1 -H "$header1" -H "$header2" -H "$header3" --data "$data" | jq ".content.reviewList | map($jq | if (.picPath|contains(\",\")) then setpath([\"picPath\"];(.picPath/\",\")) else . end)" | sed 's/\/mediasource/https:\/\/source.48.cn&/g' >> "$randomString"
+curl -s -X POST $api1 -H "$header1" -H "$header2" -H "$header3" --data "$data" | jq ".content.reviewList | map($jq | setpath([\"picPath\"];(.picPath/\",\")))" | sed 's/\/mediasource/https:\/\/source.48.cn&/g' >> "$randomString"
 memberId=$(awk -F "," '{print $2}' MemberID.csv | tail -n +2)
 Do(){
 	memberName=$(awk -F "," "\$2==\"$1\" {print \$1}" MemberID.csv)

@@ -5,7 +5,9 @@
       "raw": "来呀来呀",
       "base64": "5p2l5ZGA5p2l5ZGA"
     },
-    "picPath": "https://source.48.cn/mediasource/live/15057415657342z96sgAA9e.jpg",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15057415657342z96sgAA9e.jpg"
+    ],
     "startTime": {
       "timeStamp": 1515247799569,
       "dateTime": "2018-01-06T22:09:59Z"

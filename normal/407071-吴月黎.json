@@ -5,7 +5,9 @@
       "raw": "欠的双皮奶\n",
       "base64": "5qyg55qE5Y+M55qu5aW2Cg=="
     },
-    "picPath": "https://source.48.cn/mediasource/live/904ab23a-1f0a-422d-95b7-478af5f4bf63.jpg",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/904ab23a-1f0a-422d-95b7-478af5f4bf63.jpg"
+    ],
     "startTime": {
       "timeStamp": 1494855952684,
       "dateTime": "2017-05-15T21:45:52Z"

@@ -131,7 +131,9 @@
       "raw": "hello～",
       "base64": "aGVsbG/vvZ4="
     },
-    "picPath": "https://source.48.cn/mediasource/live/151359845834141q75iaPPt.jpg",
+    "picPath": [
+      "https://source.48.cn/mediasource/live/151359845834141q75iaPPt.jpg"
+    ],
     "startTime": {
       "timeStamp": 1513598458965,
       "dateTime": "2017-12-18T20:00:58Z"
