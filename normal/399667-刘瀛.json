@@ -2,6 +2,23 @@
   {
     "title": "刘瀛的直播间（回放生成中）",
     "subTitle": {
+      "raw": "hi韩国第三夜",
+      "base64": "aGnpn6nlm73nrKzkuInlpJw="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15180826880049U0sAmk3Kz.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1525782903372,
+      "dateTime": "2018-05-08T20:35:03Z"
+    },
+    "memberId": 399667,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/ad9f80f0-c179-4a23-ad55-266d915fba6d.mp4"
+  },
+  {
+    "title": "刘瀛的直播间（回放生成中）",
+    "subTitle": {
       "raw": "hi",
       "base64": "aGk="
     },

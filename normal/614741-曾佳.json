@@ -2,6 +2,45 @@
   {
     "title": "曾佳的直播间（回放生成中）",
     "subTitle": {
+      "raw": "开一会儿",
+      "base64": "5byA5LiA5Lya5YS/"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15260553944859D2ac1H92S.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1526055394633,
+      "dateTime": "2018-05-12T00:16:34Z"
+    },
+    "memberId": 614741,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/7fefce1a-78fc-4ea5-a510-e4b1bbc7efdb.mp4"
+  },
+  {
+    "title": "曾佳的电台（回放生成中）",
+    "subTitle": {
+      "raw": "百万问答",
+      "base64": "55m+5LiH6Zeu562U"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15231063268121WYkkZqB7w.jpg",
+      "https://source.48.cn/mediasource/live/1525182526804Fy48uMiZ11.jpg",
+      "https://source.48.cn/mediasource/live/1525182526959swMHDS77B8.jpg",
+      "https://source.48.cn/mediasource/live/152518252709464b4WBL0rO.jpg",
+      "https://source.48.cn/mediasource/live/1525182527268mubV55e46K.jpg",
+      "https://source.48.cn/mediasource/live/152518252742089iy9aYML4.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1525869244175,
+      "dateTime": "2018-05-09T20:34:04Z"
+    },
+    "memberId": 614741,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/ef58f933-ad5a-4406-a10e-391420c64da1.mp4"
+  },
+  {
+    "title": "曾佳的直播间（回放生成中）",
+    "subTitle": {
       "raw": "来啊快活啊",
       "base64": "5p2l5ZWK5b+r5rS75ZWK"
     },

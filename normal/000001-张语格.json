@@ -2,6 +2,23 @@
   {
     "title": "张语格的直播间（回放生成中）",
     "subTitle": {
+      "raw": "生日～",
+      "base64": "55Sf5pel772e"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15259679391687oIj9EezxX.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1525967939508,
+      "dateTime": "2018-05-10T23:58:59Z"
+    },
+    "memberId": 1,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/002aHoewjx07kmBaZA7l070d010002hB0k01.m3u8"
+  },
+  {
+    "title": "张语格的直播间（回放生成中）",
+    "subTitle": {
       "raw": "liao liao tian ya",
       "base64": "bGlhb+KAhmxpYW/igIZ0aWFu4oCGeWE="
     },

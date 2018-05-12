@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1525351007492L427I6FqX2.jpg"
     ],
     "startTime": {
+      "timeStamp": 1526039143296,
+      "dateTime": "2018-05-11T19:45:43Z"
+    },
+    "memberId": 16,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/b50d58c9-dde4-4bd2-8d02-74e629b902da.mp4"
+  },
+  {
+    "title": "李艺彤的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "LytChannel！",
+      "base64": "THl0Q2hhbm5lbO+8gQ=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1525351007492L427I6FqX2.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1525356520642,
       "dateTime": "2018-05-03T22:08:40Z"
     },

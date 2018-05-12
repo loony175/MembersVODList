@@ -6,6 +6,23 @@
       "base64": "44CC"
     },
     "picPath": [
+      "https://source.48.cn/mediasource/live/15257953748838Pp1dv9U8J.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1525863665154,
+      "dateTime": "2018-05-09T19:01:05Z"
+    },
+    "memberId": 327587,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/c4eaf08b-f980-49a1-9710-5e0fa237e2b5.mp4"
+  },
+  {
+    "title": "冯思佳的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "。",
+      "base64": "44CC"
+    },
+    "picPath": [
       "https://source.48.cn/mediasource/live/151300085313204qjJg71h1.jpg"
     ],
     "startTime": {
@@ -49,23 +66,6 @@
     "memberId": 327587,
     "liveType": 1,
     "streamPath": "https://mp4.48.cn/live/5b04692b-d014-4127-9c38-1423b8fb137b.mp4"
-  },
-  {
-    "title": "冯思佳的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "。",
-      "base64": "44CC"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/151300085313204qjJg71h1.jpg"
-    ],
-    "startTime": {
-      "timeStamp": 1522939249054,
-      "dateTime": "2018-04-05T22:40:49Z"
-    },
-    "memberId": 327587,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/74d03f15-b557-4a04-b887-4aacdd2d0ca1.mp4"
   },
   {
     "title": "冯思佳的直播间（回放生成中）",
