@@ -1,22 +1,5 @@
 [
   {
-    "title": "郭倩芸的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "(•̀ᴗ•́)و̑̑",
-      "base64": "KOKAosyA4bSX4oCizIEp2YjMkcyR"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1525435120213btLP72bak3.jpg"
-    ],
-    "startTime": {
-      "timeStamp": 1525435120384,
-      "dateTime": "2018-05-04T19:58:40Z"
-    },
-    "memberId": 530584,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/f39ed54e-927a-4cd5-b83a-720fa966e178.mp4"
-  },
-  {
     "title": "郭倩芸的电台（回放生成中）",
     "subTitle": {
       "raw": "聊天啦~๛ก(ｰ̀ωｰ́ก)",
@@ -114,23 +97,6 @@
       "base64": "KOKAosyA4bSX4oCizIEp2YjMkcyR"
     },
     "picPath": [
-      "https://source.48.cn/mediasource/live/1522062891159Bch3bPcmY7.jpg"
-    ],
-    "startTime": {
-      "timeStamp": 1522062891244,
-      "dateTime": "2018-03-26T19:14:51Z"
-    },
-    "memberId": 530584,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/595bd415-bf47-47c8-8e3a-5c5414806fa7.mp4"
-  },
-  {
-    "title": "郭倩芸的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "(•̀ᴗ•́)و̑̑",
-      "base64": "KOKAosyA4bSX4oCizIEp2YjMkcyR"
-    },
-    "picPath": [
       "https://source.48.cn/mediasource/live/1519557967196Xttw86j9gm.jpg"
     ],
     "startTime": {
@@ -140,39 +106,5 @@
     "memberId": 530584,
     "liveType": 1,
     "streamPath": "https://mp4.48.cn/live/b3b7ff79-7836-491c-aaf4-47e3f5370b44.mp4"
-  },
-  {
-    "title": "郭倩芸的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "(•̀ᴗ•́)و̑̑",
-      "base64": "KOKAosyA4bSX4oCizIEp2YjMkcyR"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1519557967196Xttw86j9gm.jpg"
-    ],
-    "startTime": {
-      "timeStamp": 1520155646997,
-      "dateTime": "2018-03-04T17:27:26Z"
-    },
-    "memberId": 530584,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/6b21b301-3b03-4f46-99a7-758816e1cbfb.mp4"
-  },
-  {
-    "title": "郭倩芸的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "(•̀ᴗ•́)و̑̑",
-      "base64": "KOKAosyA4bSX4oCizIEp2YjMkcyR"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1519557967196Xttw86j9gm.jpg"
-    ],
-    "startTime": {
-      "timeStamp": 1520076280056,
-      "dateTime": "2018-03-03T19:24:40Z"
-    },
-    "memberId": 530584,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/1fdbf4a6-0060-4558-b798-a7766f41399f.mp4"
   }
 ]

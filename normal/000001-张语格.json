@@ -2,6 +2,23 @@
   {
     "title": "张语格的直播间（回放生成中）",
     "subTitle": {
+      "raw": "晚上好～",
+      "base64": "5pma5LiK5aW9772e"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1526296678790pwAc9zGYLv.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1526296678961,
+      "dateTime": "2018-05-14T19:17:58Z"
+    },
+    "memberId": 1,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/004jFn1Djx07ksIMLN4I070d010007j00k01.m3u8"
+  },
+  {
+    "title": "张语格的直播间（回放生成中）",
+    "subTitle": {
       "raw": "生日～",
       "base64": "55Sf5pel772e"
     },

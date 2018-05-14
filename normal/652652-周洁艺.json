@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/152552149376441SMVFhwWi.jpg"
     ],
     "startTime": {
+      "timeStamp": 1526213643636,
+      "dateTime": "2018-05-13T20:14:03Z"
+    },
+    "memberId": 652652,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/9a7bc2b0-1a36-4607-9536-7dda5d607e4f.mp4"
+  },
+  {
+    "title": "周洁艺的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "五月",
+      "base64": "5LqU5pyI"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/152552149376441SMVFhwWi.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1525521674169,
       "dateTime": "2018-05-05T20:01:14Z"
     },
