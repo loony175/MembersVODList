@@ -2,6 +2,60 @@
   {
     "title": "陈倩楠的直播间（回放生成中）",
     "subTitle": {
+      "raw": "宜昌",
+      "base64": "5a6c5piM"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1520593060530gUiSH45EDc.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1526483716496,
+      "dateTime": "2018-05-16T23:15:16Z"
+    },
+    "memberId": 327601,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/001677Mjjx07kw95NDi8070d010004GD0k01.m3u8"
+  },
+  {
+    "title": "陈倩楠的电台（回放生成中）",
+    "subTitle": {
+      "raw": "来吧",
+      "base64": "5p2l5ZCn"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15213906685661FNtAXIV0j.jpg",
+      "https://source.48.cn/mediasource/live/150306096516218KRD4UJ8B.jpg",
+      "https://source.48.cn/mediasource/live/1503060965295Q849689BXz.jpg",
+      "https://source.48.cn/mediasource/live/150306096539464k4MTTXOM.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1526483449429,
+      "dateTime": "2018-05-16T23:10:49Z"
+    },
+    "memberId": 327601,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/fa01afdd-6cf4-4d82-96be-cffb38b73c2a.mp4"
+  },
+  {
+    "title": "陈倩楠的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "宜昌",
+      "base64": "5a6c5piM"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1520593060530gUiSH45EDc.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1526481918414,
+      "dateTime": "2018-05-16T22:45:18Z"
+    },
+    "memberId": 327601,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/001Cgrghjx07kw5LWiys070d010002zk0k01.m3u8"
+  },
+  {
+    "title": "陈倩楠的直播间（回放生成中）",
+    "subTitle": {
       "raw": "今天是紫色",
       "base64": "5LuK5aSp5piv57Sr6Imy"
     },

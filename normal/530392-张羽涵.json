@@ -7,6 +7,44 @@
     },
     "picPath": [
       "https://source.48.cn/mediasource/live/1515078398937UN1LJqiSR6.jpg",
+      "https://source.48.cn/mediasource/live/15264775680279o9bt17q36.jpg",
+      "https://source.48.cn/mediasource/live/1526477568303Ng7S22psLH.jpg",
+      "https://source.48.cn/mediasource/live/1526477568502J0GwlV8t8y.jpg",
+      "https://source.48.cn/mediasource/live/1526477568741QWAP7VFmCO.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1526477568873,
+      "dateTime": "2018-05-16T21:32:48Z"
+    },
+    "memberId": 530392,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/758920d7-0a85-4dd7-ba74-47e1dd686b10.mp4"
+  },
+  {
+    "title": "张羽涵的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "一会会～",
+      "base64": "5LiA5Lya5Lya772e"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/151911041829635IjF1X7ph.png"
+    ],
+    "startTime": {
+      "timeStamp": 1526391283135,
+      "dateTime": "2018-05-15T21:34:43Z"
+    },
+    "memberId": 530392,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/a837322d-d507-4be1-8dec-db998367845c.mp4"
+  },
+  {
+    "title": "张羽涵的电台（回放生成中）",
+    "subTitle": {
+      "raw": "开个电台～",
+      "base64": "5byA5Liq55S15Y+w772e"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1515078398937UN1LJqiSR6.jpg",
       "https://source.48.cn/mediasource/live/1526302767139D8x4A7K9wP.jpg",
       "https://source.48.cn/mediasource/live/1526302767272o4I39gRYYg.jpg",
       "https://source.48.cn/mediasource/live/1526302767406r8586m9usK.jpg",
