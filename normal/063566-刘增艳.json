@@ -2,6 +2,40 @@
   {
     "title": "刘增艳的直播间（回放生成中）",
     "subTitle": {
+      "raw": "半小时",
+      "base64": "5Y2K5bCP5pe2"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1526223800459GgbzfKgtGw.png"
+    ],
+    "startTime": {
+      "timeStamp": 1526656734772,
+      "dateTime": "2018-05-18T23:18:54Z"
+    },
+    "memberId": 63566,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/b08ddd21-4359-49b6-b541-453cb47b4d7a.mp4"
+  },
+  {
+    "title": "刘增艳的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "试试",
+      "base64": "6K+V6K+V"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1526223800459GgbzfKgtGw.png"
+    ],
+    "startTime": {
+      "timeStamp": 1526573031824,
+      "dateTime": "2018-05-18T00:03:51Z"
+    },
+    "memberId": 63566,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/a98e7b9d-26fd-4b9b-b720-ba21cd49fb24.mp4"
+  },
+  {
+    "title": "刘增艳的直播间（回放生成中）",
+    "subTitle": {
       "raw": "大家好",
       "base64": "5aSn5a625aW9"
     },
