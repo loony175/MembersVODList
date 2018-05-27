@@ -2,6 +2,23 @@
   {
     "title": "马凡的直播间（回放生成中）",
     "subTitle": {
+      "raw": "本周直播打卡",
+      "base64": "5pys5ZGo55u05pKt5omT5Y2h"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/152077689296202E6daX1Aq.png"
+    ],
+    "startTime": {
+      "timeStamp": 1527330843575,
+      "dateTime": "2018-05-26T18:34:03Z"
+    },
+    "memberId": 606343,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/6a4655ab-a06a-427e-9bfe-3958d7c164b1.mp4"
+  },
+  {
+    "title": "马凡的直播间（回放生成中）",
+    "subTitle": {
       "raw": "星期天了2",
       "base64": "5pif5pyf5aSp5LqGMg=="
     },

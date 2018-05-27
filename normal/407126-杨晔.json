@@ -9,6 +9,40 @@
       "https://source.48.cn/mediasource/live/151557643534152b6664e0h.png"
     ],
     "startTime": {
+      "timeStamp": 1527332873065,
+      "dateTime": "2018-05-26T19:07:53Z"
+    },
+    "memberId": 407126,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/7390de9d-a5fb-4ff0-9d95-f62015f49dab.mp4"
+  },
+  {
+    "title": "杨晔的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "啦啦啦",
+      "base64": "5ZWm5ZWm5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/151557643534152b6664e0h.png"
+    ],
+    "startTime": {
+      "timeStamp": 1527332287064,
+      "dateTime": "2018-05-26T18:58:07Z"
+    },
+    "memberId": 407126,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/001DqwQLjx07kLLQYnr1070d010000X60k01.m3u8"
+  },
+  {
+    "title": "杨晔的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "啦啦啦",
+      "base64": "5ZWm5ZWm5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/151557643534152b6664e0h.png"
+    ],
+    "startTime": {
       "timeStamp": 1523355565577,
       "dateTime": "2018-04-10T18:19:25Z"
     },

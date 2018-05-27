@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1524574898541ElbbStgWFh.jpg"
     ],
     "startTime": {
+      "timeStamp": 1527333633849,
+      "dateTime": "2018-05-26T19:20:33Z"
+    },
+    "memberId": 63560,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/df89b9ed-e11a-485d-ad67-2098e39b6c20.mp4"
+  },
+  {
+    "title": "姜杉的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "一会会",
+      "base64": "5LiA5Lya5Lya"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1524574898541ElbbStgWFh.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1526735323302,
       "dateTime": "2018-05-19T21:08:43Z"
     },
