@@ -2,6 +2,23 @@
   {
     "title": "雷宇霄的直播间（回放生成中）",
     "subTitle": {
+      "raw": "来自北京的直播",
+      "base64": "5p2l6Ieq5YyX5Lqs55qE55u05pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1527955592244Fwr58Jdaqv.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528041541050,
+      "dateTime": "2018-06-03T23:59:01Z"
+    },
+    "memberId": 614728,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/e1cb5f1f-91fb-4dd2-ac5f-e11ddc440ed1.mp4"
+  },
+  {
+    "title": "雷宇霄的直播间（回放生成中）",
+    "subTitle": {
       "raw": "随手一播",
       "base64": "6ZqP5omL5LiA5pKt"
     },

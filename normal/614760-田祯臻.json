@@ -11,6 +11,25 @@
       "https://source.48.cn/mediasource/live/15271747324303eSN1MH97w.jpg"
     ],
     "startTime": {
+      "timeStamp": 1527954909374,
+      "dateTime": "2018-06-02T23:55:09Z"
+    },
+    "memberId": 614760,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/723437c0-ef64-43f6-9dc0-59fd4bfbb90e.mp4"
+  },
+  {
+    "title": "田祯臻的电台（回放生成中）",
+    "subTitle": {
+      "raw": "睡前",
+      "base64": "552h5YmN"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1517917652320T2u2uQu7c6.jpg",
+      "https://source.48.cn/mediasource/live/1527174732096839CY18VVn.jpg",
+      "https://source.48.cn/mediasource/live/15271747324303eSN1MH97w.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1527174732090,
       "dateTime": "2018-05-24T23:12:12Z"
     },

@@ -2,6 +2,23 @@
   {
     "title": "韩家乐的直播间（回放生成中）",
     "subTitle": {
+      "raw": "我来啦",
+      "base64": "5oiR5p2l5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528027358049LFWN8zopMr.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528027455588,
+      "dateTime": "2018-06-03T20:04:15Z"
+    },
+    "memberId": 459999,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/7ab04443-c485-4802-8086-04170d2071b8.mp4"
+  },
+  {
+    "title": "韩家乐的直播间（回放生成中）",
+    "subTitle": {
       "raw": "晚上好",
       "base64": "5pma5LiK5aW9"
     },

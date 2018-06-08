@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1525951919382a37Jfk3tG6.jpg"
     ],
     "startTime": {
+      "timeStamp": 1527949283968,
+      "dateTime": "2018-06-02T22:21:23Z"
+    },
+    "memberId": 480668,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/f0be41d3-62ba-422d-ad8b-ae4830f8a2ab.mp4"
+  },
+  {
+    "title": "李晴的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "晚上好",
+      "base64": "5pma5LiK5aW9"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1525951919382a37Jfk3tG6.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1527429593241,
       "dateTime": "2018-05-27T21:59:53Z"
     },

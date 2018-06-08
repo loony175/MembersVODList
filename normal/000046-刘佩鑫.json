@@ -1,5 +1,22 @@
 [
   {
+    "title": "刘佩鑫的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "一个月一次直播走过路过不要错过",
+      "base64": "5LiA5Liq5pyI5LiA5qyh55u05pKt6LWw6L+H6Lev6L+H5LiN6KaB6ZSZ6L+H"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528206552716o6enN8MXc8.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528206552371,
+      "dateTime": "2018-06-05T21:49:12Z"
+    },
+    "memberId": 46,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/000gzZ2Sjx07l1YxU5pJ070d010007aY0k01.m3u8"
+  },
+  {
     "title": "刘佩鑫的电台（回放生成中）",
     "subTitle": {
       "raw": "重启失败",
