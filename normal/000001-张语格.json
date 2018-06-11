@@ -2,6 +2,23 @@
   {
     "title": "张语格的直播间（回放生成中）",
     "subTitle": {
+      "raw": "握手会",
+      "base64": "5o+h5omL5Lya"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528515985840CKm8575Ob7.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528515985966,
+      "dateTime": "2018-06-09T11:46:25Z"
+    },
+    "memberId": 1,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/003gTnzejx07l7FJOYNx070d010005FQ0k01.m3u8"
+  },
+  {
+    "title": "张语格的直播间（回放生成中）",
+    "subTitle": {
       "raw": "晚上好啦～",
       "base64": "5pma5LiK5aW95ZWm772e"
     },

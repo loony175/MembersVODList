@@ -2,6 +2,23 @@
   {
     "title": "雷宇霄的直播间（回放生成中）",
     "subTitle": {
+      "raw": "来自重庆的直播",
+      "base64": "5p2l6Ieq6YeN5bqG55qE55u05pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1527955592244Fwr58Jdaqv.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528560106952,
+      "dateTime": "2018-06-10T00:01:46Z"
+    },
+    "memberId": 614728,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/fa94f980-13f1-44d2-8679-8fa3709f82fd.mp4"
+  },
+  {
+    "title": "雷宇霄的直播间（回放生成中）",
+    "subTitle": {
       "raw": "来自北京的直播",
       "base64": "5p2l6Ieq5YyX5Lqs55qE55u05pKt"
     },

@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/15153330689090ZGmoawde5.jpg"
     ],
     "startTime": {
+      "timeStamp": 1528552777676,
+      "dateTime": "2018-06-09T21:59:37Z"
+    },
+    "memberId": 327580,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/003Qie36jx07l8nd5BTx070d010007N70k01.m3u8"
+  },
+  {
+    "title": "张梦慧的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "恭候大驾！",
+      "base64": "5oGt5YCZ5aSn6am+77yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15153330689090ZGmoawde5.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1527424256014,
       "dateTime": "2018-05-27T20:30:56Z"
     },

@@ -2,6 +2,23 @@
   {
     "title": "孙芮的直播间（回放生成中）",
     "subTitle": {
+      "raw": "好久不见",
+      "base64": "5aW95LmF5LiN6KeB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/151566949498910gCn5ycGg.png"
+    ],
+    "startTime": {
+      "timeStamp": 1528466638802,
+      "dateTime": "2018-06-08T22:03:58Z"
+    },
+    "memberId": 8,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/548e7a54-548d-4c45-868b-cc0fedde7556.mp4"
+  },
+  {
+    "title": "孙芮的直播间（回放生成中）",
+    "subTitle": {
       "raw": "半小时哦",
       "base64": "5Y2K5bCP5pe25ZOm"
     },

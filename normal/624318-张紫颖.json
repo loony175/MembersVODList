@@ -2,6 +2,49 @@
   {
     "title": "张紫颖的电台（回放生成中）",
     "subTitle": {
+      "raw": "聊天",
+      "base64": "6IGK5aSp"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/152863681531385wnmXF156.jpg",
+      "https://source.48.cn/mediasource/live/1528636815594Fi7ppfz769.jpg",
+      "https://source.48.cn/mediasource/live/152863681576765dm1VS2e4.jpg",
+      "https://source.48.cn/mediasource/live/1528636815915l4dOBtqtBz.jpg",
+      "https://source.48.cn/mediasource/live/1528636816103r4194o7X5N.jpg",
+      "https://source.48.cn/mediasource/live/1528636816222NZ1n8YrN85.jpg",
+      "https://source.48.cn/mediasource/live/1528636816335zc69gv2pAS.jpg",
+      "https://source.48.cn/mediasource/live/1528636816461ktt1xvj0Ep.jpg",
+      "https://source.48.cn/mediasource/live/1528636816563NYAx9Ks091.jpg",
+      "https://source.48.cn/mediasource/live/1528636816658f6324mG07j.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528636816870,
+      "dateTime": "2018-06-10T21:20:16Z"
+    },
+    "memberId": 624318,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/9572165c-c8d4-40be-b452-d38a738ba38b.mp4"
+  },
+  {
+    "title": "张紫颖的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "一周一次的直播👌",
+      "base64": "5LiA5ZGo5LiA5qyh55qE55u05pKt8J+RjA=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528463331708n6zzQJr7h0.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528463452765,
+      "dateTime": "2018-06-08T21:10:52Z"
+    },
+    "memberId": 624318,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/e5925745-1359-4090-a86a-5da3e2aad412.mp4"
+  },
+  {
+    "title": "张紫颖的电台（回放生成中）",
+    "subTitle": {
       "raw": "每周推歌第九期",
       "base64": "5q+P5ZGo5o6o5q2M56ys5Lmd5pyf"
     },
