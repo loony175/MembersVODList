@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1528716237041TrAyVgIORq.jpg"
     ],
     "startTime": {
+      "timeStamp": 1528731935853,
+      "dateTime": "2018-06-11T23:45:35Z"
+    },
+    "memberId": 63576,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/34d1555e-bc3c-41ca-9fa8-abb33b4a8f93.mp4"
+  },
+  {
+    "title": "阳青颖的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "播",
+      "base64": "5pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528716237041TrAyVgIORq.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1528716237933,
       "dateTime": "2018-06-11T19:23:57Z"
     },

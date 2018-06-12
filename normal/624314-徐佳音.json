@@ -2,6 +2,45 @@
   {
     "title": "徐佳音的直播间（回放生成中）",
     "subTitle": {
+      "raw": "直播了咕",
+      "base64": "55u05pKt5LqG5ZKV"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528803588395upO2JX03cJ.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528803588575,
+      "dateTime": "2018-06-12T19:39:48Z"
+    },
+    "memberId": 624314,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/456f8def-f284-4030-b7f2-5523380cf62a.mp4"
+  },
+  {
+    "title": "徐佳音的电台（回放生成中）",
+    "subTitle": {
+      "raw": "欢迎大家来到美丽直播间",
+      "base64": "5qyi6L+O5aSn5a625p2l5Yiw576O5Li955u05pKt6Ze0"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528722462576oPWbhEAIwn.jpg",
+      "https://source.48.cn/mediasource/live/1528722462723iI3l7qR214.jpg",
+      "https://source.48.cn/mediasource/live/1528722462852bFJ9hq1iX7.jpg",
+      "https://source.48.cn/mediasource/live/15287224630025DTwZ54MkC.jpg",
+      "https://source.48.cn/mediasource/live/1528722463183Vgp17uJavK.jpg",
+      "https://source.48.cn/mediasource/live/1528722463326OcAMvuBJou.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528722463554,
+      "dateTime": "2018-06-11T21:07:43Z"
+    },
+    "memberId": 624314,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/89eeb4cc-12db-46b0-8e5a-ba1c1858f656.mp4"
+  },
+  {
+    "title": "徐佳音的直播间（回放生成中）",
+    "subTitle": {
       "raw": "一周的最后一天^^",
       "base64": "5LiA5ZGo55qE5pyA5ZCO5LiA5aSpXl4="
     },
