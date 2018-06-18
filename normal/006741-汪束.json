@@ -9,6 +9,40 @@
       "https://source.48.cn/mediasource/live/daecc798-12d2-4a85-a708-9737319826d7.jpg"
     ],
     "startTime": {
+      "timeStamp": 1529322858128,
+      "dateTime": "2018-06-18T19:54:18Z"
+    },
+    "memberId": 6741,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/002yQ18Cjx07lmyVnad9070d010005cz0k01.m3u8"
+  },
+  {
+    "title": "汪束的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "(ง•̀_•́)ง",
+      "base64": "KOC4h+KAosyAX+KAosyBKeC4hw=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/daecc798-12d2-4a85-a708-9737319826d7.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529321167234,
+      "dateTime": "2018-06-18T19:26:07Z"
+    },
+    "memberId": 6741,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/c8f85a26-7785-42f0-a3cb-5fe2be111312.mp4"
+  },
+  {
+    "title": "汪束的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "(ง•̀_•́)ง",
+      "base64": "KOC4h+KAosyAX+KAosyBKeC4hw=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/daecc798-12d2-4a85-a708-9737319826d7.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1520754638346,
       "dateTime": "2018-03-11T15:50:38Z"
     },

@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/15249183214823HI3Hu7C3G.jpg"
     ],
     "startTime": {
+      "timeStamp": 1529318531378,
+      "dateTime": "2018-06-18T18:42:11Z"
+    },
+    "memberId": 327594,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/0021rxTbjx07lmuNkxzp070d010006tw0k01.m3u8"
+  },
+  {
+    "title": "李想的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "嘻嘻嘻",
+      "base64": "5Zi75Zi75Zi7"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15249183214823HI3Hu7C3G.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1524918321622,
       "dateTime": "2018-04-28T20:25:21Z"
     },
