@@ -9,6 +9,40 @@
       "https://source.48.cn/mediasource/live/15153330689090ZGmoawde5.jpg"
     ],
     "startTime": {
+      "timeStamp": 1529240848998,
+      "dateTime": "2018-06-17T21:07:28Z"
+    },
+    "memberId": 327580,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/001WVe9Hjx07ll0DCX7p070d010001qo0k01.m3u8"
+  },
+  {
+    "title": "张梦慧的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "恭候大驾！",
+      "base64": "5oGt5YCZ5aSn6am+77yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15153330689090ZGmoawde5.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529157627941,
+      "dateTime": "2018-06-16T22:00:27Z"
+    },
+    "memberId": 327580,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/001ual2Zjx07ljwJ2w0U070d010006Co0k01.m3u8"
+  },
+  {
+    "title": "张梦慧的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "恭候大驾！",
+      "base64": "5oGt5YCZ5aSn6am+77yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15153330689090ZGmoawde5.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1528552777676,
       "dateTime": "2018-06-09T21:59:37Z"
     },

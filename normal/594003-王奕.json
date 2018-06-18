@@ -6,6 +6,41 @@
       "base64": "6K6o6K66"
     },
     "picPath": [
+      "https://source.48.cn/mediasource/live/15289074996009aKnYyE7FP.jpg",
+      "https://source.48.cn/mediasource/live/1528907499780srti24B39n.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528907499927,
+      "dateTime": "2018-06-14T00:31:39Z"
+    },
+    "memberId": 594003,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/8da893c1-641a-40e3-bac9-8d52a724de02.mp4"
+  },
+  {
+    "title": "王奕的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "生活",
+      "base64": "55Sf5rS7"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528905289775wO8ryzU6Vg.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528905290002,
+      "dateTime": "2018-06-13T23:54:50Z"
+    },
+    "memberId": 594003,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/27d21b1d-9824-408f-b6ab-676faab888b1.mp4"
+  },
+  {
+    "title": "王奕的电台（回放生成中）",
+    "subTitle": {
+      "raw": "讨论",
+      "base64": "6K6o6K66"
+    },
+    "picPath": [
       "https://source.48.cn/mediasource/live/1528561392351Mo9popu25o.jpg",
       "https://source.48.cn/mediasource/live/1524834044975A9y95SChBE.jpg"
     ],

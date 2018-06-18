@@ -4,7 +4,7 @@ api2=https://pother.48.cn/othersystem/api/version/v1/download/fansapp/android
 randomString=$(cat /proc/sys/kernel/random/uuid)
 thread=$(grep processor /proc/cpuinfo | wc -l)
 GETOPT=`getopt -o j: --long job: -n 'exit' -- "$@"`
-data="{"lastTime": 0, "groupId": 0, "memberId": 0, "limit": 20000}"
+data="{"lastTime": 0, "groupId": 0, "memberId": 0, "limit": 30000}"
 jq="{title, subTitle: {raw: .subTitle, base64: (.subTitle|@base64)}, picPath, startTime: {timeStamp: .startTime, dateTime: (.startTime/1000+28800|todate)}, memberId, liveType, streamPath}"
 LatestVersion(){
 	curl -sI $api2 | grep -Po '\d+\.\d+\.\d+' | tail -1 | tee pocket48_version.conf

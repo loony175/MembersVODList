@@ -2,6 +2,23 @@
   {
     "title": "谢妮的直播间（回放生成中）",
     "subTitle": {
+      "raw": "播",
+      "base64": "5pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529249434226Cl1Z44868y.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529249434471,
+      "dateTime": "2018-06-17T23:30:34Z"
+    },
+    "memberId": 45,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/82775bc4-09e1-4346-8246-52f947df9acb.mp4"
+  },
+  {
+    "title": "谢妮的直播间（回放生成中）",
+    "subTitle": {
       "raw": "直播",
       "base64": "55u05pKt"
     },

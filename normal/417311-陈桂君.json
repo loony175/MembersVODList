@@ -2,6 +2,41 @@
   {
     "title": "陈桂君的电台（回放生成中）",
     "subTitle": {
+      "raw": "叮咚～你是个……",
+      "base64": "5Y+u5ZKa772e5L2g5piv5Liq4oCm4oCm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528980422755tnd44sXE3G.jpg",
+      "https://source.48.cn/mediasource/live/1527173650191kc3XBXzwyw.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528980422950,
+      "dateTime": "2018-06-14T20:47:02Z"
+    },
+    "memberId": 417311,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/8af8e699-bd9f-4685-a9da-2c29cc753793.mp4"
+  },
+  {
+    "title": "陈桂君的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "resttime",
+      "base64": "cmVzdHRpbWU="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528977630056Slifr9DjcI.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1528977630317,
+      "dateTime": "2018-06-14T20:00:30Z"
+    },
+    "memberId": 417311,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/d874e1b1-9210-4b13-8c32-e86eda09cd65.mp4"
+  },
+  {
+    "title": "陈桂君的电台（回放生成中）",
+    "subTitle": {
       "raw": "叮咚～我是个……",
       "base64": "5Y+u5ZKa772e5oiR5piv5Liq4oCm4oCm"
     },
