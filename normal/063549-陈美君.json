@@ -2,6 +2,23 @@
   {
     "title": "陈美君的直播间（回放生成中）",
     "subTitle": {
+      "raw": "大上海舞厅",
+      "base64": "5aSn5LiK5rW36Iie5Y6F"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529502344323H8rr634w1w.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529502344579,
+      "dateTime": "2018-06-20T21:45:44Z"
+    },
+    "memberId": 63549,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/003xQR6Rjx07lpRWmlaD070d010004Ap0k01.m3u8"
+  },
+  {
+    "title": "陈美君的直播间（回放生成中）",
+    "subTitle": {
       "raw": "嘿，端午快乐",
       "base64": "5Zi/77yM56uv5Y2I5b+r5LmQ"
     },
@@ -167,7 +184,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/ac7e7d81-c07a-41fc-9869-f2497a5949cd.mp4"
+    "streamPath": "https://mp6.48.cn/live/ac7e7d81-c07a-41fc-9869-f2497a5949cd.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -184,7 +201,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/e8a3795b-047d-4fa8-80ea-e6b92112079e.mp4"
+    "streamPath": "https://mp6.48.cn/live/e8a3795b-047d-4fa8-80ea-e6b92112079e.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -303,7 +320,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/be192da7-5486-4a45-81df-5768e0f70f5a.mp4"
+    "streamPath": "https://mp6.48.cn/live/be192da7-5486-4a45-81df-5768e0f70f5a.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -320,7 +337,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/fbc6ee40-cac2-4f6b-9403-5e44045aabb7.mp4"
+    "streamPath": "https://mp6.48.cn/live/fbc6ee40-cac2-4f6b-9403-5e44045aabb7.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -355,7 +372,7 @@
     },
     "memberId": 63549,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/e6c97352-0b02-4587-a789-400efc2c0593.mp4"
+    "streamPath": "https://mp6.48.cn/live/e6c97352-0b02-4587-a789-400efc2c0593.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -372,7 +389,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/a57c3dab-cf33-4440-9527-87361839a35a.mp4"
+    "streamPath": "https://mp6.48.cn/live/a57c3dab-cf33-4440-9527-87361839a35a.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -508,7 +525,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/d124576f-f0bf-4341-a942-bc139d4a4ebb.mp4"
+    "streamPath": "https://mp6.48.cn/live/d124576f-f0bf-4341-a942-bc139d4a4ebb.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -577,7 +594,7 @@
     },
     "memberId": 63549,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/57b86bcf-61e8-4adc-b337-1496a0e4fdaa.mp4"
+    "streamPath": "https://mp6.48.cn/live/57b86bcf-61e8-4adc-b337-1496a0e4fdaa.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -612,7 +629,7 @@
     },
     "memberId": 63549,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/8c344d87-d1fd-472a-a22e-79afd78d0b13.mp4"
+    "streamPath": "https://mp6.48.cn/live/8c344d87-d1fd-472a-a22e-79afd78d0b13.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -629,7 +646,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/f9c8e4d6-f640-4e14-8579-bdc7dfe6525d.mp4"
+    "streamPath": "https://mp6.48.cn/live/f9c8e4d6-f640-4e14-8579-bdc7dfe6525d.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -697,7 +714,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/badd7862-c75a-426e-aa56-0061db5f3fc7.mp4"
+    "streamPath": "https://mp6.48.cn/live/badd7862-c75a-426e-aa56-0061db5f3fc7.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -748,7 +765,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/c74f5fb3-35d3-4845-a40d-960760bfedbe.mp4"
+    "streamPath": "https://mp6.48.cn/live/c74f5fb3-35d3-4845-a40d-960760bfedbe.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -765,7 +782,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/06475ed6-69e9-4833-ab41-6e6b95182818.mp4"
+    "streamPath": "https://mp6.48.cn/live/06475ed6-69e9-4833-ab41-6e6b95182818.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -782,7 +799,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/deb07604-ae25-478b-8f72-cde28e7ba876.mp4"
+    "streamPath": "https://mp6.48.cn/live/deb07604-ae25-478b-8f72-cde28e7ba876.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -799,7 +816,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/2cf34fcb-c9d6-4311-8543-8c51ac7a77eb.mp4"
+    "streamPath": "https://mp6.48.cn/live/2cf34fcb-c9d6-4311-8543-8c51ac7a77eb.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -816,7 +833,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/e37f8e9f-e9d9-4f32-b480-e239b58be943.mp4"
+    "streamPath": "https://mp6.48.cn/live/e37f8e9f-e9d9-4f32-b480-e239b58be943.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -833,7 +850,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/670e12de-0e4d-4511-a1c0-7d09cdeacf26.mp4"
+    "streamPath": "https://mp6.48.cn/live/670e12de-0e4d-4511-a1c0-7d09cdeacf26.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -850,7 +867,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/f7da4d56-09db-4c20-9205-0824e10044ef.mp4"
+    "streamPath": "https://mp6.48.cn/live/f7da4d56-09db-4c20-9205-0824e10044ef.mp4"
   },
   {
     "title": "陈美君的电台（回放生成中）",
@@ -868,7 +885,7 @@
     },
     "memberId": 63549,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/80cb1f30-3477-4b6c-a3b9-1525ac12b73c.mp4"
+    "streamPath": "https://mp6.48.cn/live/80cb1f30-3477-4b6c-a3b9-1525ac12b73c.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -885,7 +902,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/b0c8b8c7-a4a8-42a5-8251-5a35a3ed52b1.mp4"
+    "streamPath": "https://mp6.48.cn/live/b0c8b8c7-a4a8-42a5-8251-5a35a3ed52b1.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -902,7 +919,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/9c92c181-2199-42cc-85d8-c880514c6ae2.mp4"
+    "streamPath": "https://mp6.48.cn/live/9c92c181-2199-42cc-85d8-c880514c6ae2.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -919,7 +936,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/b2cab594-ffaf-49f8-b65b-2c63272e41c3.mp4"
+    "streamPath": "https://mp6.48.cn/live/b2cab594-ffaf-49f8-b65b-2c63272e41c3.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -936,7 +953,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/6d57dc90-1083-42ad-bc22-eb79282165c6.mp4"
+    "streamPath": "https://mp6.48.cn/live/6d57dc90-1083-42ad-bc22-eb79282165c6.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -953,7 +970,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/b23c6c7b-bd23-4ad3-9709-c6f103c58807.mp4"
+    "streamPath": "https://mp6.48.cn/live/b23c6c7b-bd23-4ad3-9709-c6f103c58807.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -970,7 +987,7 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/dafe5602-4794-4552-ac90-9e0d54b15e13.mp4"
+    "streamPath": "https://mp6.48.cn/live/dafe5602-4794-4552-ac90-9e0d54b15e13.mp4"
   },
   {
     "title": "陈美君的直播间（回放生成中）",
@@ -987,6 +1004,6 @@
     },
     "memberId": 63549,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/f3a14666-a814-4e67-b396-7ae050855c34.mp4"
+    "streamPath": "https://mp6.48.cn/live/f3a14666-a814-4e67-b396-7ae050855c34.mp4"
   }
 ]

@@ -46,6 +46,6 @@ Do(){
 	echo "[quiet] $sum URL(s) written in ../quiet/$filename2"
 }
 export -f Do
-parallel -j "$thread" Do ::: "$memberId" ::: "$randomString"
+parallel -j "$thread" --bar Do ::: "$memberId" ::: "$randomString"
 echo "Cleaning up..."
 rm "$randomString"

@@ -6,6 +6,23 @@
       "base64": "5pma5LiK5aW9fg=="
     },
     "picPath": [
+      "https://source.48.cn/mediasource/live/1529420553788oyxR1aSw7a.png"
+    ],
+    "startTime": {
+      "timeStamp": 1529420554083,
+      "dateTime": "2018-06-19T23:02:34Z"
+    },
+    "memberId": 407124,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/001dXHt3jx07lonIodaw070d0100065S0k01.m3u8"
+  },
+  {
+    "title": "叶苗苗的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "晚上好~",
+      "base64": "5pma5LiK5aW9fg=="
+    },
+    "picPath": [
       "https://source.48.cn/mediasource/live/15235397087175HVy4XZ1z8.png"
     ],
     "startTime": {
@@ -219,7 +236,7 @@
     },
     "memberId": 407124,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/fb2c85ce-c0af-47db-9787-d52ab2827a8c.mp4"
+    "streamPath": "https://mp6.48.cn/live/fb2c85ce-c0af-47db-9787-d52ab2827a8c.mp4"
   },
   {
     "title": "叶苗苗的直播间（回放生成中）",
@@ -356,7 +373,7 @@
     },
     "memberId": 407124,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/a3a47304-35ab-4470-bf5b-e62f55c6c633.mp4"
+    "streamPath": "https://mp6.48.cn/live/a3a47304-35ab-4470-bf5b-e62f55c6c633.mp4"
   },
   {
     "title": "叶苗苗的电台（回放生成中）",
@@ -374,7 +391,7 @@
     },
     "memberId": 407124,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/91437dbf-58a7-454c-a993-536e3b3d504c.mp4"
+    "streamPath": "https://mp6.48.cn/live/91437dbf-58a7-454c-a993-536e3b3d504c.mp4"
   },
   {
     "title": "叶苗苗的电台（回放生成中）",
@@ -392,7 +409,7 @@
     },
     "memberId": 407124,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/91a4f79f-1d6a-4d89-a7f6-de36c6491646.mp4"
+    "streamPath": "https://mp6.48.cn/live/91a4f79f-1d6a-4d89-a7f6-de36c6491646.mp4"
   },
   {
     "title": "叶苗苗的直播间（回放生成中）",
@@ -749,6 +766,6 @@
     },
     "memberId": 407124,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/1312b462-6e01-480b-b89b-6b2cd21944d7.mp4"
+    "streamPath": "https://mp6.48.cn/live/1312b462-6e01-480b-b89b-6b2cd21944d7.mp4"
   }
 ]

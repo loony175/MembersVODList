@@ -1,5 +1,22 @@
 [
   {
+    "title": "熊素君的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "哈哈哈哈哈哈",
+      "base64": "5ZOI5ZOI5ZOI5ZOI5ZOI5ZOI"
+    },
+    "picPath": [
+      "http://www.bej48.com/images/member/zp_20017.jpg?ram=1514204959335"
+    ],
+    "startTime": {
+      "timeStamp": 1529556014527,
+      "dateTime": "2018-06-21T12:40:14Z"
+    },
+    "memberId": 63573,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/002p9pivjx07lqPrpvhB070d010001xy0k01.m3u8"
+  },
+  {
     "title": "熊素君的电台（回放生成中）",
     "subTitle": {
       "raw": "hello～",
@@ -15,7 +32,7 @@
     },
     "memberId": 63573,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/c9f5d709-3d9a-44ca-b810-84deabcf5e48.mp4"
+    "streamPath": "https://mp6.48.cn/live/c9f5d709-3d9a-44ca-b810-84deabcf5e48.mp4"
   },
   {
     "title": "熊素君的直播间（回放生成中）",
@@ -32,7 +49,7 @@
     },
     "memberId": 63573,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/0abc63f5-bfc2-4595-b9f4-97f042d42e27.mp4"
+    "streamPath": "https://mp6.48.cn/live/0abc63f5-bfc2-4595-b9f4-97f042d42e27.mp4"
   },
   {
     "title": "熊素君的直播间（回放生成中）",

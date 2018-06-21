@@ -2,91 +2,6 @@
   {
     "title": "蒋芸的直播间（回放生成中）",
     "subTitle": {
-      "raw": "随便聊聊",
-      "base64": "6ZqP5L6/6IGK6IGK"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1522081946896DYK1YOJ83v.png"
-    ],
-    "startTime": {
-      "timeStamp": 1525503109230,
-      "dateTime": "2018-05-05T14:51:49Z"
-    },
-    "memberId": 17,
-    "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/001ONsVejx07ke1AuKsg070d0100037W0k01.m3u8"
-  },
-  {
-    "title": "蒋芸的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "随便聊聊",
-      "base64": "6ZqP5L6/6IGK6IGK"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1522081946896DYK1YOJ83v.png"
-    ],
-    "startTime": {
-      "timeStamp": 1524411257243,
-      "dateTime": "2018-04-22T23:34:17Z"
-    },
-    "memberId": 17,
-    "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/000nHrKGjx07jTUQcztl070d010007hd0k01.m3u8"
-  },
-  {
-    "title": "蒋芸的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "练歌",
-      "base64": "57uD5q2M"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1522081946896DYK1YOJ83v.png"
-    ],
-    "startTime": {
-      "timeStamp": 1522500417451,
-      "dateTime": "2018-03-31T20:46:57Z"
-    },
-    "memberId": 17,
-    "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/002V79f6jx07jkFcv619070d010008ri0k01.m3u8"
-  },
-  {
-    "title": "蒋芸的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "化妆",
-      "base64": "5YyW5aaG"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1522081946896DYK1YOJ83v.png"
-    ],
-    "startTime": {
-      "timeStamp": 1522391743258,
-      "dateTime": "2018-03-30T14:35:43Z"
-    },
-    "memberId": 17,
-    "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/002M0LAcjx07jiCFOe8f070d010006hZ0k01.m3u8"
-  },
-  {
-    "title": "蒋芸的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "唱歌",
-      "base64": "5ZSx5q2M"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1522081946896DYK1YOJ83v.png"
-    ],
-    "startTime": {
-      "timeStamp": 1522081947011,
-      "dateTime": "2018-03-27T00:32:27Z"
-    },
-    "memberId": 17,
-    "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/000NUsnPjx07jcTtUCz6070d010004zK0k01.m3u8"
-  },
-  {
-    "title": "蒋芸的直播间（回放生成中）",
-    "subTitle": {
       "raw": "唱歌",
       "base64": "5ZSx5q2M"
     },
@@ -136,7 +51,7 @@
     },
     "memberId": 17,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/65d1346a-3877-47c4-90b0-ba27ed4e1052.mp4"
+    "streamPath": "https://mp6.48.cn/live/65d1346a-3877-47c4-90b0-ba27ed4e1052.mp4"
   },
   {
     "title": "蒋芸的电台（回放生成中）",
@@ -154,7 +69,7 @@
     },
     "memberId": 17,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/0d98faee-2cbc-4735-add8-664f9e65d74d.mp4"
+    "streamPath": "https://mp6.48.cn/live/0d98faee-2cbc-4735-add8-664f9e65d74d.mp4"
   },
   {
     "title": "蒋芸的电台（回放生成中）",
@@ -174,7 +89,7 @@
     },
     "memberId": 17,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/b6492ca4-4f27-4692-bb67-0c0dc21c6364.mp4"
+    "streamPath": "https://mp6.48.cn/live/b6492ca4-4f27-4692-bb67-0c0dc21c6364.mp4"
   },
   {
     "title": "蒋芸的直播间（回放生成中）",
@@ -447,7 +362,7 @@
     },
     "memberId": 17,
     "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/28eb276e-204e-48c5-be3f-4b246f82aed9.mp4"
+    "streamPath": "https://mp6.48.cn/live/28eb276e-204e-48c5-be3f-4b246f82aed9.mp4"
   },
   {
     "title": "蒋芸的直播间（回放生成中）",
@@ -583,7 +498,7 @@
     },
     "memberId": 17,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/73b6e704-756a-4429-8002-c33ea3b26244.mp4"
+    "streamPath": "https://mp6.48.cn/live/73b6e704-756a-4429-8002-c33ea3b26244.mp4"
   },
   {
     "title": "蒋芸的直播间（回放生成中）",
@@ -600,6 +515,6 @@
     },
     "memberId": 17,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/ca7efbca-1576-48a4-8ba0-1eb7517d94c4.mp4"
+    "streamPath": "https://mp6.48.cn/live/ca7efbca-1576-48a4-8ba0-1eb7517d94c4.mp4"
   }
 ]
