@@ -10,6 +10,24 @@
       "https://source.48.cn/mediasource/live/152924773447118vqwt6ms8.jpg"
     ],
     "startTime": {
+      "timeStamp": 1529673201074,
+      "dateTime": "2018-06-22T21:13:21Z"
+    },
+    "memberId": 6432,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/e0c9ce8b-42b5-4833-99a4-7b9998359626.mp4"
+  },
+  {
+    "title": "冯晓菲的电台（回放生成中）",
+    "subTitle": {
+      "raw": "人间不值得",
+      "base64": "5Lq66Ze05LiN5YC85b6X"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1492436179664G9cN9f3s65.JPG",
+      "https://source.48.cn/mediasource/live/152924773447118vqwt6ms8.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1529247734723,
       "dateTime": "2018-06-17T23:02:14Z"
     },

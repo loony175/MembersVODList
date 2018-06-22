@@ -2,6 +2,23 @@
   {
     "title": "张怡的直播间（回放生成中）",
     "subTitle": {
+      "raw": "夏至已至。",
+      "base64": "5aSP6Iez5bey6Iez44CC"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/152259397539268b55Ifhhu.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529678993326,
+      "dateTime": "2018-06-22T22:49:53Z"
+    },
+    "memberId": 63582,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/78d389f7-f95a-4b43-a9ea-30769778ce9f.mp4"
+  },
+  {
+    "title": "张怡的直播间（回放生成中）",
+    "subTitle": {
       "raw": "直播看看球啦，葡萄牙vs摩洛哥",
       "base64": "55u05pKt55yL55yL55CD5ZWm77yM6JGh6JCE54mZdnPmkanmtJvlk6U="
     },

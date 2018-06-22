@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1526900736816eFkFNA79Wc.jpg"
     ],
     "startTime": {
+      "timeStamp": 1529684177107,
+      "dateTime": "2018-06-23T00:16:17Z"
+    },
+    "memberId": 614750,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/01035fd1-7fdc-426d-b2a9-ee173baf169f.mp4"
+  },
+  {
+    "title": "邓倩的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "+",
+      "base64": "Kw=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1526900736816eFkFNA79Wc.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1529418366935,
       "dateTime": "2018-06-19T22:26:06Z"
     },

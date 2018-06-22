@@ -2,6 +2,41 @@
   {
     "title": "陈桂君的电台（回放生成中）",
     "subTitle": {
+      "raw": "晚上好！",
+      "base64": "5pma5LiK5aW977yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15296830402110nlivk0Oa4.jpg",
+      "https://source.48.cn/mediasource/live/1527173650191kc3XBXzwyw.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529683040291,
+      "dateTime": "2018-06-22T23:57:20Z"
+    },
+    "memberId": 417311,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/23095003-c2f2-427d-b0df-de7f97a2e148.mp4"
+  },
+  {
+    "title": "陈桂君的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "晚上好",
+      "base64": "5pma5LiK5aW9"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529682617451R57u8bJRc7.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529682617677,
+      "dateTime": "2018-06-22T23:50:17Z"
+    },
+    "memberId": 417311,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/9902f04a-7a35-468a-afde-dc5b2a4c7acc.mp4"
+  },
+  {
+    "title": "陈桂君的电台（回放生成中）",
+    "subTitle": {
       "raw": "夜播",
       "base64": "5aSc5pKt"
     },

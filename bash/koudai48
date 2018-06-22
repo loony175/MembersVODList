@@ -11,7 +11,7 @@ LatestVersion(){
 }
 if [ -f pocket48_version.conf ] ; then
 	now=$(date +%Y-%m-%dT%TZ | sed 's/^/"&/ ; s/$/&"/' | jq fromdate)
-	modifiedTime=$(ls --full-time -l pocket48_version.conf | awk -F "." '{print $1}' | awk '{print $6,$7}' | sed 's/^/"&/ ; s/ /T/ ; s/$/&Z"/' | jq fromdate)
+	modifiedTime=$(ls --full-time pocket48_version.conf | awk -F "." '{print $1}' | awk '{print $6,$7}' | sed 's/^/"&/ ; s/ /T/ ; s/$/&Z"/' | jq fromdate)
 	if [ $(awk "BEGIN{print ($now-$modifiedTime)}") -lt 2592000 ] ; then
 		version=$(cat pocket48_version.conf)
 	else

@@ -10,6 +10,24 @@
       "https://source.48.cn/mediasource/live/1528726351796u9okYaDGCT.jpg"
     ],
     "startTime": {
+      "timeStamp": 1529604751596,
+      "dateTime": "2018-06-22T02:12:31Z"
+    },
+    "memberId": 63551,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/b55694d7-29c1-491c-9bde-9f4d7b287f69.mp4"
+  },
+  {
+    "title": "陈韫凌的电台（回放生成中）",
+    "subTitle": {
+      "raw": "凌晨凌点",
+      "base64": "5YeM5pmo5YeM54K5"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529430800055qc8SE33Zn7.jpg",
+      "https://source.48.cn/mediasource/live/1528726351796u9okYaDGCT.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1529430800141,
       "dateTime": "2018-06-20T01:53:20Z"
     },
