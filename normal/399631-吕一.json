@@ -6,6 +6,59 @@
       "base64": "5aaC6aKY"
     },
     "picPath": [
+      "https://source.48.cn/mediasource/live/1529917097903fCE2LBK53t.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529917097885,
+      "dateTime": "2018-06-25T16:58:17Z"
+    },
+    "memberId": 399631,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/70422e40-03b1-421c-a114-f9d9985f4606.mp4"
+  },
+  {
+    "title": "吕一的电台（回放生成中）",
+    "subTitle": {
+      "raw": "如图",
+      "base64": "5aaC5Zu+"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529852961030vS3p4vd7z4.jpg",
+      "https://source.48.cn/mediasource/live/1529852961190LEl624LSV6.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529857320477,
+      "dateTime": "2018-06-25T00:22:00Z"
+    },
+    "memberId": 399631,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/8b2ae592-52ce-4d74-8e41-e872d1348f9f.mp4"
+  },
+  {
+    "title": "吕一的电台（回放生成中）",
+    "subTitle": {
+      "raw": "如图",
+      "base64": "5aaC5Zu+"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529852961030vS3p4vd7z4.jpg",
+      "https://source.48.cn/mediasource/live/1529852961190LEl624LSV6.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529852961598,
+      "dateTime": "2018-06-24T23:09:21Z"
+    },
+    "memberId": 399631,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/a6c7ccbb-c55b-4815-895a-165bfd459326.mp4"
+  },
+  {
+    "title": "吕一的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "如题",
+      "base64": "5aaC6aKY"
+    },
+    "picPath": [
       "https://source.48.cn/mediasource/live/1529486883947lN8y4sYvx5.jpg"
     ],
     "startTime": {

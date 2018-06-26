@@ -2,6 +2,23 @@
   {
     "title": "赵晔的直播间（回放生成中）",
     "subTitle": {
+      "raw": "一二三四五",
+      "base64": "5LiA5LqM5LiJ5Zub5LqU"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15297681686775a775927m2.png"
+    ],
+    "startTime": {
+      "timeStamp": 1529768170184,
+      "dateTime": "2018-06-23T23:36:10Z"
+    },
+    "memberId": 6429,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/0f53127b-ea0b-46ff-b794-171e1d9bb212.mp4"
+  },
+  {
+    "title": "赵晔的直播间（回放生成中）",
+    "subTitle": {
       "raw": "游戏",
       "base64": "5ri45oiP"
     },

@@ -13,6 +13,61 @@
       "https://source.48.cn/mediasource/live/1529507739427EFa955zYq9.jpg"
     ],
     "startTime": {
+      "timeStamp": 1530029321103,
+      "dateTime": "2018-06-27T00:08:41Z"
+    },
+    "memberId": 610042,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/8ffb350f-a24f-46bf-8260-cf540036ad20.mp4"
+  },
+  {
+    "title": "唐霖的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "晚安",
+      "base64": "5pma5a6J"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1523872786152accdbc2tyx.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529850609086,
+      "dateTime": "2018-06-24T22:30:09Z"
+    },
+    "memberId": 610042,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/85df9013-8eea-41e1-a205-aa408e66c5a6.mp4"
+  },
+  {
+    "title": "唐霖的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "晚安",
+      "base64": "5pma5a6J"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1523872786152accdbc2tyx.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1529770567015,
+      "dateTime": "2018-06-24T00:16:07Z"
+    },
+    "memberId": 610042,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/446e071b-d9d0-4ea9-ba16-5b869aa22501.mp4"
+  },
+  {
+    "title": "唐霖的电台（回放生成中）",
+    "subTitle": {
+      "raw": "十分钟",
+      "base64": "5Y2B5YiG6ZKf"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528473030673LoH8MuRxKx.jpg",
+      "https://source.48.cn/mediasource/live/1529507738930SL257683Ui.jpg",
+      "https://source.48.cn/mediasource/live/15295077391599y1zIRz9Ue.jpg",
+      "https://source.48.cn/mediasource/live/15295077393209620wSX7T9.jpg",
+      "https://source.48.cn/mediasource/live/1529507739427EFa955zYq9.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1529507739508,
       "dateTime": "2018-06-20T23:15:39Z"
     },

@@ -1,41 +1,20 @@
 [
   {
-    "title": "肖文静的电台（回放生成中）",
+    "title": "肖文静的直播间（回放生成中）",
     "subTitle": {
-      "raw": "和王梦媛一起沟通沟通吃鸡",
-      "base64": "5ZKM546L5qKm5aqb5LiA6LW35rKf6YCa5rKf6YCa5ZCD6bih"
+      "raw": "聊聊?",
+      "base64": "6IGK6IGKPw=="
     },
     "picPath": [
-      "https://source.48.cn/mediasource/live/1529663813513FA6e7iLYs7.jpg",
-      "https://source.48.cn/mediasource/live/1529669505071iSc45005I9.jpeg"
+      "https://source.48.cn/mediasource/live/15295907271034h7hHeXO4W.png"
     ],
     "startTime": {
-      "timeStamp": 1529669505267,
-      "dateTime": "2018-06-22T20:11:45Z"
+      "timeStamp": 1530025271919,
+      "dateTime": "2018-06-26T23:01:11Z"
     },
     "memberId": 624315,
-    "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/3ea77f63-4f8b-4ef8-96b6-c4756cd666ae.mp4"
-  },
-  {
-    "title": "肖文静的电台（回放生成中）",
-    "subTitle": {
-      "raw": "和王梦媛一起沟通沟通吃鸡",
-      "base64": "5ZKM546L5qKm5aqb5LiA6LW35rKf6YCa5rKf6YCa5ZCD6bih"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1529663813513FA6e7iLYs7.jpg",
-      "https://source.48.cn/mediasource/live/1529667265122mql3O29F92.jpg",
-      "https://source.48.cn/mediasource/live/1529667265268AlK0YwSFT1.jpg",
-      "https://source.48.cn/mediasource/live/1529667265341H0bgHxYzrz.jpg"
-    ],
-    "startTime": {
-      "timeStamp": 1529667265490,
-      "dateTime": "2018-06-22T19:34:25Z"
-    },
-    "memberId": 624315,
-    "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/980e798c-8079-470a-9e5c-1577b33df7c4.mp4"
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/21e7cf77-b9d1-4b2e-860f-5b397fb5b2e0.mp4"
   },
   {
     "title": "肖文静的电台（回放生成中）",

@@ -2,6 +2,58 @@
   {
     "title": "孙歆文的直播间（回放生成中）",
     "subTitle": {
+      "raw": "玩个老滚",
+      "base64": "546p5Liq6ICB5rua"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528196408724fnqfNk8l9I.png"
+    ],
+    "startTime": {
+      "timeStamp": 1530025874130,
+      "dateTime": "2018-06-26T23:11:14Z"
+    },
+    "memberId": 6739,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/f7bbface-1c59-4858-ab1f-80c65353bf17.mp4"
+  },
+  {
+    "title": "孙歆文的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "玩个老滚",
+      "base64": "546p5Liq6ICB5rua"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1528196408724fnqfNk8l9I.png"
+    ],
+    "startTime": {
+      "timeStamp": 1530025464420,
+      "dateTime": "2018-06-26T23:04:24Z"
+    },
+    "memberId": 6739,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/d202b357-3611-4008-bec3-41f1c6e4962d.mp4"
+  },
+  {
+    "title": "孙歆文的电台（回放生成中）",
+    "subTitle": {
+      "raw": "一会",
+      "base64": "5LiA5Lya"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/153002526153871UB6i7t10.png",
+      "https://source.48.cn/mediasource/live/1528461249791SmxRMw8Cg0.png"
+    ],
+    "startTime": {
+      "timeStamp": 1530025261742,
+      "dateTime": "2018-06-26T23:01:01Z"
+    },
+    "memberId": 6739,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/f2944341-dec0-4f0a-a00c-1c71b170eab7.mp4"
+  },
+  {
+    "title": "孙歆文的直播间（回放生成中）",
+    "subTitle": {
       "raw": "吃个东西",
       "base64": "5ZCD5Liq5Lic6KW/"
     },
