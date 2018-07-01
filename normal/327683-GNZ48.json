@@ -2,6 +2,23 @@
   {
     "title": "GNZ48的直播间（回放生成中）",
     "subTitle": {
+      "raw": "GNZ48突击世界杯凤凰网直播室",
+      "base64": "R05aNDjnqoHlh7vkuJbnlYzmna/lh6Tlh7DnvZHnm7Tmkq3lrqQ="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/avatar/327683.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530113891240,
+      "dateTime": "2018-06-27T23:38:11Z"
+    },
+    "memberId": 327683,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/b24dbe8b-5702-4ea2-bd1c-69ee5b06cb00.mp4"
+  },
+  {
+    "title": "GNZ48的直播间（回放生成中）",
+    "subTitle": {
       "raw": "应援会ShowTime演出顺序抽签直播",
       "base64": "5bqU5o+05LyaU2hvd1RpbWXmvJTlh7rpobrluo/mir3nrb7nm7Tmkq0="
     },

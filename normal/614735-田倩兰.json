@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1529848320789AD725L40c0.jpg"
     ],
     "startTime": {
+      "timeStamp": 1530194896995,
+      "dateTime": "2018-06-28T22:08:16Z"
+    },
+    "memberId": 614735,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/b0b34085-e917-43c0-a272-6adfe8e692b9.mp4"
+  },
+  {
+    "title": "田倩兰的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "请输入直播宣言",
+      "base64": "6K+36L6T5YWl55u05pKt5a6j6KiA"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529848320789AD725L40c0.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1529848320980,
       "dateTime": "2018-06-24T21:52:00Z"
     },

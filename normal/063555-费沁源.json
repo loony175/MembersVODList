@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/15199994878148cOYv5xbk4.jpg"
     ],
     "startTime": {
+      "timeStamp": 1530200672882,
+      "dateTime": "2018-06-28T23:44:32Z"
+    },
+    "memberId": 63555,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/7616d093-d2b0-4e3c-bba2-de6b425d1ce1.mp4"
+  },
+  {
+    "title": "费沁源的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "直播啦",
+      "base64": "55u05pKt5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15199994878148cOYv5xbk4.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1529753809259,
       "dateTime": "2018-06-23T19:36:49Z"
     },
