@@ -2,6 +2,23 @@
   {
     "title": "唐莉佳的直播间（回放生成中）",
     "subTitle": {
+      "raw": "123",
+      "base64": "MTIz"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529412462450sQmVpy2Y74.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530374178172,
+      "dateTime": "2018-06-30T23:56:18Z"
+    },
+    "memberId": 327571,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/001NyHkOjx07lFYOOSAn070d010005Mc0k01.m3u8"
+  },
+  {
+    "title": "唐莉佳的直播间（回放生成中）",
+    "subTitle": {
       "raw": "来来来",
       "base64": "5p2l5p2l5p2l"
     },

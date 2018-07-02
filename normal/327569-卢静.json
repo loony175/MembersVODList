@@ -2,6 +2,23 @@
   {
     "title": "卢静的直播间（回放生成中）",
     "subTitle": {
+      "raw": "您好",
+      "base64": "5oKo5aW9"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529677758369n6D49W62vV.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530375783854,
+      "dateTime": "2018-07-01T00:23:03Z"
+    },
+    "memberId": 327569,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/000DYrzijx07lFZXk7nq070d010004Rh0k01.m3u8"
+  },
+  {
+    "title": "卢静的直播间（回放生成中）",
+    "subTitle": {
       "raw": "快速直播！",
       "base64": "5b+r6YCf55u05pKt77yB"
     },

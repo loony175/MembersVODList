@@ -2,6 +2,23 @@
   {
     "title": "祁静的直播间（回放生成中）",
     "subTitle": {
+      "raw": "练歌时间",
+      "base64": "57uD5q2M5pe26Ze0"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15303599933165v1whdc8Sq.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530359993542,
+      "dateTime": "2018-06-30T19:59:53Z"
+    },
+    "memberId": 399672,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/5411f14e-57cf-484c-b7d9-c967827ff340.mp4"
+  },
+  {
+    "title": "祁静的直播间（回放生成中）",
+    "subTitle": {
       "raw": "等外卖的间隙",
       "base64": "562J5aSW5Y2W55qE6Ze06ZqZ"
     },

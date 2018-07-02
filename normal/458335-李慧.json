@@ -2,6 +2,40 @@
   {
     "title": "李慧的直播间（回放生成中）",
     "subTitle": {
+      "raw": "吃饭",
+      "base64": "5ZCD6aWt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1530443897649y8JD83qQhG.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530443897533,
+      "dateTime": "2018-07-01T19:18:17Z"
+    },
+    "memberId": 458335,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/d9e0b97f-13fa-4c38-b3f9-af86657cc4cb.mp4"
+  },
+  {
+    "title": "李慧的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "一会儿吧~",
+      "base64": "5LiA5Lya5YS/5ZCnfg=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1530369667658CIgI0qKYOz.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530369667961,
+      "dateTime": "2018-06-30T22:41:07Z"
+    },
+    "memberId": 458335,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/fbf22dd7-4bf8-440b-81e9-0671eaae1d78.mp4"
+  },
+  {
+    "title": "李慧的直播间（回放生成中）",
+    "subTitle": {
       "raw": "hi~",
       "base64": "aGl+"
     },

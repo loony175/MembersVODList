@@ -2,6 +2,23 @@
   {
     "title": "谢妮的直播间（回放生成中）",
     "subTitle": {
+      "raw": "成都～",
+      "base64": "5oiQ6YO9772e"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1530374350153889TjUnT3R.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530374349953,
+      "dateTime": "2018-06-30T23:59:09Z"
+    },
+    "memberId": 45,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/98bf5571-50ba-481b-aea2-880f5a203724.mp4"
+  },
+  {
+    "title": "谢妮的直播间（回放生成中）",
+    "subTitle": {
       "raw": "播",
       "base64": "5pKt"
     },

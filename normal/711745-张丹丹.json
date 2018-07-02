@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "title": "张丹丹的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "初次见面，请多关照！",
+      "base64": "5Yid5qyh6KeB6Z2i77yM6K+35aSa5YWz54Wn77yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/153037024125565e5s5dcNo.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530457100228,
+      "dateTime": "2018-07-01T22:58:20Z"
+    },
+    "memberId": 711745,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/c7af4e44-82f5-46c0-8639-3c429f523309.mp4"
+  }
+]
