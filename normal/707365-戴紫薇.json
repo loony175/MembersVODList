@@ -1,0 +1,40 @@
+[
+  {
+    "title": "戴紫薇的电台（回放生成中）",
+    "subTitle": {
+      "raw": "嗝",
+      "base64": "5Zed"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15300183811941qhcztG3Sl.jpg",
+      "https://source.48.cn/mediasource/live/1530018381384UfgHsdMnR1.jpg",
+      "https://source.48.cn/mediasource/live/1530018381468Y010lK63d9.jpg",
+      "https://source.48.cn/mediasource/live/1530018381577lSd0TU82l0.png",
+      "https://source.48.cn/mediasource/live/1530018381689107UO0UK2D.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530680179067,
+      "dateTime": "2018-07-04T12:56:19Z"
+    },
+    "memberId": 707365,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/32f26af0-230a-4b00-a09f-656d9e5d90f9.mp4"
+  },
+  {
+    "title": "戴紫薇的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "回中心了",
+      "base64": "5Zue5Lit5b+D5LqG"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1530098548060m50oqp6jb6.png"
+    ],
+    "startTime": {
+      "timeStamp": 1530373192534,
+      "dateTime": "2018-06-30T23:39:52Z"
+    },
+    "memberId": 707365,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/c8a0a3a0-e004-4801-bec0-c00f4ac41aa5.mp4"
+  }
+]
