@@ -2,6 +2,40 @@
   {
     "title": "张怡的直播间（回放生成中）",
     "subTitle": {
+      "raw": "快乐直播间，快乐你我他",
+      "base64": "5b+r5LmQ55u05pKt6Ze077yM5b+r5LmQ5L2g5oiR5LuW"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/152259397539268b55Ifhhu.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530626136968,
+      "dateTime": "2018-07-03T21:55:36Z"
+    },
+    "memberId": 63582,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/6df34352-090c-46bd-ad68-d525aa790ec5.mp4"
+  },
+  {
+    "title": "张怡的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "快乐直播间，快乐你我他",
+      "base64": "5b+r5LmQ55u05pKt6Ze077yM5b+r5LmQ5L2g5oiR5LuW"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/152259397539268b55Ifhhu.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530622878305,
+      "dateTime": "2018-07-03T21:01:18Z"
+    },
+    "memberId": 63582,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/7621ec51-b5ff-48f5-b11b-2647843ccdb6.mp4"
+  },
+  {
+    "title": "张怡的直播间（回放生成中）",
+    "subTitle": {
       "raw": "巡演结束啦",
       "base64": "5beh5ryU57uT5p2f5ZWm"
     },

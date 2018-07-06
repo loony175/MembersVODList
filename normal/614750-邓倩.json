@@ -1,5 +1,22 @@
 [
   {
+    "title": "邓倩的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "+",
+      "base64": "Kw=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1530616006280T7FTBmq284.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530616006197,
+      "dateTime": "2018-07-03T19:06:46Z"
+    },
+    "memberId": 614750,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/4bdf4c25-d27e-42c7-a949-944d5b34f0de.mp4"
+  },
+  {
     "title": "邓倩的电台（回放生成中）",
     "subTitle": {
       "raw": "请输入直播宣言",
@@ -16,23 +33,6 @@
     "memberId": 614750,
     "liveType": 2,
     "streamPath": "https://mp4.48.cn/live/78a3a7c6-a09a-45a5-b30c-a42cd0c78433.mp4"
-  },
-  {
-    "title": "邓倩的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "+",
-      "base64": "Kw=="
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1526900736816eFkFNA79Wc.jpg"
-    ],
-    "startTime": {
-      "timeStamp": 1529844688963,
-      "dateTime": "2018-06-24T20:51:28Z"
-    },
-    "memberId": 614750,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/2944c811-b245-4132-9d2f-4d025f9b86ab.mp4"
   },
   {
     "title": "邓倩的直播间（回放生成中）",

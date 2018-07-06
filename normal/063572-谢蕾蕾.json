@@ -2,6 +2,23 @@
   {
     "title": "谢蕾蕾的直播间（回放生成中）",
     "subTitle": {
+      "raw": "test",
+      "base64": "dGVzdA=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1530634641340SN2yE5Ciu5.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530789874689,
+      "dateTime": "2018-07-05T19:24:34Z"
+    },
+    "memberId": 63572,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/f55fdf11-d806-4f11-98ff-258c4cba00cd.mp4"
+  },
+  {
+    "title": "谢蕾蕾的直播间（回放生成中）",
+    "subTitle": {
       "raw": "文儿来啦～～",
       "base64": "5paH5YS/5p2l5ZWm772e772e"
     },

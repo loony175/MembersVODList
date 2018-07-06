@@ -9,6 +9,41 @@
       "https://source.48.cn/mediasource/live/152059389876541i8E5g011.jpg"
     ],
     "startTime": {
+      "timeStamp": 1530625596558,
+      "dateTime": "2018-07-03T21:46:36Z"
+    },
+    "memberId": 14,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/1de40fd7-ae5a-489c-8c72-e6306300ecde.mp4"
+  },
+  {
+    "title": "徐子轩的电台（回放生成中）",
+    "subTitle": {
+      "raw": "悄咪咪的深夜电台",
+      "base64": "5oKE5ZKq5ZKq55qE5rex5aSc55S15Y+w"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1526396183395jlWg9Q6nS7.jpg",
+      "https://source.48.cn/mediasource/live/c866e4ea-7907-4de5-93c3-656486f4a96d.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530557092735,
+      "dateTime": "2018-07-03T02:44:52Z"
+    },
+    "memberId": 14,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/94f2c96a-091c-4cfb-9ff4-3ccaa2fe6c61.mp4"
+  },
+  {
+    "title": "徐子轩的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "西伯利亚大尾巴狼突然出现！",
+      "base64": "6KW/5Lyv5Yip5Lqa5aSn5bC+5be054u856qB54S25Ye6546w77yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/152059389876541i8E5g011.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1530272017900,
       "dateTime": "2018-06-29T19:33:37Z"
     },

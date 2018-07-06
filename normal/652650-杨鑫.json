@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1529145648582c6O2sH6QCF.jpg"
     ],
     "startTime": {
+      "timeStamp": 1530780148588,
+      "dateTime": "2018-07-05T16:42:28Z"
+    },
+    "memberId": 652650,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/27056958-eead-4df2-a442-7433fb39a0e3.mp4"
+  },
+  {
+    "title": "杨鑫的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "pikapika～jo",
+      "base64": "cGlrYXBpa2HvvZ5qbw=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529145648582c6O2sH6QCF.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1530501148263,
       "dateTime": "2018-07-02T11:12:28Z"
     },
