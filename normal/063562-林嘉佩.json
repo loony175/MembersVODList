@@ -2,6 +2,40 @@
   {
     "title": "林嘉佩的直播间（回放生成中）",
     "subTitle": {
+      "raw": "64.0",
+      "base64": "NjQuMA=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15309648532183SIS4jQEbc.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1531057070598,
+      "dateTime": "2018-07-08T21:37:50Z"
+    },
+    "memberId": 63562,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/801faa03-e080-4275-bfb4-97de4e3ff7c0.mp4"
+  },
+  {
+    "title": "林嘉佩的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "63.0吃瓜",
+      "base64": "NjMuMOWQg+eTnA=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15309648532183SIS4jQEbc.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1530964853416,
+      "dateTime": "2018-07-07T20:00:53Z"
+    },
+    "memberId": 63562,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/004jgchmjx07lQWkRWNF070d01000bit0k01.m3u8"
+  },
+  {
+    "title": "林嘉佩的直播间（回放生成中）",
+    "subTitle": {
       "raw": "62.0通宵直播",
       "base64": "NjIuMOmAmuWuteebtOaSrQ=="
     },

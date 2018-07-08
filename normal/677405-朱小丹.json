@@ -17,6 +17,31 @@
       "https://source.48.cn/mediasource/live/1530795641753tudBb343d9.jpg"
     ],
     "startTime": {
+      "timeStamp": 1530893144550,
+      "dateTime": "2018-07-07T00:05:44Z"
+    },
+    "memberId": 677405,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/f6776d98-afae-409c-8704-1e4e7b32acb8.mp4"
+  },
+  {
+    "title": "朱小丹的电台（回放生成中）",
+    "subTitle": {
+      "raw": "好久不见",
+      "base64": "5aW95LmF5LiN6KeB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15304510953199O6dtXYVz7.jpg",
+      "https://source.48.cn/mediasource/live/153079564089560EZu6V520.jpg",
+      "https://source.48.cn/mediasource/live/1530795641035Dnn6UD2uz2.jpg",
+      "https://source.48.cn/mediasource/live/1530795641136VTa9J2KE7t.jpg",
+      "https://source.48.cn/mediasource/live/1530795641236pZoB8aw4tk.jpg",
+      "https://source.48.cn/mediasource/live/1530795641345VTcn9l99tc.jpg",
+      "https://source.48.cn/mediasource/live/15307956415046VHL2718Wq.jpg",
+      "https://source.48.cn/mediasource/live/1530795641582GJt8o4Ugko.jpg",
+      "https://source.48.cn/mediasource/live/1530795641753tudBb343d9.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1530795641972,
       "dateTime": "2018-07-05T21:00:41Z"
     },

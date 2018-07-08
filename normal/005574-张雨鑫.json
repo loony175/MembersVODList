@@ -2,6 +2,23 @@
   {
     "title": "张雨鑫的直播间（回放生成中）",
     "subTitle": {
+      "raw": "hi",
+      "base64": "aGk="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15310628241837873gtyxBF.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1531062824234,
+      "dateTime": "2018-07-08T23:13:44Z"
+    },
+    "memberId": 5574,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/9e7c0bba-797b-4c7f-a8cd-7579f74d9e62.mp4"
+  },
+  {
+    "title": "张雨鑫的直播间（回放生成中）",
+    "subTitle": {
       "raw": "热",
       "base64": "54Ot"
     },

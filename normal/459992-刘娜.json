@@ -2,6 +2,23 @@
   {
     "title": "刘娜的直播间（回放生成中）",
     "subTitle": {
+      "raw": "好久不见",
+      "base64": "5aW95LmF5LiN6KeB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1531063989711A5327695h7.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1531063989349,
+      "dateTime": "2018-07-08T23:33:09Z"
+    },
+    "memberId": 459992,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/001ZIK6pjx07lSGcWQpV070d010002Gr0k01.m3u8"
+  },
+  {
+    "title": "刘娜的直播间（回放生成中）",
+    "subTitle": {
       "raw": "一会～",
       "base64": "5LiA5Lya772e"
     },

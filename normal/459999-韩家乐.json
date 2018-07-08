@@ -2,6 +2,40 @@
   {
     "title": "韩家乐的直播间（回放生成中）",
     "subTitle": {
+      "raw": "嗨",
+      "base64": "5Zeo"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15310643064024W0K7L7Qp5.jpg"
+    ],
+    "startTime": {
+      "timeStamp": 1531064328206,
+      "dateTime": "2018-07-08T23:38:48Z"
+    },
+    "memberId": 459999,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/d76fb751-2d68-491b-bbe7-4ee3b4a3996d.mp4"
+  },
+  {
+    "title": "韩家乐的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "唱歌呀",
+      "base64": "5ZSx5q2M5ZGA"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1530965005392G9I6e2SUJ2.png"
+    ],
+    "startTime": {
+      "timeStamp": 1530965005547,
+      "dateTime": "2018-07-07T20:03:25Z"
+    },
+    "memberId": 459999,
+    "liveType": 1,
+    "streamPath": "http://live.us.sinaimg.cn/000NgCGajx07lQTOGgYT070d010007gk0k01.m3u8"
+  },
+  {
+    "title": "韩家乐的直播间（回放生成中）",
+    "subTitle": {
       "raw": "播一播",
       "base64": "5pKt5LiA5pKt"
     },

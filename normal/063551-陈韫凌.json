@@ -10,6 +10,24 @@
       "https://source.48.cn/mediasource/live/1528726351796u9okYaDGCT.jpg"
     ],
     "startTime": {
+      "timeStamp": 1530959138441,
+      "dateTime": "2018-07-07T18:25:38Z"
+    },
+    "memberId": 63551,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/b211b14c-525b-4671-b0b2-2c2505ff4108.mp4"
+  },
+  {
+    "title": "陈韫凌的电台（回放生成中）",
+    "subTitle": {
+      "raw": "晚安电台",
+      "base64": "5pma5a6J55S15Y+w"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529430800055qc8SE33Zn7.jpg",
+      "https://source.48.cn/mediasource/live/1528726351796u9okYaDGCT.jpg"
+    ],
+    "startTime": {
       "timeStamp": 1530807350312,
       "dateTime": "2018-07-06T00:15:50Z"
     },
@@ -87,23 +105,6 @@
     "memberId": 63551,
     "liveType": 1,
     "streamPath": "https://mp4.48.cn/live/117a32ca-84b1-496d-acb3-69bb9015a023.mp4"
-  },
-  {
-    "title": "陈韫凌的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "来吧来吧",
-      "base64": "5p2l5ZCn5p2l5ZCn"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/152932513414694k6Zl575H.png"
-    ],
-    "startTime": {
-      "timeStamp": 1530354214552,
-      "dateTime": "2018-06-30T18:23:34Z"
-    },
-    "memberId": 63551,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/69ad17e1-a665-4dc0-af10-fc257a0375f0.mp4"
   },
   {
     "title": "陈韫凌的直播间（回放生成中）",
