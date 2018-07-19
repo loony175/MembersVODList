@@ -1,5 +1,25 @@
 [
   {
+    "title": "周湘的电台（回放生成中）",
+    "subTitle": {
+      "raw": "睡前唠叨",
+      "base64": "552h5YmN5ZSg5Y+o"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1531234498182q7iy5EU1g3.jpg",
+      "https://source.48.cn/mediasource/live/1531234498377H8dQoZp2Tk.jpg",
+      "https://source.48.cn/mediasource/live/1531234498538DqnJ07Pnku.png",
+      "https://source.48.cn/mediasource/live/15312344986712uW4X89F0K.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1531234498911,
+      "datetime": "2018-07-10T22:54:58Z"
+    },
+    "memberId": 711746,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/f11b2b55-3345-4ac3-8cc2-b65009384c0b.mp4"
+  },
+  {
     "title": "周湘的直播间（回放生成中）",
     "subTitle": {
       "raw": "随便唠唠嗑",
@@ -9,8 +29,8 @@
       "https://source.48.cn/mediasource/live/1530370180521W193xH0K0B.png"
     ],
     "startTime": {
-      "timeStamp": 1530629967932,
-      "dateTime": "2018-07-03T22:59:27Z"
+      "timestamp": 1530629967932,
+      "datetime": "2018-07-03T22:59:27Z"
     },
     "memberId": 711746,
     "liveType": 1,

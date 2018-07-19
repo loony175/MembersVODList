@@ -9,8 +9,8 @@
       "https://source.48.cn/mediasource/live/1526202602669rr3Qd0bklN.png"
     ],
     "startTime": {
-      "timeStamp": 1530193140675,
-      "dateTime": "2018-06-28T21:39:00Z"
+      "timestamp": 1530193140675,
+      "datetime": "2018-06-28T21:39:00Z"
     },
     "memberId": 286973,
     "liveType": 1,
@@ -26,8 +26,8 @@
       "https://source.48.cn/mediasource/live/1526202602669rr3Qd0bklN.png"
     ],
     "startTime": {
-      "timeStamp": 1530192607748,
-      "dateTime": "2018-06-28T21:30:07Z"
+      "timestamp": 1530192607748,
+      "datetime": "2018-06-28T21:30:07Z"
     },
     "memberId": 286973,
     "liveType": 1,
@@ -43,12 +43,12 @@
       "https://source.48.cn/mediasource/live/1526202602669rr3Qd0bklN.png"
     ],
     "startTime": {
-      "timeStamp": 1529311039750,
-      "dateTime": "2018-06-18T16:37:19Z"
+      "timestamp": 1529311039750,
+      "datetime": "2018-06-18T16:37:19Z"
     },
     "memberId": 286973,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/003ow6tLjx07lmnMydEc070d010008ad0k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/003ow6tLjx07lmnMydEc070d010008ad0k01.m3u8"
   },
   {
     "title": "成珏的电台（回放生成中）",
@@ -69,8 +69,8 @@
       "https://source.48.cn/mediasource/live/1527512320292h7aZNREXJ3.jpg"
     ],
     "startTime": {
-      "timeStamp": 1527512320590,
-      "dateTime": "2018-05-28T20:58:40Z"
+      "timestamp": 1527512320590,
+      "datetime": "2018-05-28T20:58:40Z"
     },
     "memberId": 286973,
     "liveType": 2,

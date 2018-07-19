@@ -2,23 +2,6 @@
   {
     "title": "赖俊亦的直播间（回放生成中）",
     "subTitle": {
-      "raw": "回酒店啦",
-      "base64": "5Zue6YWS5bqX5ZWm"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1529854753402g6jx4uF1hz.jpg"
-    ],
-    "startTime": {
-      "timeStamp": 1529854753678,
-      "dateTime": "2018-06-24T23:39:13Z"
-    },
-    "memberId": 530440,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/d36fb489-7a48-47aa-a968-49f1638e7e5c.mp4"
-  },
-  {
-    "title": "赖俊亦的直播间（回放生成中）",
-    "subTitle": {
       "raw": "啦啦啦",
       "base64": "5ZWm5ZWm5ZWm"
     },
@@ -26,8 +9,8 @@
       "https://source.48.cn/mediasource/live/1529068255554F30oot749p.jpg"
     ],
     "startTime": {
-      "timeStamp": 1529246963041,
-      "dateTime": "2018-06-17T22:49:23Z"
+      "timestamp": 1529246963041,
+      "datetime": "2018-06-17T22:49:23Z"
     },
     "memberId": 530440,
     "liveType": 1,
@@ -43,8 +26,8 @@
       "https://source.48.cn/mediasource/live/1529068255554F30oot749p.jpg"
     ],
     "startTime": {
-      "timeStamp": 1529068255794,
-      "dateTime": "2018-06-15T21:10:55Z"
+      "timestamp": 1529068255794,
+      "datetime": "2018-06-15T21:10:55Z"
     },
     "memberId": 530440,
     "liveType": 1,

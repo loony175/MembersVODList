@@ -9,12 +9,12 @@
       "https://source.48.cn/mediasource/live/15186094442916mWNKOM0dp.jpg"
     ],
     "startTime": {
-      "timeStamp": 1518609472513,
-      "dateTime": "2018-02-14T19:57:52Z"
+      "timestamp": 1518609472513,
+      "datetime": "2018-02-14T19:57:52Z"
     },
     "memberId": 20,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/000IjxbEjx07iaM9kA9F070d0100044y0k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/000IjxbEjx07iaM9kA9F070d0100044y0k01.m3u8"
   },
   {
     "title": "李宇琪的直播间（回放生成中）",
@@ -26,12 +26,12 @@
       "https://source.48.cn/mediasource/live/151455357761499ucQo0EQm.png"
     ],
     "startTime": {
-      "timeStamp": 1514639944202,
-      "dateTime": "2017-12-30T21:19:04Z"
+      "timestamp": 1514639944202,
+      "datetime": "2017-12-30T21:19:04Z"
     },
     "memberId": 20,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/004hayF9jx07gZziMfRm070d01000cpI0k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/004hayF9jx07gZziMfRm070d01000cpI0k01.m3u8"
   },
   {
     "title": "李宇琪的直播间（回放生成中）",
@@ -43,12 +43,12 @@
       "https://source.48.cn/mediasource/live/151455357761499ucQo0EQm.png"
     ],
     "startTime": {
-      "timeStamp": 1514553578297,
-      "dateTime": "2017-12-29T21:19:38Z"
+      "timestamp": 1514553578297,
+      "datetime": "2017-12-29T21:19:38Z"
     },
     "memberId": 20,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/001OrpiTjx07gXVf1knu070d010008AT0k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/001OrpiTjx07gXVf1knu070d010008AT0k01.m3u8"
   },
   {
     "title": "李宇琪的直播间（回放生成中）",
@@ -60,12 +60,12 @@
       "https://source.48.cn/mediasource/live/1499875708694yJswbdQe1E.jpg"
     ],
     "startTime": {
-      "timeStamp": 1507305483251,
-      "dateTime": "2017-10-06T23:58:03Z"
+      "timestamp": 1507305483251,
+      "datetime": "2017-10-06T23:58:03Z"
     },
     "memberId": 20,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/0019jG5Ajx07eO5xOOsv070d01000bg40k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/0019jG5Ajx07eO5xOOsv070d01000bg40k01.m3u8"
   },
   {
     "title": "李宇琪的直播间（回放生成中）",
@@ -77,8 +77,8 @@
       "https://source.48.cn/mediasource/live/1499875708694yJswbdQe1E.jpg"
     ],
     "startTime": {
-      "timeStamp": 1506181754070,
-      "dateTime": "2017-09-23T23:49:14Z"
+      "timestamp": 1506181754070,
+      "datetime": "2017-09-23T23:49:14Z"
     },
     "memberId": 20,
     "liveType": 1,
@@ -94,8 +94,8 @@
       "https://source.48.cn/mediasource/live/1504973154908u3Ok7SoZpF.JPG"
     ],
     "startTime": {
-      "timeStamp": 1505045473795,
-      "dateTime": "2017-09-10T20:11:13Z"
+      "timestamp": 1505045473795,
+      "datetime": "2017-09-10T20:11:13Z"
     },
     "memberId": 20,
     "liveType": 1,
@@ -111,8 +111,8 @@
       "https://source.48.cn/mediasource/live/1504973154908u3Ok7SoZpF.JPG"
     ],
     "startTime": {
-      "timeStamp": 1504973155140,
-      "dateTime": "2017-09-10T00:05:55Z"
+      "timestamp": 1504973155140,
+      "datetime": "2017-09-10T00:05:55Z"
     },
     "memberId": 20,
     "liveType": 1,
@@ -128,8 +128,8 @@
       "https://source.48.cn/mediasource/live/1499875708694yJswbdQe1E.jpg"
     ],
     "startTime": {
-      "timeStamp": 1503487156124,
-      "dateTime": "2017-08-23T19:19:16Z"
+      "timestamp": 1503487156124,
+      "datetime": "2017-08-23T19:19:16Z"
     },
     "memberId": 20,
     "liveType": 1,
@@ -145,8 +145,8 @@
       "https://source.48.cn/mediasource/live/1499875708694yJswbdQe1E.jpg"
     ],
     "startTime": {
-      "timeStamp": 1502034016234,
-      "dateTime": "2017-08-06T23:40:16Z"
+      "timestamp": 1502034016234,
+      "datetime": "2017-08-06T23:40:16Z"
     },
     "memberId": 20,
     "liveType": 1,
@@ -162,8 +162,8 @@
       "https://source.48.cn/mediasource/live/1499875708694yJswbdQe1E.jpg"
     ],
     "startTime": {
-      "timeStamp": 1501673373818,
-      "dateTime": "2017-08-02T19:29:33Z"
+      "timestamp": 1501673373818,
+      "datetime": "2017-08-02T19:29:33Z"
     },
     "memberId": 20,
     "liveType": 1,
@@ -179,8 +179,8 @@
       "https://source.48.cn/mediasource/live/1499875708694yJswbdQe1E.jpg"
     ],
     "startTime": {
-      "timeStamp": 1500811860330,
-      "dateTime": "2017-07-23T20:11:00Z"
+      "timestamp": 1500811860330,
+      "datetime": "2017-07-23T20:11:00Z"
     },
     "memberId": 20,
     "liveType": 1,
@@ -196,12 +196,12 @@
       "https://source.48.cn/mediasource/live/1499875708694yJswbdQe1E.jpg"
     ],
     "startTime": {
-      "timeStamp": 1500209309811,
-      "dateTime": "2017-07-16T20:48:29Z"
+      "timestamp": 1500209309811,
+      "datetime": "2017-07-16T20:48:29Z"
     },
     "memberId": 20,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/0030Zjd2jx07cH9lplXa070d01000fr70k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/0030Zjd2jx07cH9lplXa070d01000fr70k01.m3u8"
   },
   {
     "title": "李宇琪的直播间（回放生成中）",
@@ -213,8 +213,8 @@
       "https://source.48.cn/mediasource/live/1499875708694yJswbdQe1E.jpg"
     ],
     "startTime": {
-      "timeStamp": 1500135325883,
-      "dateTime": "2017-07-16T00:15:25Z"
+      "timestamp": 1500135325883,
+      "datetime": "2017-07-16T00:15:25Z"
     },
     "memberId": 20,
     "liveType": 1,
@@ -230,12 +230,12 @@
       "https://source.48.cn/mediasource/live/1499875708694yJswbdQe1E.jpg"
     ],
     "startTime": {
-      "timeStamp": 1499875768439,
-      "dateTime": "2017-07-13T00:09:28Z"
+      "timestamp": 1499875768439,
+      "datetime": "2017-07-13T00:09:28Z"
     },
     "memberId": 20,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/002dWxuajx07cASZK7OT070d0100036u0k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/002dWxuajx07cASZK7OT070d0100036u0k01.m3u8"
   },
   {
     "title": "李宇琪的直播间（回放生成中）",
@@ -247,12 +247,12 @@
       "https://source.48.cn/mediasource/live/1499875244658OI7xb203yC.jpg"
     ],
     "startTime": {
-      "timeStamp": 1499875244974,
-      "dateTime": "2017-07-13T00:00:44Z"
+      "timestamp": 1499875244974,
+      "datetime": "2017-07-13T00:00:44Z"
     },
     "memberId": 20,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/001uE3TUjx07cARlSimj070d010000Wa0k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/001uE3TUjx07cARlSimj070d010000Wa0k01.m3u8"
   },
   {
     "title": "李宇琪的电台（回放生成中）",
@@ -268,8 +268,8 @@
       "https://source.48.cn/mediasource/live/1491915415716hhBZJGkoRO.JPG"
     ],
     "startTime": {
-      "timeStamp": 1499347037926,
-      "dateTime": "2017-07-06T21:17:17Z"
+      "timestamp": 1499347037926,
+      "datetime": "2017-07-06T21:17:17Z"
     },
     "memberId": 20,
     "liveType": 2,
@@ -285,8 +285,8 @@
       "https://source.48.cn/mediasource/live/14930340955858HwW3GA0dB.JPG"
     ],
     "startTime": {
-      "timeStamp": 1495017101887,
-      "dateTime": "2017-05-17T18:31:41Z"
+      "timestamp": 1495017101887,
+      "datetime": "2017-05-17T18:31:41Z"
     },
     "memberId": 20,
     "liveType": 1,
@@ -302,8 +302,8 @@
       "https://source.48.cn/mediasource/live/14930340955858HwW3GA0dB.JPG"
     ],
     "startTime": {
-      "timeStamp": 1495006498255,
-      "dateTime": "2017-05-17T15:34:58Z"
+      "timestamp": 1495006498255,
+      "datetime": "2017-05-17T15:34:58Z"
     },
     "memberId": 20,
     "liveType": 1,
@@ -319,8 +319,8 @@
       "https://source.48.cn/mediasource/live/14930340955858HwW3GA0dB.JPG"
     ],
     "startTime": {
-      "timeStamp": 1493897727810,
-      "dateTime": "2017-05-04T19:35:27Z"
+      "timestamp": 1493897727810,
+      "datetime": "2017-05-04T19:35:27Z"
     },
     "memberId": 20,
     "liveType": 1,
@@ -340,8 +340,8 @@
       "https://source.48.cn/mediasource/live/1491915415716hhBZJGkoRO.JPG"
     ],
     "startTime": {
-      "timeStamp": 1491915415820,
-      "dateTime": "2017-04-11T20:56:55Z"
+      "timestamp": 1491915415820,
+      "datetime": "2017-04-11T20:56:55Z"
     },
     "memberId": 20,
     "liveType": 2,

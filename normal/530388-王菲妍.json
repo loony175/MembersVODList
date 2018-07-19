@@ -2,6 +2,23 @@
   {
     "title": "王菲妍的直播间（回放生成中）",
     "subTitle": {
+      "raw": "我来和世界杯抢流量了",
+      "base64": "5oiR5p2l5ZKM5LiW55WM5p2v5oqi5rWB6YeP5LqG"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1531666713369VJE7rX8Rtv.png"
+    ],
+    "startTime": {
+      "timestamp": 1531666713645,
+      "datetime": "2018-07-15T22:58:33Z"
+    },
+    "memberId": 530388,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/3a79dccd-71c9-433a-946a-66f33171420a.mp4"
+  },
+  {
+    "title": "王菲妍的直播间（回放生成中）",
+    "subTitle": {
       "raw": "感谢大家，中报辛苦啦",
       "base64": "5oSf6LCi5aSn5a6277yM5Lit5oql6L6b6Ium5ZWm"
     },
@@ -9,8 +26,8 @@
       "https://source.48.cn/mediasource/live/1527432568801axmcg3p2hn.png"
     ],
     "startTime": {
-      "timeStamp": 1531060652149,
-      "dateTime": "2018-07-08T22:37:32Z"
+      "timestamp": 1531060652149,
+      "datetime": "2018-07-08T22:37:32Z"
     },
     "memberId": 530388,
     "liveType": 1,
@@ -26,8 +43,8 @@
       "https://source.48.cn/mediasource/live/1527432568801axmcg3p2hn.png"
     ],
     "startTime": {
-      "timeStamp": 1530886710200,
-      "dateTime": "2018-07-06T22:18:30Z"
+      "timestamp": 1530886710200,
+      "datetime": "2018-07-06T22:18:30Z"
     },
     "memberId": 530388,
     "liveType": 1,
@@ -43,8 +60,8 @@
       "https://source.48.cn/mediasource/live/1527432568801axmcg3p2hn.png"
     ],
     "startTime": {
-      "timeStamp": 1530886371408,
-      "dateTime": "2018-07-06T22:12:51Z"
+      "timestamp": 1530886371408,
+      "datetime": "2018-07-06T22:12:51Z"
     },
     "memberId": 530388,
     "liveType": 1,
@@ -60,8 +77,8 @@
       "https://source.48.cn/mediasource/live/1527432568801axmcg3p2hn.png"
     ],
     "startTime": {
-      "timeStamp": 1527432569214,
-      "dateTime": "2018-05-27T22:49:29Z"
+      "timestamp": 1527432569214,
+      "datetime": "2018-05-27T22:49:29Z"
     },
     "memberId": 530388,
     "liveType": 1,
@@ -85,8 +102,8 @@
       "https://source.48.cn/mediasource/live/1525449550834Xd6Vmey4e0.jpg"
     ],
     "startTime": {
-      "timeStamp": 1525449562555,
-      "dateTime": "2018-05-04T23:59:22Z"
+      "timestamp": 1525449562555,
+      "datetime": "2018-05-04T23:59:22Z"
     },
     "memberId": 530388,
     "liveType": 2,
@@ -111,8 +128,8 @@
       "https://source.48.cn/mediasource/live/1525272323883ue4lSa373w.jpg"
     ],
     "startTime": {
-      "timeStamp": 1525272424989,
-      "dateTime": "2018-05-02T22:47:04Z"
+      "timestamp": 1525272424989,
+      "datetime": "2018-05-02T22:47:04Z"
     },
     "memberId": 530388,
     "liveType": 2,
@@ -128,8 +145,8 @@
       "https://source.48.cn/mediasource/live/1517060525518N8CY2gIyO1.png"
     ],
     "startTime": {
-      "timeStamp": 1517060534170,
-      "dateTime": "2018-01-27T21:42:14Z"
+      "timestamp": 1517060534170,
+      "datetime": "2018-01-27T21:42:14Z"
     },
     "memberId": 530388,
     "liveType": 1,
@@ -145,8 +162,8 @@
       "https://source.48.cn/mediasource/live/1511008664694n6ToHr10ht.png"
     ],
     "startTime": {
-      "timeStamp": 1512549203578,
-      "dateTime": "2017-12-06T16:33:23Z"
+      "timestamp": 1512549203578,
+      "datetime": "2017-12-06T16:33:23Z"
     },
     "memberId": 530388,
     "liveType": 1,

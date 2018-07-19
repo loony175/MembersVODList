@@ -17,8 +17,8 @@
       "https://source.48.cn/mediasource/live/1495086403796FC1niDGx68.jpg"
     ],
     "startTime": {
-      "timeStamp": 1525187591621,
-      "dateTime": "2018-05-01T23:13:11Z"
+      "timestamp": 1525187591621,
+      "datetime": "2018-05-01T23:13:11Z"
     },
     "memberId": 407168,
     "liveType": 2,
@@ -34,12 +34,12 @@
       "https://source.48.cn/mediasource/live/150754685953297jN32yhR1.png"
     ],
     "startTime": {
-      "timeStamp": 1523450885195,
-      "dateTime": "2018-04-11T20:48:05Z"
+      "timestamp": 1523450885195,
+      "datetime": "2018-04-11T20:48:05Z"
     },
     "memberId": 407168,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/003US53fjx07jCfQW8yI070d01000cSW0k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/003US53fjx07jCfQW8yI070d01000cSW0k01.m3u8"
   },
   {
     "title": "王雨煊的直播间（回放生成中）",
@@ -51,12 +51,12 @@
       "https://source.48.cn/mediasource/live/150754685953297jN32yhR1.png"
     ],
     "startTime": {
-      "timeStamp": 1520510723478,
-      "dateTime": "2018-03-08T20:05:23Z"
+      "timestamp": 1520510723478,
+      "datetime": "2018-03-08T20:05:23Z"
     },
     "memberId": 407168,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/001DDMIVjx07iJXnJ4AT070d01000aQ50k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/001DDMIVjx07iJXnJ4AT070d01000aQ50k01.m3u8"
   },
   {
     "title": "王雨煊的电台（回放生成中）",
@@ -76,8 +76,8 @@
       "https://source.48.cn/mediasource/live/1495086403796FC1niDGx68.jpg"
     ],
     "startTime": {
-      "timeStamp": 1514127064643,
-      "dateTime": "2017-12-24T22:51:04Z"
+      "timestamp": 1514127064643,
+      "datetime": "2017-12-24T22:51:04Z"
     },
     "memberId": 407168,
     "liveType": 2,
@@ -101,8 +101,8 @@
       "https://source.48.cn/mediasource/live/1495086403796FC1niDGx68.jpg"
     ],
     "startTime": {
-      "timeStamp": 1514126419334,
-      "dateTime": "2017-12-24T22:40:19Z"
+      "timestamp": 1514126419334,
+      "datetime": "2017-12-24T22:40:19Z"
     },
     "memberId": 407168,
     "liveType": 2,
@@ -118,12 +118,12 @@
       "https://source.48.cn/mediasource/live/150754685953297jN32yhR1.png"
     ],
     "startTime": {
-      "timeStamp": 1512650781645,
-      "dateTime": "2017-12-07T20:46:21Z"
+      "timestamp": 1512650781645,
+      "datetime": "2017-12-07T20:46:21Z"
     },
     "memberId": 407168,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/000lFsQ9jx07goPoZqNi070d010016rw0k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/000lFsQ9jx07goPoZqNi070d010016rw0k01.m3u8"
   },
   {
     "title": "王雨煊的直播间（回放生成中）",
@@ -135,8 +135,8 @@
       "https://source.48.cn/mediasource/live/150754685953297jN32yhR1.png"
     ],
     "startTime": {
-      "timeStamp": 1507548401231,
-      "dateTime": "2017-10-09T19:26:41Z"
+      "timestamp": 1507548401231,
+      "datetime": "2017-10-09T19:26:41Z"
     },
     "memberId": 407168,
     "liveType": 1,
@@ -152,8 +152,8 @@
       "https://source.48.cn/mediasource/live/150754685953297jN32yhR1.png"
     ],
     "startTime": {
-      "timeStamp": 1507547915067,
-      "dateTime": "2017-10-09T19:18:35Z"
+      "timestamp": 1507547915067,
+      "datetime": "2017-10-09T19:18:35Z"
     },
     "memberId": 407168,
     "liveType": 1,
@@ -169,8 +169,8 @@
       "https://source.48.cn/mediasource/live/150754685953297jN32yhR1.png"
     ],
     "startTime": {
-      "timeStamp": 1507547106740,
-      "dateTime": "2017-10-09T19:05:06Z"
+      "timestamp": 1507547106740,
+      "datetime": "2017-10-09T19:05:06Z"
     },
     "memberId": 407168,
     "liveType": 1,
@@ -186,11 +186,11 @@
       "https://source.48.cn/mediasource/live/150754685953297jN32yhR1.png"
     ],
     "startTime": {
-      "timeStamp": 1507546859753,
-      "dateTime": "2017-10-09T19:00:59Z"
+      "timestamp": 1507546859753,
+      "datetime": "2017-10-09T19:00:59Z"
     },
     "memberId": 407168,
     "liveType": 1,
-    "streamPath": "http://live.us.sinaimg.cn/003s91L7jx07eSvHJwyj070d010000vx0k01.m3u8"
+    "streamPath": "https://live.us.sinaimg.cn/003s91L7jx07eSvHJwyj070d010000vx0k01.m3u8"
   }
 ]

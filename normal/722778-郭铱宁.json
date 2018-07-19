@@ -1,0 +1,36 @@
+[
+  {
+    "title": "郭铱宁的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "随便聊一聊啦！",
+      "base64": "6ZqP5L6/6IGK5LiA6IGK5ZWm77yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15315720367407Pig218rvl.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1531572036943,
+      "datetime": "2018-07-14T20:40:36Z"
+    },
+    "memberId": 722778,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/3de2c0b7-f21c-4e40-82c7-241b1de53662.mp4"
+  },
+  {
+    "title": "郭铱宁的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "中报看完感觉如何呢第一次直播啦哈哈",
+      "base64": "5Lit5oql55yL5a6M5oSf6KeJ5aaC5L2V5ZGi56ys5LiA5qyh55u05pKt5ZWm5ZOI5ZOI"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/153105867832855aWn7Tbpw.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1531058678048,
+      "datetime": "2018-07-08T22:04:38Z"
+    },
+    "memberId": 722778,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/7cc92237-1447-4ae5-ac56-3a021bbf81f8.mp4"
+  }
+]
