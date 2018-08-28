@@ -9,6 +9,40 @@
       "https://source.48.cn/mediasource/live/1530454273001TO0jX081i2.jpg"
     ],
     "startTime": {
+      "timestamp": 1534340257641,
+      "datetime": "2018-08-15T21:37:37Z"
+    },
+    "memberId": 530385,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/9b1aa774-ce54-4fe4-9fa9-dae1f5bac3bc.mp4"
+  },
+  {
+    "title": "高崇的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "进来啊",
+      "base64": "6L+b5p2l5ZWK"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1530454273001TO0jX081i2.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1532868547815,
+      "datetime": "2018-07-29T20:49:07Z"
+    },
+    "memberId": 530385,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/2cdcafe3-f996-49f8-8479-105841322deb.mp4"
+  },
+  {
+    "title": "高崇的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "进来啊",
+      "base64": "6L+b5p2l5ZWK"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1530454273001TO0jX081i2.jpg"
+    ],
+    "startTime": {
       "timestamp": 1531489423997,
       "datetime": "2018-07-13T21:43:43Z"
     },

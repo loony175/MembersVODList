@@ -2,6 +2,23 @@
   {
     "title": "GNZ48的直播间（回放生成中）",
     "subTitle": {
+      "raw": "TEAMG《双面偶像：又又》首演感想",
+      "base64": "VEVBTUfjgIrlj4zpnaLlgbblg4/vvJrlj4jlj4jjgIvpppbmvJTmhJ/mg7M="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/avatar/327683.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1532098786665,
+      "datetime": "2018-07-20T22:59:46Z"
+    },
+    "memberId": 327683,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/000YUSSJjx07mbLxv5cH070d010001ao0k01.m3u8"
+  },
+  {
+    "title": "GNZ48的直播间（回放生成中）",
+    "subTitle": {
       "raw": "GNZ48突击世界杯凤凰网直播室",
       "base64": "R05aNDjnqoHlh7vkuJbnlYzmna/lh6Tlh7DnvZHnm7Tmkq3lrqQ="
     },

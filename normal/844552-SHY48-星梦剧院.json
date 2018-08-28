@@ -1,0 +1,70 @@
+[
+  {
+    "title": "SHY48-星梦剧院的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "SHY48我们回来了",
+      "base64": "U0hZNDjmiJHku6zlm57mnaXkuoY="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1532847002175h2Y9wePHoU.png"
+    ],
+    "startTime": {
+      "timestamp": 1533050604898,
+      "datetime": "2018-07-31T23:23:24Z"
+    },
+    "memberId": 844552,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/cc5722be-de88-47fc-a0b1-7540ae4dd2bf.mp4"
+  },
+  {
+    "title": "SHY48-星梦剧院的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "SHY48一起来看PPT",
+      "base64": "U0hZNDjkuIDotbfmnaXnnItQUFQ="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1532847002175h2Y9wePHoU.png"
+    ],
+    "startTime": {
+      "timestamp": 1532847769868,
+      "datetime": "2018-07-29T15:02:49Z"
+    },
+    "memberId": 844552,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/8c3b3efc-3d81-4950-9cdf-d317562d674a.mp4"
+  },
+  {
+    "title": "SHY48-星梦剧院的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "SHY48一起来看PPT",
+      "base64": "U0hZNDjkuIDotbfmnaXnnItQUFQ="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1532847002175h2Y9wePHoU.png"
+    ],
+    "startTime": {
+      "timestamp": 1532847491444,
+      "datetime": "2018-07-29T14:58:11Z"
+    },
+    "memberId": 844552,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/c38fe6d3-7450-4d8f-ac48-a4c2a28a9c70.mp4"
+  },
+  {
+    "title": "SHY48-星梦剧院的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "SHY48一起来看PPT",
+      "base64": "U0hZNDjkuIDotbfmnaXnnItQUFQ="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1532847002175h2Y9wePHoU.png"
+    ],
+    "startTime": {
+      "timestamp": 1532847002379,
+      "datetime": "2018-07-29T14:50:02Z"
+    },
+    "memberId": 844552,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/ca95918b-8429-424c-b96e-7875f83aeb74.mp4"
+  }
+]

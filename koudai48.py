@@ -7,15 +7,30 @@ import functools
 import json
 import logging
 import multiprocessing
+import operator
 import os
 import pathlib
 import requests
 
-def json_data():
-    return json.loads(open('member_id.json','r').read())
+def process(dict):
+    info={}
+    info['title']=dict['title']
+    sub_title={}
+    sub_title['raw']=dict['subTitle']
+    sub_title['base64']=bytes.decode(base64.b64encode(str.encode(dict['subTitle'])))
+    info['subTitle']=sub_title
+    info['picPath']=['https://source.48.cn%s'%obj for obj in dict['picPath'].split(',')]
+    start_time={}
+    start_time['timestamp']=dict['startTime']
+    start_time['datetime']=arrow.get(dict['startTime']/1000).to('Asia/Shanghai').strftime('%Y-%m-%dT%H:%M:%SZ')
+    info['startTime']=start_time
+    info['memberId']=dict['memberId']
+    info['liveType']=dict['liveType']
+    info['streamPath']=dict['streamPath'].replace('http://','https://')
+    return info
 
-def process(data,member):
-    member_id=json_data()[member]
+def dump(data,json_data,member):
+    member_id=json_data[member]
     file='%s-%s.json'%('%06d'%member_id,member)
     output_normal=pathlib.Path('normal')/file
     output_quiet=pathlib.Path('quiet')/file
@@ -42,27 +57,30 @@ def main():
     logging.basicConfig(level=logging.INFO,format='%(levelname)s: %(message)s')
     pathlib.Path('normal').mkdir(exist_ok=True)
     pathlib.Path('quiet').mkdir(exist_ok=True)
-    resp=requests.post('https://plive.48.cn/livesystem/api/live/v1/memberLivePage',headers={'Content-Type':'application/json','version':'5.3.0','os':'android'},json={'lastTime':0,'groupId':0,'memberId':0,'limit':30000}).json()
+    resp=requests.post('https://plive.48.cn/livesystem/api/live/v1/memberLivePage',headers={'Content-Type':'application/json','version':'5.3.1','os':'android'},json={'lastTime':0,'groupId':0,'memberId':0,'limit':30000}).json()
+    review_list=resp['content']['reviewList']
     data=[]
-    for dict in resp['content']['reviewList']:
-        info={}
-        info['title']=dict['title']
-        sub_title={}
-        sub_title['raw']=dict['subTitle']
-        sub_title['base64']=bytes.decode(base64.b64encode(str.encode(dict['subTitle'])))
-        info['subTitle']=sub_title
-        info['picPath']=['https://source.48.cn%s'%obj for obj in dict['picPath'].split(',')]
-        start_time={}
-        start_time['timestamp']=dict['startTime']
-        start_time['datetime']=arrow.get(dict['startTime']/1000).to('Asia/Shanghai').strftime('%Y-%m-%dT%H:%M:%SZ')
-        info['startTime']=start_time
-        info['memberId']=dict['memberId']
-        info['liveType']=dict['liveType']
-        info['streamPath']=dict['streamPath'].replace('http://','https://')
-        data.append(info)
-    work=functools.partial(process,data)
+    members=[]
+    for dict in sorted(review_list,key=operator.itemgetter('memberId')):
+        if dict['memberId'] not in members:
+            data.append(dict)
+            members.append(dict['memberId'])
+    json_data={}
+    for dict in data:
+        if dict['memberId']==4:
+            member_name='呵呵姐'
+        elif dict['memberId']==530431:
+            member_name='呵呵妹'
+        else:
+            member_name=dict['title'].replace('的直播间（回放生成中）','').replace('的电台（回放生成中）','').replace('的（回放生成中）','')
+        json_data[member_name]=dict['memberId']
     pool=multiprocessing.Pool(args.jobs)
-    pool.map(work,[key for key in json_data()])
+    data=pool.map(process,review_list)
+    pool.close()
+    pool.join()
+    work=functools.partial(dump,data,json_data)
+    pool=multiprocessing.Pool(args.jobs)
+    pool.map(work,[key for key in json_data])
     pool.close()
     pool.join()
 
