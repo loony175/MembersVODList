@@ -2,6 +2,23 @@
   {
     "title": "SHY48的直播间（回放生成中）",
     "subTitle": {
+      "raw": "SHY48HIII唐霖，王嘉瑜，刁滢，朱敏路演",
+      "base64": "U0hZNDhISUlJ5ZSQ6ZyW77yM546L5ZiJ55Gc77yM5YiB5rui77yM5pyx5pWP6Lev5ryU"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/avatar/460933Bjs0lPjq3i.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535624256737,
+      "datetime": "2018-08-30T18:17:36Z"
+    },
+    "memberId": 460933,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/5d31ce76-d97a-4b87-98b2-292492149ce7.mp4"
+  },
+  {
+    "title": "SHY48的直播间（回放生成中）",
+    "subTitle": {
       "raw": "SHY48HIII青山不改，绿水长流，上海我们下次再加见",
       "base64": "U0hZNDhISUlJ6Z2S5bGx5LiN5pS577yM57u/5rC06ZW/5rWB77yM5LiK5rW35oiR5Lus5LiL5qyh5YaN5Yqg6KeB"
     },

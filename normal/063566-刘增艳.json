@@ -2,6 +2,23 @@
   {
     "title": "刘增艳的直播间（回放生成中）",
     "subTitle": {
+      "raw": "生日快乐",
+      "base64": "55Sf5pel5b+r5LmQ"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15356450052390cEt8b6WD9.png"
+    ],
+    "startTime": {
+      "timestamp": 1535645005517,
+      "datetime": "2018-08-31T00:03:25Z"
+    },
+    "memberId": 63566,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/89d1b0de-6093-4bd3-a2de-cb6b08445d77.mp4"
+  },
+  {
+    "title": "刘增艳的直播间（回放生成中）",
+    "subTitle": {
       "raw": "手机很卡",
       "base64": "5omL5py65b6I5Y2h"
     },

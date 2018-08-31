@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1534089105042m0Wr9350t3.jpg"
     ],
     "startTime": {
+      "timestamp": 1535559942235,
+      "datetime": "2018-08-30T00:25:42Z"
+    },
+    "memberId": 2508,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/002yP9FEjx07ndHYiAEw070d010006kE0k01.m3u8"
+  },
+  {
+    "title": "张昕的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "HI",
+      "base64": "SEk="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1534089105042m0Wr9350t3.jpg"
+    ],
+    "startTime": {
       "timestamp": 1535210617106,
       "datetime": "2018-08-25T23:23:37Z"
     },

@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1534520221204vHscGx756p.png"
     ],
     "startTime": {
+      "timestamp": 1535465320061,
+      "datetime": "2018-08-28T22:08:40Z"
+    },
+    "memberId": 63551,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/9ec22d14-e094-46db-99cf-1ff5bc0f5d14.mp4"
+  },
+  {
+    "title": "陈韫凌的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "一小会儿",
+      "base64": "5LiA5bCP5Lya5YS/"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1534520221204vHscGx756p.png"
+    ],
+    "startTime": {
       "timestamp": 1535041823264,
       "datetime": "2018-08-24T00:30:23Z"
     },

@@ -2,6 +2,23 @@
   {
     "title": "曾艾佳的直播间（回放生成中）",
     "subTitle": {
+      "raw": "下班啦",
+      "base64": "5LiL54+t5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/153538022204509SdHJ1VF0.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535468949394,
+      "datetime": "2018-08-28T23:09:09Z"
+    },
+    "memberId": 63577,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/002weuVrjx07nc6xWLyM070d01000cwL0k01.m3u8"
+  },
+  {
+    "title": "曾艾佳的直播间（回放生成中）",
+    "subTitle": {
       "raw": "汪汪汪",
       "base64": "5rGq5rGq5rGq"
     },

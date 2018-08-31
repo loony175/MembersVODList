@@ -2,6 +2,23 @@
   {
     "title": "张怡的直播间（回放生成中）",
     "subTitle": {
+      "raw": "回来啦",
+      "base64": "5Zue5p2l5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15345091186082kV9M5VDzH.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535641754717,
+      "datetime": "2018-08-30T23:09:14Z"
+    },
+    "memberId": 63582,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/dee78289-fbce-46a2-b934-f20cc89aca3d.mp4"
+  },
+  {
+    "title": "张怡的直播间（回放生成中）",
+    "subTitle": {
       "raw": "收工来聊5块钱的",
       "base64": "5pS25bel5p2l6IGKNeWdl+mSseeahA=="
     },

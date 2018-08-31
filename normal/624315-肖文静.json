@@ -6,6 +6,43 @@
       "base64": "6Z2T5LuU5a2m5qCh"
     },
     "picPath": [
+      "https://source.48.cn/mediasource/live/1535719588399067N98MVYD.png"
+    ],
+    "startTime": {
+      "timestamp": 1535719588538,
+      "datetime": "2018-08-31T20:46:28Z"
+    },
+    "memberId": 624315,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/9118192b-f5b9-46f8-a1ba-a6fa2a6c26fd.mp4"
+  },
+  {
+    "title": "肖文静的电台（回放生成中）",
+    "subTitle": {
+      "raw": "开个电台收东西",
+      "base64": "5byA5Liq55S15Y+w5pS25Lic6KW/"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1535448089040itY9ujZk85.jpg",
+      "https://source.48.cn/mediasource/live/15354480893411MGqpw44oU.jpg",
+      "https://source.48.cn/mediasource/live/1535448089493CUvnUwlEO1.png",
+      "https://source.48.cn/mediasource/live/1535448089608lBBYVAHplC.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535448089502,
+      "datetime": "2018-08-28T17:21:29Z"
+    },
+    "memberId": 624315,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/a7513c20-e9d4-4a40-9368-6ffa7c601ad8.mp4"
+  },
+  {
+    "title": "肖文静的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "靓仔学校",
+      "base64": "6Z2T5LuU5a2m5qCh"
+    },
+    "picPath": [
       "https://source.48.cn/mediasource/live/1534084417026FvDlej8nBn.png"
     ],
     "startTime": {

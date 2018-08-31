@@ -9,6 +9,40 @@
       "https://source.48.cn/mediasource/live/1519125908105D4O2JN8QM4.jpg"
     ],
     "startTime": {
+      "timestamp": 1535644972230,
+      "datetime": "2018-08-31T00:02:52Z"
+    },
+    "memberId": 5567,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/b9aef027-d837-4875-a798-dd4eeead1e6f.mp4"
+  },
+  {
+    "title": "杨惠婷的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "…",
+      "base64": "4oCm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1519125908105D4O2JN8QM4.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535643500310,
+      "datetime": "2018-08-30T23:38:20Z"
+    },
+    "memberId": 5567,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/1f0d4493-3c83-49e8-9a3e-abca8813e9d1.mp4"
+  },
+  {
+    "title": "杨惠婷的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "…",
+      "base64": "4oCm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1519125908105D4O2JN8QM4.jpg"
+    ],
+    "startTime": {
       "timestamp": 1535209657100,
       "datetime": "2018-08-25T23:07:37Z"
     },

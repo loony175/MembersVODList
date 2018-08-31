@@ -2,6 +2,23 @@
   {
     "title": "谢妮的直播间（回放生成中）",
     "subTitle": {
+      "raw": "晚上聊",
+      "base64": "5pma5LiK6IGK"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1533395962334ntxc6oWR0A.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535465116961,
+      "datetime": "2018-08-28T22:05:16Z"
+    },
+    "memberId": 45,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/a7a45048-3aff-4681-be17-9b685512a692.mp4"
+  },
+  {
+    "title": "谢妮的直播间（回放生成中）",
+    "subTitle": {
       "raw": "吃冰",
       "base64": "5ZCD5Yaw"
     },

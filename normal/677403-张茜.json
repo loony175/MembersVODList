@@ -24,57 +24,5 @@
     "memberId": 677403,
     "liveType": 2,
     "streamPath": "https://mp4.48.cn/live/4faf2796-f805-41cc-883c-6ffcd00b647c.mp4"
-  },
-  {
-    "title": "张茜的电台（回放生成中）",
-    "subTitle": {
-      "raw": "啊咦",
-      "base64": "5ZWK5ZKm"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1533744810233i4q9W50O54.jpg",
-      "https://source.48.cn/mediasource/live/1533744831985e4EHA1t3E7.jpg",
-      "https://source.48.cn/mediasource/live/1533744832236hn5H91h1i6.jpg",
-      "https://source.48.cn/mediasource/live/1533744832443Xg5TcXa1Jx.jpg",
-      "https://source.48.cn/mediasource/live/1533744832748TO57fEq4v0.jpg",
-      "https://source.48.cn/mediasource/live/1533744832955oK1Nv5g8hC.jpg",
-      "https://source.48.cn/mediasource/live/1533744833095im21y61P14.jpg",
-      "https://source.48.cn/mediasource/live/1533744833277V8NyeDT0cA.jpg",
-      "https://source.48.cn/mediasource/live/15337448334336pgyfi0FEq.jpg",
-      "https://source.48.cn/mediasource/live/1533744833670s9nXn4ocLR.jpg"
-    ],
-    "startTime": {
-      "timestamp": 1533744833981,
-      "datetime": "2018-08-09T00:13:53Z"
-    },
-    "memberId": 677403,
-    "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/53da3254-d559-468f-9c24-3a95a609d3a0.mp4"
-  },
-  {
-    "title": "张茜的电台（回放生成中）",
-    "subTitle": {
-      "raw": "半小时",
-      "base64": "5Y2K5bCP5pe2"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1532966775136003HNN9UHV.jpg",
-      "https://source.48.cn/mediasource/live/1532966775305uu4047xa09.jpg",
-      "https://source.48.cn/mediasource/live/1532966775488j5bQ8s8YfB.jpg",
-      "https://source.48.cn/mediasource/live/15329667756325jmiEgyh79.jpg",
-      "https://source.48.cn/mediasource/live/15329667758271WNsP4YG5Q.jpg",
-      "https://source.48.cn/mediasource/live/1532966776048A6UYlyh71D.jpg",
-      "https://source.48.cn/mediasource/live/1532966776293r75wfl049t.jpg",
-      "https://source.48.cn/mediasource/live/1532966776447Z61KP0A45U.jpg",
-      "https://source.48.cn/mediasource/live/1532966776673igDq5DAARb.jpg",
-      "https://source.48.cn/mediasource/live/15329667769963B787Ch181.jpg"
-    ],
-    "startTime": {
-      "timestamp": 1532966776663,
-      "datetime": "2018-07-31T00:06:16Z"
-    },
-    "memberId": 677403,
-    "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/6eab8ad3-4c60-473f-bbae-609808de5a79.mp4"
   }
 ]

@@ -2,6 +2,23 @@
   {
     "title": "赵粤的直播间（回放生成中）",
     "subTitle": {
+      "raw": "普通直播",
+      "base64": "5pmu6YCa55u05pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1502017213627SDtT5ZTsKZ.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535646749279,
+      "datetime": "2018-08-31T00:32:29Z"
+    },
+    "memberId": 27,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/0246983c-bc41-439b-9f56-355cc7723c50.mp4"
+  },
+  {
+    "title": "赵粤的直播间（回放生成中）",
+    "subTitle": {
       "raw": "无目的直播",
       "base64": "5peg55uu55qE55u05pKt"
     },

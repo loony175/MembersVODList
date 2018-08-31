@@ -9,6 +9,41 @@
       "https://source.48.cn/mediasource/live/1529492908823Kr3Z75Bg2T.jpg"
     ],
     "startTime": {
+      "timestamp": 1535634270875,
+      "datetime": "2018-08-30T21:04:30Z"
+    },
+    "memberId": 18,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/cd5ab1e1-97ce-4764-ac8f-abeb8956ef4f.mp4"
+  },
+  {
+    "title": "徐晨辰的电台（回放生成中）",
+    "subTitle": {
+      "raw": "DJC邀您共度美好的夜晚",
+      "base64": "REpD6YKA5oKo5YWx5bqm576O5aW955qE5aSc5pma"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1523710823424O9E6a36ZyB.jpg",
+      "https://source.48.cn/mediasource/live/1504095882858K8FsX50gcK.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535547616390,
+      "datetime": "2018-08-29T21:00:16Z"
+    },
+    "memberId": 18,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/4f5085ae-4e15-4ad7-9c5e-5a580bd5da37.mp4"
+  },
+  {
+    "title": "徐晨辰的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "女人搓澡堂",
+      "base64": "5aWz5Lq65pCT5r6h5aCC"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1529492908823Kr3Z75Bg2T.jpg"
+    ],
+    "startTime": {
       "timestamp": 1535371213168,
       "datetime": "2018-08-27T20:00:13Z"
     },
