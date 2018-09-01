@@ -10,6 +10,7 @@ import multiprocessing
 import operator
 import os
 import pathlib
+import re
 import requests
 
 def process(dict):
@@ -72,7 +73,7 @@ def main():
         elif dict['memberId']==530431:
             member_name='呵呵妹'
         else:
-            member_name=dict['title'].replace('的直播间（回放生成中）','').replace('的电台（回放生成中）','').replace('的（回放生成中）','')
+            member_name=re.match(r'^(.*)的.*（回放生成中）$',dict['title']).group(1)
         json_data[member_name]=dict['memberId']
     pool=multiprocessing.Pool(args.jobs)
     data=pool.map(process,review_list)
