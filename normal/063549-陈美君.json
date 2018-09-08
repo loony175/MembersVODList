@@ -2,6 +2,40 @@
   {
     "title": "陈美君的直播间（回放生成中）",
     "subTitle": {
+      "raw": "直播啦",
+      "base64": "55u05pKt5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1535801343816Lvyb88c4TJ.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536054430794,
+      "datetime": "2018-09-04T17:47:10Z"
+    },
+    "memberId": 63549,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/001bPwZYjx07nmRenojZ070d010007AH0k01.m3u8"
+  },
+  {
+    "title": "陈美君的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "小会儿",
+      "base64": "5bCP5Lya5YS/"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1535801343816Lvyb88c4TJ.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535801343637,
+      "datetime": "2018-09-01T19:29:03Z"
+    },
+    "memberId": 63549,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/004G9G09jx07ni7CjDBd070d010001rg0k01.m3u8"
+  },
+  {
+    "title": "陈美君的直播间（回放生成中）",
+    "subTitle": {
       "raw": "你好",
       "base64": "5L2g5aW9"
     },

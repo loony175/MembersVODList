@@ -2,6 +2,27 @@
   {
     "title": "熊鑫的电台（回放生成中）",
     "subTitle": {
+      "raw": "唠嗑",
+      "base64": "5ZSg5ZeR"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15360425004431cXJGRX7fx.jpg",
+      "https://source.48.cn/mediasource/live/1536042500603dGwS8SjzC6.jpg",
+      "https://source.48.cn/mediasource/live/1536042500749lNXQGH7O4u.jpg",
+      "https://source.48.cn/mediasource/live/1536042500873HZXx44RPQh.jpg",
+      "https://source.48.cn/mediasource/live/1536042501005S4U73BM17N.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536065928693,
+      "datetime": "2018-09-04T20:58:48Z"
+    },
+    "memberId": 711739,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/e9875cbf-2c32-41ad-8365-0e2f04fdba85.mp4"
+  },
+  {
+    "title": "熊鑫的电台（回放生成中）",
+    "subTitle": {
       "raw": "上会儿线",
       "base64": "5LiK5Lya5YS/57q/"
     },

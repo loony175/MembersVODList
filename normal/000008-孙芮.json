@@ -2,6 +2,23 @@
   {
     "title": "孙芮的直播间（回放生成中）",
     "subTitle": {
+      "raw": "哈喽！香港351",
+      "base64": "5ZOI5Za977yB6aaZ5rivMzUx"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1533298005921Sw97XDbekR.png"
+    ],
+    "startTime": {
+      "timestamp": 1536058690419,
+      "datetime": "2018-09-04T18:58:10Z"
+    },
+    "memberId": 8,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/6ef02d03-acce-4333-8731-338ce4d147a3.mp4"
+  },
+  {
+    "title": "孙芮的直播间（回放生成中）",
+    "subTitle": {
       "raw": "哈喽！香港",
       "base64": "5ZOI5Za977yB6aaZ5riv"
     },

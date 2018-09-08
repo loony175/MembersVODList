@@ -6,6 +6,92 @@
       "base64": "6IGK"
     },
     "picPath": [
+      "https://source.48.cn/mediasource/live/1536162024907t7464x0h1h.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536162025131,
+      "datetime": "2018-09-05T23:40:25Z"
+    },
+    "memberId": 594003,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/46cacf7e-455d-4109-8818-87f51558a370.mp4"
+  },
+  {
+    "title": "王奕的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "聊",
+      "base64": "6IGK"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15358180837635F93YOjTvb.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536059446212,
+      "datetime": "2018-09-04T19:10:46Z"
+    },
+    "memberId": 594003,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/10d92c05-b02c-4192-b23f-d9e5512fc2b6.mp4"
+  },
+  {
+    "title": "王奕的电台（回放生成中）",
+    "subTitle": {
+      "raw": "嗨",
+      "base64": "5Zeo"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/153598493172672APV5uRK8.jpg",
+      "https://source.48.cn/mediasource/live/1535984931878h13CqpSKY4.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535984932167,
+      "datetime": "2018-09-03T22:28:52Z"
+    },
+    "memberId": 594003,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/91986382-37b2-44e9-a2d1-0b537e8d5b1a.mp4"
+  },
+  {
+    "title": "王奕的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "聊",
+      "base64": "6IGK"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15358180837635F93YOjTvb.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535902463562,
+      "datetime": "2018-09-02T23:34:23Z"
+    },
+    "memberId": 594003,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/570bb8e8-fac1-4940-903c-3f8f58e82c29.mp4"
+  },
+  {
+    "title": "王奕的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "聊",
+      "base64": "6IGK"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15358180837635F93YOjTvb.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535818241505,
+      "datetime": "2018-09-02T00:10:41Z"
+    },
+    "memberId": 594003,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/e1a9853e-2d0a-4b4d-9d9a-f992c6517734.mp4"
+  },
+  {
+    "title": "王奕的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "聊",
+      "base64": "6IGK"
+    },
+    "picPath": [
       "https://source.48.cn/mediasource/live/15357161457070V89qO8E2M.jpg"
     ],
     "startTime": {

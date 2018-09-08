@@ -9,6 +9,40 @@
       "https://source.48.cn/mediasource/live/1524844091320tg2ZjvJ9Ly.jpg"
     ],
     "startTime": {
+      "timestamp": 1536250664431,
+      "datetime": "2018-09-07T00:17:44Z"
+    },
+    "memberId": 533852,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/7df0de38-46de-4c8c-a1b9-af8afe913e50.mp4"
+  },
+  {
+    "title": "陶波尔的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "直播",
+      "base64": "55u05pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1524844091320tg2ZjvJ9Ly.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536249768789,
+      "datetime": "2018-09-07T00:02:48Z"
+    },
+    "memberId": 533852,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/05e8c84b-7102-4f8b-bca8-f1d2e918f44b.mp4"
+  },
+  {
+    "title": "陶波尔的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "直播",
+      "base64": "55u05pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1524844091320tg2ZjvJ9Ly.jpg"
+    ],
+    "startTime": {
       "timestamp": 1535465815755,
       "datetime": "2018-08-28T22:16:55Z"
     },

@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/152059389876541i8E5g011.jpg"
     ],
     "startTime": {
+      "timestamp": 1535894282471,
+      "datetime": "2018-09-02T21:18:02Z"
+    },
+    "memberId": 14,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/a2f34dd3-eb01-49b0-8466-7d1028ccb0b4.mp4"
+  },
+  {
+    "title": "徐子轩的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "晚上好",
+      "base64": "5pma5LiK5aW9"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/152059389876541i8E5g011.jpg"
+    ],
+    "startTime": {
       "timestamp": 1534863919068,
       "datetime": "2018-08-21T23:05:19Z"
     },

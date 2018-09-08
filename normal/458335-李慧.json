@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1535463678839wJ93e4jMEO.jpg"
     ],
     "startTime": {
+      "timestamp": 1535802810205,
+      "datetime": "2018-09-01T19:53:30Z"
+    },
+    "memberId": 458335,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/e1d3531c-3fd4-4a81-a174-0ee595d9acab.mp4"
+  },
+  {
+    "title": "李慧的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "一会儿",
+      "base64": "5LiA5Lya5YS/"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1535463678839wJ93e4jMEO.jpg"
+    ],
+    "startTime": {
       "timestamp": 1535463679151,
       "datetime": "2018-08-28T21:41:19Z"
     },
@@ -3597,23 +3614,6 @@
     "memberId": 458335,
     "liveType": 1,
     "streamPath": "https://mp5.48.cn/live/1b84196b-96ae-432c-a75b-ec707dd8b613.mp4"
-  },
-  {
-    "title": "李慧的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "聊天吧",
-      "base64": "6IGK5aSp5ZCn"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/6daf5105-d412-4624-98fd-45275f0bfa3e.jpg"
-    ],
-    "startTime": {
-      "timestamp": 1490800548988,
-      "datetime": "2017-03-29T23:15:48Z"
-    },
-    "memberId": 458335,
-    "liveType": 1,
-    "streamPath": "https://mp5.48.cn/live/32e7af63-0326-4766-a690-518073e82c5f.mp4"
   },
   {
     "title": "李慧的直播间（回放生成中）",

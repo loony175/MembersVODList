@@ -9,6 +9,40 @@
       "https://source.48.cn/mediasource/live/1531043153826L3KUQLGcsB.jpg"
     ],
     "startTime": {
+      "timestamp": 1536331018337,
+      "datetime": "2018-09-07T22:36:58Z"
+    },
+    "memberId": 480675,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/5e9a5e75-135c-4a5b-a2a0-89e97bcfeb7a.mp4"
+  },
+  {
+    "title": "张爱静的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "半小时！",
+      "base64": "5Y2K5bCP5pe277yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1531043153826L3KUQLGcsB.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535883848533,
+      "datetime": "2018-09-02T18:24:08Z"
+    },
+    "memberId": 480675,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/6d022ec6-4160-4505-95ad-c13ffc96f554.mp4"
+  },
+  {
+    "title": "张爱静的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "半小时！",
+      "base64": "5Y2K5bCP5pe277yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1531043153826L3KUQLGcsB.jpg"
+    ],
+    "startTime": {
       "timestamp": 1535518435647,
       "datetime": "2018-08-29T12:53:55Z"
     },

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "陈琳的电台（回放生成中）",
+    "subTitle": {
+      "raw": "随便播播w",
+      "base64": "6ZqP5L6/5pKt5pKtdw=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/153270178627894cvPwtT3f.jpg",
+      "https://source.48.cn/mediasource/live/1527764795323el6a8ph1U0.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536155795996,
+      "datetime": "2018-09-05T21:56:35Z"
+    },
+    "memberId": 6431,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/fbaf43ed-679c-45f8-8ca4-eea7965bb4f0.mp4"
+  },
+  {
+    "title": "陈琳的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "想播就播w",
+      "base64": "5oOz5pKt5bCx5pKtdw=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1532792693571C41JKnrcv0.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535815330097,
+      "datetime": "2018-09-01T23:22:10Z"
+    },
+    "memberId": 6431,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/000yM7cRjx07nirwoolF070d010007vo0k01.m3u8"
+  }
+]

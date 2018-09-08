@@ -2,6 +2,23 @@
   {
     "title": "袁一琦的直播间（回放生成中）",
     "subTitle": {
+      "raw": "1",
+      "base64": "MQ=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1519477422934fD2IphmdSP.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536327351099,
+      "datetime": "2018-09-07T21:35:51Z"
+    },
+    "memberId": 399669,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/8922f41c-c8b3-4d5d-a422-19ac7006702c.mp4"
+  },
+  {
+    "title": "袁一琦的直播间（回放生成中）",
+    "subTitle": {
       "raw": "等外卖",
       "base64": "562J5aSW5Y2W"
     },

@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1535703230796eYndZDbfiP.jpg"
     ],
     "startTime": {
+      "timestamp": 1536130495124,
+      "datetime": "2018-09-05T14:54:55Z"
+    },
+    "memberId": 6743,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/e588f3de-5e81-4b4c-96ee-ab70fc9256b9.mp4"
+  },
+  {
+    "title": "谢天依的直播间（回放生成中）",
+    "subTitle": {
+      "raw": ".",
+      "base64": "Lg=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1535703230796eYndZDbfiP.jpg"
+    ],
+    "startTime": {
       "timestamp": 1535703230858,
       "datetime": "2018-08-31T16:13:50Z"
     },

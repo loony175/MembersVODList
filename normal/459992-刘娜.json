@@ -2,6 +2,40 @@
   {
     "title": "刘娜的直播间（回放生成中）",
     "subTitle": {
+      "raw": "啊",
+      "base64": "5ZWK"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1534590173853JeQ8RQ9wu3.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536157613413,
+      "datetime": "2018-09-05T22:26:53Z"
+    },
+    "memberId": 459992,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/6a4b4ac4-e8e7-4028-90c4-8cbe0e8b1753.mp4"
+  },
+  {
+    "title": "刘娜的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "整理衣服",
+      "base64": "5pW055CG6KGj5pyN"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1534590173853JeQ8RQ9wu3.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536154216382,
+      "datetime": "2018-09-05T21:30:16Z"
+    },
+    "memberId": 459992,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/00264GIxjx07noGrETVK070d010006210k01.m3u8"
+  },
+  {
+    "title": "刘娜的直播间（回放生成中）",
+    "subTitle": {
       "raw": "噜啦啦",
       "base64": "5Zmc5ZWm5ZWm"
     },

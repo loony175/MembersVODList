@@ -2,6 +2,23 @@
   {
     "title": "曾佳的直播间（回放生成中）",
     "subTitle": {
+      "raw": "看《双面偶像》",
+      "base64": "55yL44CK5Y+M6Z2i5YG25YOP44CL"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15325260036040SH7Avl5sz.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1535804890327,
+      "datetime": "2018-09-01T20:28:10Z"
+    },
+    "memberId": 614741,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/649d625f-4249-4dc6-b7fe-70c9b68452d4.mp4"
+  },
+  {
+    "title": "曾佳的直播间（回放生成中）",
+    "subTitle": {
       "raw": "来了",
       "base64": "5p2l5LqG"
     },
