@@ -2,6 +2,23 @@
   {
     "title": "孙敏的直播间（回放生成中）",
     "subTitle": {
+      "raw": "下公演了",
+      "base64": "5LiL5YWs5ryU5LqG"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1536413064450f1aC9ER3nE.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536413064189,
+      "datetime": "2018-09-08T21:24:24Z"
+    },
+    "memberId": 460007,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/da49cfe9-596e-4f26-8bb5-9e7ec4523fd8.mp4"
+  },
+  {
+    "title": "孙敏的直播间（回放生成中）",
+    "subTitle": {
       "raw": "晚上好",
       "base64": "5pma5LiK5aW9"
     },

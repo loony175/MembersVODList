@@ -2,6 +2,23 @@
   {
     "title": "刘力菲的直播间（回放生成中）",
     "subTitle": {
+      "raw": "快乐直播",
+      "base64": "5b+r5LmQ55u05pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1522580527244dTcMN4cHs3.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536416360242,
+      "datetime": "2018-09-08T22:19:20Z"
+    },
+    "memberId": 327567,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/f5d53636-c50e-4e35-baf8-d602aa24c2ef.mp4"
+  },
+  {
+    "title": "刘力菲的直播间（回放生成中）",
+    "subTitle": {
       "raw": "第三届小偶像大冒险排名公布！",
       "base64": "56ys5LiJ5bGK5bCP5YG25YOP5aSn5YaS6Zmp5o6S5ZCN5YWs5biD77yB"
     },

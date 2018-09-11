@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1536063309466P2Nx3vQu2G.png"
     ],
     "startTime": {
+      "timestamp": 1536402476720,
+      "datetime": "2018-09-08T18:27:56Z"
+    },
+    "memberId": 6739,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/004ClqWfjx07ntjcEfh6070d010009cX0k01.m3u8"
+  },
+  {
+    "title": "孙歆文的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "想播就播",
+      "base64": "5oOz5pKt5bCx5pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1536063309466P2Nx3vQu2G.png"
+    ],
+    "startTime": {
       "timestamp": 1536065562939,
       "datetime": "2018-09-04T20:52:42Z"
     },

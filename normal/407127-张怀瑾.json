@@ -2,6 +2,23 @@
   {
     "title": "张怀瑾的直播间（回放生成中）",
     "subTitle": {
+      "raw": "onenightinkorea",
+      "base64": "b25lbmlnaHRpbmtvcmVh"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/153641262204326P623kvpe.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536412622284,
+      "datetime": "2018-09-08T21:17:02Z"
+    },
+    "memberId": 407127,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/0daf1f66-c84e-4d5e-8220-067613e08c27.mp4"
+  },
+  {
+    "title": "张怀瑾的直播间（回放生成中）",
+    "subTitle": {
       "raw": "试试马不马赛克",
       "base64": "6K+V6K+V6ams5LiN6ams6LWb5YWL"
     },

@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/15200794079453EAItS4zw3.jpg"
     ],
     "startTime": {
+      "timestamp": 1536420474460,
+      "datetime": "2018-09-08T23:27:54Z"
+    },
+    "memberId": 530452,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/717d7a4c-ffb1-42cc-a5ce-4cf4861a6825.mp4"
+  },
+  {
+    "title": "朱怡欣的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "叮咚！您的小祖宗已上线(*`н´*)",
+      "base64": "5Y+u5ZKa77yB5oKo55qE5bCP56WW5a6X5bey5LiK57q/KCpg0L3CtCop"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15200794079453EAItS4zw3.jpg"
+    ],
+    "startTime": {
       "timestamp": 1535732114313,
       "datetime": "2018-09-01T00:15:14Z"
     },

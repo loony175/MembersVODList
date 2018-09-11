@@ -2,6 +2,23 @@
   {
     "title": "肖文静的直播间（回放生成中）",
     "subTitle": {
+      "raw": "你们好靓仔总于直播了",
+      "base64": "5L2g5Lus5aW96Z2T5LuU5oC75LqO55u05pKt5LqG"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1536505160386MdSKaB4Ag0.png"
+    ],
+    "startTime": {
+      "timestamp": 1536505160036,
+      "datetime": "2018-09-09T22:59:20Z"
+    },
+    "memberId": 624315,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/a82d93cb-517c-41a6-8b7c-3db32b38dc89.mp4"
+  },
+  {
+    "title": "肖文静的直播间（回放生成中）",
+    "subTitle": {
       "raw": "靓仔学校",
       "base64": "6Z2T5LuU5a2m5qCh"
     },
