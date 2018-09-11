@@ -9,6 +9,40 @@
       "https://source.48.cn/mediasource/live/1533042179259jh7246hrvW.jpg"
     ],
     "startTime": {
+      "timestamp": 1536672965633,
+      "datetime": "2018-09-11T21:36:05Z"
+    },
+    "memberId": 480668,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/39c64e27-47f8-455b-bcf0-ed6855ee3447.mp4"
+  },
+  {
+    "title": "李晴的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "来来来。",
+      "base64": "5p2l5p2l5p2l44CC"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1533042179259jh7246hrvW.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536672660925,
+      "datetime": "2018-09-11T21:31:00Z"
+    },
+    "memberId": 480668,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/8f3eeb98-238c-4e4a-8607-cc938b568ee7.mp4"
+  },
+  {
+    "title": "李晴的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "来来来。",
+      "base64": "5p2l5p2l5p2l44CC"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1533042179259jh7246hrvW.jpg"
+    ],
+    "startTime": {
       "timestamp": 1536506791127,
       "datetime": "2018-09-09T23:26:31Z"
     },

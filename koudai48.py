@@ -81,7 +81,7 @@ def main():
     pool.join()
     work=functools.partial(dump,data,json_data)
     pool=multiprocessing.Pool(args.jobs)
-    pool.map(work,[key for key in json_data])
+    pool.map(work,json_data.keys())
     pool.close()
     pool.join()
 

@@ -1,5 +1,22 @@
 [
   {
+    "title": "孙馨的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "宿舍直播",
+      "base64": "5a6/6IiN55u05pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1536665886085b1HP6o973p.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536665886217,
+      "datetime": "2018-09-11T19:38:06Z"
+    },
+    "memberId": 327570,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/0411cffa-4430-4c53-98e1-47ff63c13217.mp4"
+  },
+  {
     "title": "孙馨的电台（回放生成中）",
     "subTitle": {
       "raw": "校园电台测试2.0",
