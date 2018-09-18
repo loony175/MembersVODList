@@ -2,6 +2,23 @@
   {
     "title": "刘娜的直播间（回放生成中）",
     "subTitle": {
+      "raw": "一小时",
+      "base64": "5LiA5bCP5pe2"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1536759877343Hs7l660650.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536759877563,
+      "datetime": "2018-09-12T21:44:37Z"
+    },
+    "memberId": 459992,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/000Yvwexjx07nzRECOh9070d010005h00k01.m3u8"
+  },
+  {
+    "title": "刘娜的直播间（回放生成中）",
+    "subTitle": {
       "raw": "啊",
       "base64": "5ZWK"
     },

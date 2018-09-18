@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1533985197257HJPWqcsV2S.jpg"
     ],
     "startTime": {
+      "timestamp": 1536841889939,
+      "datetime": "2018-09-13T20:31:29Z"
+    },
+    "memberId": 614727,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/88a9e038-f7dd-49d7-9e93-6be3d0962dc6.mp4"
+  },
+  {
+    "title": "李姗姗的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "嘻嘻",
+      "base64": "5Zi75Zi7"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1533985197257HJPWqcsV2S.jpg"
+    ],
+    "startTime": {
       "timestamp": 1536585045561,
       "datetime": "2018-09-10T21:10:45Z"
     },

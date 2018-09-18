@@ -2,6 +2,23 @@
   {
     "title": "张昕的直播间（回放生成中）",
     "subTitle": {
+      "raw": "hi",
+      "base64": "aGk="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1537014083820WBBMzGkyzg.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537014083702,
+      "datetime": "2018-09-15T20:21:23Z"
+    },
+    "memberId": 2508,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/003r6e25jx07nEyuCYcv070d010005U10k01.m3u8"
+  },
+  {
+    "title": "张昕的直播间（回放生成中）",
+    "subTitle": {
       "raw": "短发你好",
       "base64": "55+t5Y+R5L2g5aW9"
     },

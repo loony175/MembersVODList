@@ -6,6 +6,23 @@
       "base64": "44CC"
     },
     "picPath": [
+      "https://source.48.cn/mediasource/live/1537181810226mRj3hV7ueL.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537181810384,
+      "datetime": "2018-09-17T18:56:50Z"
+    },
+    "memberId": 1,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/003vCL0Yjx07nHFIt0Xl070d010007yW0k01.m3u8"
+  },
+  {
+    "title": "张语格的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "。",
+      "base64": "44CC"
+    },
+    "picPath": [
       "https://source.48.cn/mediasource/live/1535026506189sq076E678g.jpg"
     ],
     "startTime": {

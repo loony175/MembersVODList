@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1536230245815iWzL324N3Q.jpg"
     ],
     "startTime": {
+      "timestamp": 1537188618220,
+      "datetime": "2018-09-17T20:50:18Z"
+    },
+    "memberId": 63560,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/22066679-c8fe-40ee-86da-4fed622611eb.mp4"
+  },
+  {
+    "title": "姜杉的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "嗯哼",
+      "base64": "5Zev5ZO8"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1536230245815iWzL324N3Q.jpg"
+    ],
+    "startTime": {
       "timestamp": 1536230245952,
       "datetime": "2018-09-06T18:37:25Z"
     },

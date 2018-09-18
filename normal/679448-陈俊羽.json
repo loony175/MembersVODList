@@ -9,12 +9,29 @@
       "https://source.48.cn/mediasource/live/15355500124933Z2rOtf45m.jpg"
     ],
     "startTime": {
-      "timestamp": 1536505412961,
-      "datetime": "2018-09-09T23:03:32Z"
+      "timestamp": 1537025103653,
+      "datetime": "2018-09-15T23:25:03Z"
     },
     "memberId": 679448,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/598cdc44-f6a9-40cb-a3ec-7dd8719b9c9e.mp4"
+    "streamPath": "https://mp4.48.cn/live/07eb067c-47eb-486e-abe1-e81e748eb602.mp4"
+  },
+  {
+    "title": "陈俊羽的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "小陈营业啦！",
+      "base64": "5bCP6ZmI6JCl5Lia5ZWm77yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15355500124933Z2rOtf45m.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1536756730620,
+      "datetime": "2018-09-12T20:52:10Z"
+    },
+    "memberId": 679448,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/5e9338f3-bcaf-4a1c-b6f7-b2112e8e6842.mp4"
   },
   {
     "title": "陈俊羽的直播间（回放生成中）",

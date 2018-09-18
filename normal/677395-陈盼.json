@@ -2,6 +2,23 @@
   {
     "title": "陈盼的直播间（回放生成中）",
     "subTitle": {
+      "raw": "huhuha直播啦哈哈哈",
+      "base64": "aHVodWhh55u05pKt5ZWm5ZOI5ZOI5ZOI"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1536336410201MF73KnJn60.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537010691561,
+      "datetime": "2018-09-15T19:24:51Z"
+    },
+    "memberId": 677395,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/8f593c8c-803a-4015-bbc2-466e28bc2c4e.mp4"
+  },
+  {
+    "title": "陈盼的直播间（回放生成中）",
+    "subTitle": {
       "raw": "吃烧烤",
       "base64": "5ZCD54On54Ok"
     },

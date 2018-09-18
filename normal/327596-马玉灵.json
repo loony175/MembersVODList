@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/153002697350466hP1vr0hB.jpg"
     ],
     "startTime": {
+      "timestamp": 1537028031515,
+      "datetime": "2018-09-16T00:13:51Z"
+    },
+    "memberId": 327596,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/d6450f96-b6e9-4bf6-9183-7d5d6ee37307.mp4"
+  },
+  {
+    "title": "马玉灵的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "hi",
+      "base64": "aGk="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/153002697350466hP1vr0hB.jpg"
+    ],
+    "startTime": {
       "timestamp": 1535726007346,
       "datetime": "2018-08-31T22:33:27Z"
     },

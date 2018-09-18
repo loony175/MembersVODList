@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1519477422934fD2IphmdSP.jpg"
     ],
     "startTime": {
+      "timestamp": 1537109870644,
+      "datetime": "2018-09-16T22:57:50Z"
+    },
+    "memberId": 399669,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/f4f3edea-a182-44c6-8b56-aeba1cec2f0e.mp4"
+  },
+  {
+    "title": "袁一琦的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "1",
+      "base64": "MQ=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1519477422934fD2IphmdSP.jpg"
+    ],
+    "startTime": {
       "timestamp": 1536327351099,
       "datetime": "2018-09-07T21:35:51Z"
     },

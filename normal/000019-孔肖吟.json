@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1533731865129tP341aQ3W6.jpg"
     ],
     "startTime": {
+      "timestamp": 1537179248583,
+      "datetime": "2018-09-17T18:14:08Z"
+    },
+    "memberId": 19,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/c446dca7-1ef2-42ec-bcb6-abf9f92a534c.mp4"
+  },
+  {
+    "title": "孔肖吟的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "嘻嘻",
+      "base64": "5Zi75Zi7"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1533731865129tP341aQ3W6.jpg"
+    ],
+    "startTime": {
       "timestamp": 1536236712839,
       "datetime": "2018-09-06T20:25:12Z"
     },

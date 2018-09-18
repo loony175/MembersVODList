@@ -2,6 +2,23 @@
   {
     "title": "曾佳的直播间（回放生成中）",
     "subTitle": {
+      "raw": "半个小时",
+      "base64": "5Y2K5Liq5bCP5pe2"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1536490942319tsqd7iq5oU.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537024977173,
+      "datetime": "2018-09-15T23:22:57Z"
+    },
+    "memberId": 614741,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/30655492-8468-496b-a58c-37f6cf50a665.mp4"
+  },
+  {
+    "title": "曾佳的直播间（回放生成中）",
+    "subTitle": {
       "raw": "随便播",
       "base64": "6ZqP5L6/5pKt"
     },
