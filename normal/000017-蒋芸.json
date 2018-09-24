@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1534514566931IPHqfdTV2d.png"
     ],
     "startTime": {
+      "timestamp": 1537545530620,
+      "datetime": "2018-09-21T23:58:50Z"
+    },
+    "memberId": 17,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/001Tj4Kgjx07nOmZvSUw070d010008b50k01.m3u8"
+  },
+  {
+    "title": "蒋芸的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "。。",
+      "base64": "44CC44CC"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1534514566931IPHqfdTV2d.png"
+    ],
+    "startTime": {
       "timestamp": 1536407036924,
       "datetime": "2018-09-08T19:43:56Z"
     },

@@ -2,6 +2,74 @@
   {
     "title": "张昕的直播间（回放生成中）",
     "subTitle": {
+      "raw": "北京",
+      "base64": "5YyX5Lqs"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1537717686407YqsivX5Q7C.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537717686556,
+      "datetime": "2018-09-23T23:48:06Z"
+    },
+    "memberId": 2508,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/004rwJFMjx07nRuDpJpZ070d010000ZK0k01.m3u8"
+  },
+  {
+    "title": "张昕的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "10min",
+      "base64": "MTBtaW4="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1537282082485t5kpv1XRj2.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537545672226,
+      "datetime": "2018-09-22T00:01:12Z"
+    },
+    "memberId": 2508,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/324eab8e-3d66-4eb8-b1dd-ec8aadd72a08.mp4"
+  },
+  {
+    "title": "张昕的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "你好👋",
+      "base64": "5L2g5aW98J+Riw=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1537282082485t5kpv1XRj2.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537456745380,
+      "datetime": "2018-09-20T23:19:05Z"
+    },
+    "memberId": 2508,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/001hDuCHjx07nMJeJPXW070d010006h50k01.m3u8"
+  },
+  {
+    "title": "张昕的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "hi",
+      "base64": "aGk="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1537282082485t5kpv1XRj2.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537282082148,
+      "datetime": "2018-09-18T22:48:02Z"
+    },
+    "memberId": 2508,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/001sSK2djx07nJA4ugOz070d01000cTP0k01.m3u8"
+  },
+  {
+    "title": "张昕的直播间（回放生成中）",
+    "subTitle": {
       "raw": "hi",
       "base64": "aGk="
     },

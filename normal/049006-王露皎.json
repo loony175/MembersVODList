@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1537105883858zR68h3Yr3P.jpg"
     ],
     "startTime": {
+      "timestamp": 1537794190108,
+      "datetime": "2018-09-24T21:03:10Z"
+    },
+    "memberId": 49006,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/3ce3d59b-8e51-400d-99c8-47bddc07dd34.mp4"
+  },
+  {
+    "title": "王露皎的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "饺子铺营业了！",
+      "base64": "6aW65a2Q6ZO66JCl5Lia5LqG77yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1537105883858zR68h3Yr3P.jpg"
+    ],
+    "startTime": {
       "timestamp": 1537105883565,
       "datetime": "2018-09-16T21:51:23Z"
     },

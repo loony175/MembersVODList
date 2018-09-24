@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/15339943963073lGV7MaD3a.jpg"
     ],
     "startTime": {
+      "timestamp": 1537712042754,
+      "datetime": "2018-09-23T22:14:02Z"
+    },
+    "memberId": 707375,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/4f1cf409-9220-42dc-bf63-e12a6db823b4.mp4"
+  },
+  {
+    "title": "周桐冉的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "汪",
+      "base64": "5rGq"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15339943963073lGV7MaD3a.jpg"
+    ],
+    "startTime": {
       "timestamp": 1536421536173,
       "datetime": "2018-09-08T23:45:36Z"
     },

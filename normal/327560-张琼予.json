@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1536762546911w4Qr45f6m3.jpg"
     ],
     "startTime": {
+      "timestamp": 1537456111281,
+      "datetime": "2018-09-20T23:08:31Z"
+    },
+    "memberId": 327560,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/ebe6514f-8bb9-4e9f-a6ce-5394bbb26ccd.mp4"
+  },
+  {
+    "title": "张琼予的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "。",
+      "base64": "44CC"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1536762546911w4Qr45f6m3.jpg"
+    ],
+    "startTime": {
       "timestamp": 1536762547177,
       "datetime": "2018-09-12T22:29:07Z"
     },

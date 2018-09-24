@@ -2,6 +2,23 @@
   {
     "title": "张笑盈的直播间（回放生成中）",
     "subTitle": {
+      "raw": "季度播博主",
+      "base64": "5a2j5bqm5pKt5Y2a5Li7"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1537796969609H0768HLgy2.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537796970101,
+      "datetime": "2018-09-24T21:49:30Z"
+    },
+    "memberId": 327598,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/001VKTahjx07nT12FDMQ070d010006xX0k01.m3u8"
+  },
+  {
+    "title": "张笑盈的直播间（回放生成中）",
+    "subTitle": {
       "raw": "生日啦！",
       "base64": "55Sf5pel5ZWm77yB"
     },

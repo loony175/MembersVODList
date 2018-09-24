@@ -2,6 +2,23 @@
   {
     "title": "马凡的直播间（回放生成中）",
     "subTitle": {
+      "raw": "好久不见",
+      "base64": "5aW95LmF5LiN6KeB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15365107420136hb0V47J84.png"
+    ],
+    "startTime": {
+      "timestamp": 1537365673872,
+      "datetime": "2018-09-19T22:01:13Z"
+    },
+    "memberId": 606343,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/37fbc332-1554-482d-9ea9-e4683eeca510.mp4"
+  },
+  {
+    "title": "马凡的直播间（回放生成中）",
+    "subTitle": {
       "raw": "表演课随堂考2.0",
       "base64": "6KGo5ryU6K++6ZqP5aCC6ICDMi4w"
     },

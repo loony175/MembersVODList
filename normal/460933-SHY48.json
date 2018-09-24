@@ -2,6 +2,23 @@
   {
     "title": "SHY48的直播间（回放生成中）",
     "subTitle": {
+      "raw": "SIII沈阳国际旗袍文化节外务",
+      "base64": "U0lJSeayiOmYs+WbvemZheaXl+iijeaWh+WMluiKguWkluWKoQ=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/avatar/460933Bjs0lPjq3i.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537342131597,
+      "datetime": "2018-09-19T15:28:51Z"
+    },
+    "memberId": 460933,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/de670b03-9b7c-4065-930a-ec25cc82d771.mp4"
+  },
+  {
+    "title": "SHY48的直播间（回放生成中）",
+    "subTitle": {
       "raw": "SHY48曲悦萌、高志娴、张爱静、陈俊羽路演",
       "base64": "U0hZNDjmm7LmgqbokIzjgIHpq5jlv5flqLTjgIHlvKDniLHpnZnjgIHpmYjkv4rnvr3ot6/mvJQ="
     },

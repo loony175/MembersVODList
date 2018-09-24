@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/15164459573808z8pjD8eUZ.jpg"
     ],
     "startTime": {
+      "timestamp": 1537365549324,
+      "datetime": "2018-09-19T21:59:09Z"
+    },
+    "memberId": 3,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/0827331c-cb5c-4bd2-a841-55dd940fd665.mp4"
+  },
+  {
+    "title": "陈观慧的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "୧(๑•̀⌄•́๑)૭",
+      "base64": "4K2nKOC5keKAosyA4oyE4oCizIHguZEp4Kut"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15164459573808z8pjD8eUZ.jpg"
+    ],
+    "startTime": {
       "timestamp": 1537098658388,
       "datetime": "2018-09-16T19:50:58Z"
     },

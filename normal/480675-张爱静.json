@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1531043153826L3KUQLGcsB.jpg"
     ],
     "startTime": {
+      "timestamp": 1537526676861,
+      "datetime": "2018-09-21T18:44:36Z"
+    },
+    "memberId": 480675,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/454b319e-f01b-482b-984b-d2c224a139d1.mp4"
+  },
+  {
+    "title": "张爱静的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "来了！",
+      "base64": "5p2l5LqG77yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1531043153826L3KUQLGcsB.jpg"
+    ],
+    "startTime": {
       "timestamp": 1537255837090,
       "datetime": "2018-09-18T15:30:37Z"
     },

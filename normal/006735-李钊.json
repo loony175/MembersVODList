@@ -2,6 +2,23 @@
   {
     "title": "李钊的直播间（回放生成中）",
     "subTitle": {
+      "raw": "公演结束啦",
+      "base64": "5YWs5ryU57uT5p2f5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15377168358822MZXqMBzUW.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537716835552,
+      "datetime": "2018-09-23T23:33:55Z"
+    },
+    "memberId": 6735,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/000rQxVCjx07nRxMtrJt070d0100075F0k01.m3u8"
+  },
+  {
+    "title": "李钊的直播间（回放生成中）",
+    "subTitle": {
       "raw": "韩代归来～",
       "base64": "6Z+p5Luj5b2S5p2l772e"
     },

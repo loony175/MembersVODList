@@ -1,0 +1,37 @@
+[
+  {
+    "title": "李泓瑶的电台（回放生成中）",
+    "subTitle": {
+      "raw": "泓哥来liao～",
+      "base64": "5rOT5ZOl5p2lbGlhb++9ng=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1535382800465H58AS0ExS5.jpg",
+      "https://source.48.cn/mediasource/live/1535383957745Tb444HGDJb.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537720440321,
+      "datetime": "2018-09-24T00:34:00Z"
+    },
+    "memberId": 407108,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/1194716b-c6b6-400c-acd8-33e250688e52.mp4"
+  },
+  {
+    "title": "李泓瑶的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "连跪召唤师峡谷+",
+      "base64": "6L+e6Leq5Y+s5ZSk5biI5bOh6LC3Kw=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1534603287203A9Y9l4DIO0.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1537543740333,
+      "datetime": "2018-09-21T23:29:00Z"
+    },
+    "memberId": 407108,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/dc401c33-6584-49da-a010-8508a620ebfd.mp4"
+  }
+]
