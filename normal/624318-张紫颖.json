@@ -9,6 +9,40 @@
       "https://source.48.cn/mediasource/live/1537532167528ioq7L9kmK8.jpg"
     ],
     "startTime": {
+      "timestamp": 1538492380009,
+      "datetime": "2018-10-02T22:59:40Z"
+    },
+    "memberId": 624318,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/d33bea52-a574-4ef2-bee8-ed8488c1405f.mp4"
+  },
+  {
+    "title": "张紫颖的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "聊天",
+      "base64": "6IGK5aSp"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1537532167528ioq7L9kmK8.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1538489805613,
+      "datetime": "2018-10-02T22:16:45Z"
+    },
+    "memberId": 624318,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/c8402cc7-0a4b-4239-8313-72b1d17d968c.mp4"
+  },
+  {
+    "title": "张紫颖的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "聊天",
+      "base64": "6IGK5aSp"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1537532167528ioq7L9kmK8.jpg"
+    ],
+    "startTime": {
       "timestamp": 1537713294761,
       "datetime": "2018-09-23T22:34:54Z"
     },

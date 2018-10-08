@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1533995035162V1Y42srIxC.png"
     ],
     "startTime": {
+      "timestamp": 1538392148432,
+      "datetime": "2018-10-01T19:09:08Z"
+    },
+    "memberId": 460003,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/0d79000e-2558-487a-9a11-27c265a2e75f.mp4"
+  },
+  {
+    "title": "冯译莹的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "尬聊",
+      "base64": "5bCs6IGK"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1533995035162V1Y42srIxC.png"
+    ],
+    "startTime": {
       "timestamp": 1536327186518,
       "datetime": "2018-09-07T21:33:06Z"
     },

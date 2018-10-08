@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1536935552800W7eKs87L0M.jpg"
     ],
     "startTime": {
+      "timestamp": 1538580629105,
+      "datetime": "2018-10-03T23:30:29Z"
+    },
+    "memberId": 327564,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/e6e1627e-b236-43a0-9058-9402b7c66aac.mp4"
+  },
+  {
+    "title": "陈欣妤的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "Hi！！",
+      "base64": "SGnvvIHvvIE="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1536935552800W7eKs87L0M.jpg"
+    ],
+    "startTime": {
       "timestamp": 1537711615529,
       "datetime": "2018-09-23T22:06:55Z"
     },

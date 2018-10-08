@@ -2,6 +2,23 @@
   {
     "title": "郝婧怡的直播间（回放生成中）",
     "subTitle": {
+      "raw": "今天是…15分钟",
+      "base64": "5LuK5aSp5piv4oCmMTXliIbpkp8="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1538827976969cXY5t3TCM7.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1538827977150,
+      "datetime": "2018-10-06T20:12:57Z"
+    },
+    "memberId": 614753,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/3f8de740-872e-4981-a8a9-1c838beacb79.mp4"
+  },
+  {
+    "title": "郝婧怡的直播间（回放生成中）",
+    "subTitle": {
       "raw": "今天是…",
       "base64": "5LuK5aSp5piv4oCm"
     },

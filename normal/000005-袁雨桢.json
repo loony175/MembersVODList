@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1522419509150WkyH2G2EA0.png"
     ],
     "startTime": {
+      "timestamp": 1537952507673,
+      "datetime": "2018-09-26T17:01:47Z"
+    },
+    "memberId": 5,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/572357c5-3361-4702-9ea1-6a52ad3a2afb.mp4"
+  },
+  {
+    "title": "袁雨桢的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "一本正经的直播🐹",
+      "base64": "5LiA5pys5q2j57uP55qE55u05pKt8J+QuQ=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1522419509150WkyH2G2EA0.png"
+    ],
+    "startTime": {
       "timestamp": 1536406738986,
       "datetime": "2018-09-08T19:38:58Z"
     },

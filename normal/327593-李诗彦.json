@@ -1,0 +1,36 @@
+[
+  {
+    "title": "李诗彦的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "唱歌",
+      "base64": "5ZSx5q2M"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1538550016495TYjDt180bR.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1538566473467,
+      "datetime": "2018-10-03T19:34:33Z"
+    },
+    "memberId": 327593,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/55ac1e03-ff4f-4724-a774-e8ae2de1b173.mp4"
+  },
+  {
+    "title": "李诗彦的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "诗彦",
+      "base64": "6K+X5b2m"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1538550016495TYjDt180bR.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1538550016630,
+      "datetime": "2018-10-03T15:00:16Z"
+    },
+    "memberId": 327593,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/13b06fbd-8bfe-4e25-b731-b6690f9706f6.mp4"
+  }
+]

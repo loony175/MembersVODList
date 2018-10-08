@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1534590413186ilq71bXR7v.jpg"
     ],
     "startTime": {
+      "timestamp": 1538495636077,
+      "datetime": "2018-10-02T23:53:56Z"
+    },
+    "memberId": 614776,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/a782a453-36cf-4c94-aef0-d66860a971d8.mp4"
+  },
+  {
+    "title": "吴晶晶的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "叮咚~",
+      "base64": "5Y+u5ZKafg=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1534590413186ilq71bXR7v.jpg"
+    ],
+    "startTime": {
       "timestamp": 1537712307203,
       "datetime": "2018-09-23T22:18:27Z"
     },

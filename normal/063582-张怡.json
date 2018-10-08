@@ -2,6 +2,23 @@
   {
     "title": "张怡的直播间（回放生成中）",
     "subTitle": {
+      "raw": "国庆节快乐",
+      "base64": "5Zu95bqG6IqC5b+r5LmQ"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15345091186082kV9M5VDzH.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1538231401483,
+      "datetime": "2018-09-29T22:30:01Z"
+    },
+    "memberId": 63582,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/0d46f4cb-70cd-44b9-85b2-d2f59aaf781c.mp4"
+  },
+  {
+    "title": "张怡的直播间（回放生成中）",
+    "subTitle": {
       "raw": "中秋节快落",
       "base64": "5Lit56eL6IqC5b+r6JC9"
     },
