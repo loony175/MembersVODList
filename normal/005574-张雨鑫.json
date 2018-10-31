@@ -2,6 +2,40 @@
   {
     "title": "张雨鑫的直播间（回放生成中）",
     "subTitle": {
+      "raw": "hifriend",
+      "base64": "aGlmcmllbmQ="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/154055830107778VaAXI38D.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1540558301350,
+      "datetime": "2018-10-26T20:51:41Z"
+    },
+    "memberId": 5574,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/1a7e409f-a543-4a9b-a5bf-617f110a7735.mp4"
+  },
+  {
+    "title": "张雨鑫的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "Yo",
+      "base64": "WW8="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1540126851051e9NOj6cXUN.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1540126850824,
+      "datetime": "2018-10-21T21:00:50Z"
+    },
+    "memberId": 5574,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/197cf13d-ae6f-42dc-9b56-294eea569168.mp4"
+  },
+  {
+    "title": "张雨鑫的直播间（回放生成中）",
+    "subTitle": {
       "raw": "云南山歌排对排",
       "base64": "5LqR5Y2X5bGx5q2M5o6S5a+55o6S"
     },

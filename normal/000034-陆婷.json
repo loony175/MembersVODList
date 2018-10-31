@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/15317342102780gi6QsLxmA.jpg"
     ],
     "startTime": {
+      "timestamp": 1539603653396,
+      "datetime": "2018-10-15T19:40:53Z"
+    },
+    "memberId": 34,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/9fee53d6-d1b9-4bf6-9e1f-253541eacc92.mp4"
+  },
+  {
+    "title": "陆婷的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "啦啦啦",
+      "base64": "5ZWm5ZWm5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15317342102780gi6QsLxmA.jpg"
+    ],
+    "startTime": {
       "timestamp": 1537676764217,
       "datetime": "2018-09-23T12:26:04Z"
     },

@@ -2,6 +2,24 @@
   {
     "title": "李想的电台（回放生成中）",
     "subTitle": {
+      "raw": "营业一下",
+      "base64": "6JCl5Lia5LiA5LiL"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1539177222314fAkC4B4VPH.jpg",
+      "https://source.48.cn/mediasource/live/1537368009927v9Cd2En3F6.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1539177222449,
+      "datetime": "2018-10-10T21:13:42Z"
+    },
+    "memberId": 327594,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/350d5c3d-8cbe-4d8e-a0aa-8b2bc1531c13.mp4"
+  },
+  {
+    "title": "李想的电台（回放生成中）",
+    "subTitle": {
       "raw": "来鸭",
       "base64": "5p2l6bit"
     },

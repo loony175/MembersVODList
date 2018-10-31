@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1502017213627SDtT5ZTsKZ.jpg"
     ],
     "startTime": {
+      "timestamp": 1539329050359,
+      "datetime": "2018-10-12T15:24:10Z"
+    },
+    "memberId": 27,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/3ba1e518-b1a0-4a29-afe2-68fded08b3cc.mp4"
+  },
+  {
+    "title": "赵粤的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "普通直播",
+      "base64": "5pmu6YCa55u05pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1502017213627SDtT5ZTsKZ.jpg"
+    ],
+    "startTime": {
       "timestamp": 1535646749279,
       "datetime": "2018-08-31T00:32:29Z"
     },

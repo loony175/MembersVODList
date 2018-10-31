@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1537613848066PMDKsK86ZD.jpg"
     ],
     "startTime": {
+      "timestamp": 1540280396458,
+      "datetime": "2018-10-23T15:39:56Z"
+    },
+    "memberId": 63573,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/004bABXBjx07oCPI17HG070d010003FD0k01.m3u8"
+  },
+  {
+    "title": "熊素君的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "啦啦啦啦",
+      "base64": "5ZWm5ZWm5ZWm5ZWm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1537613848066PMDKsK86ZD.jpg"
+    ],
+    "startTime": {
       "timestamp": 1537613848236,
       "datetime": "2018-09-22T18:57:28Z"
     },

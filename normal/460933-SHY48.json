@@ -2,6 +2,40 @@
   {
     "title": "SHY48的直播间（回放生成中）",
     "subTitle": {
+      "raw": "SHY48元气音乐节",
+      "base64": "U0hZNDjlhYPmsJTpn7PkuZDoioI="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/avatar/460933Bjs0lPjq3i.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1540031672532,
+      "datetime": "2018-10-20T18:34:32Z"
+    },
+    "memberId": 460933,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/b0461d67-2e98-4fe5-b38d-3c5f999d4a7e.mp4"
+  },
+  {
+    "title": "SHY48的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "SHY48元气音乐节",
+      "base64": "U0hZNDjlhYPmsJTpn7PkuZDoioI="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/avatar/460933Bjs0lPjq3i.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1540031032239,
+      "datetime": "2018-10-20T18:23:52Z"
+    },
+    "memberId": 460933,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/9dfaa990-963b-4c5f-a045-f5e59ca81b06.mp4"
+  },
+  {
+    "title": "SHY48的直播间（回放生成中）",
+    "subTitle": {
       "raw": "SHY48小可爱带你逛握手",
       "base64": "U0hZNDjlsI/lj6/niLHluKbkvaDpgJvmj6HmiYs="
     },

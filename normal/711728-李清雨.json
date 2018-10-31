@@ -2,6 +2,24 @@
   {
     "title": "李清雨的电台（回放生成中）",
     "subTitle": {
+      "raw": "下午查岗时间",
+      "base64": "5LiL5Y2I5p+l5bKX5pe26Ze0"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1534919137046jn7juL1DDT.jpg",
+      "https://source.48.cn/mediasource/live/1531665072729Fz0cK2aR35.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1539079587516,
+      "datetime": "2018-10-09T18:06:27Z"
+    },
+    "memberId": 711728,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/20096b9b-3a48-4586-956f-0866e5af41f9.mp4"
+  },
+  {
+    "title": "李清雨的电台（回放生成中）",
+    "subTitle": {
       "raw": "国庆假期查岗",
       "base64": "5Zu95bqG5YGH5pyf5p+l5bKX"
     },
