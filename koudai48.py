@@ -18,7 +18,7 @@ def process(dict):
     info['title']=dict['title']
     sub_title={}
     sub_title['raw']=dict['subTitle']
-    sub_title['base64']=bytes.decode(base64.b64encode(str.encode(dict['subTitle'])))
+    sub_title['base64']=base64.b64encode(dict['subTitle'].encode()).decode()
     info['subTitle']=sub_title
     info['picPath']=['https://source.48.cn%s'%obj for obj in dict['picPath'].split(',')]
     start_time={}
@@ -58,7 +58,7 @@ def main():
     logging.basicConfig(level=logging.INFO,format='%(levelname)s: %(message)s')
     pathlib.Path('normal').mkdir(exist_ok=True)
     pathlib.Path('quiet').mkdir(exist_ok=True)
-    resp=requests.post('https://plive.48.cn/livesystem/api/live/v1/memberLivePage',headers={'Content-Type':'application/json','version':'5.3.1','os':'android'},json={'lastTime':0,'groupId':0,'memberId':0,'limit':30000}).json()
+    resp=requests.post('https://plive.48.cn/livesystem/api/live/v1/memberLivePage',headers={'Content-Type':'application/json','version':'5.3.2','os':'android'},json={'lastTime':0,'groupId':0,'memberId':0,'limit':30000}).json()
     review_list=resp['content']['reviewList']
     data=[]
     members=[]
