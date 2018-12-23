@@ -2,6 +2,23 @@
   {
     "title": "杨一帆的直播间（回放生成中）",
     "subTitle": {
+      "raw": "聊天啊",
+      "base64": "6IGK5aSp5ZWK"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15410812049863GlODAxSus.png"
+    ],
+    "startTime": {
+      "timestamp": 1541081205289,
+      "datetime": "2018-11-01T22:06:45Z"
+    },
+    "memberId": 407135,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/00385usXjx07oRAwes6c070d010001d40k01.m3u8"
+  },
+  {
+    "title": "杨一帆的直播间（回放生成中）",
+    "subTitle": {
       "raw": "#SNH48年度风尚大赏#",
       "base64": "I1NOSDQ45bm05bqm6aOO5bCa5aSn6LWPIw=="
     },

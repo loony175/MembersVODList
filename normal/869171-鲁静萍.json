@@ -1,0 +1,37 @@
+[
+  {
+    "title": "鲁静萍的电台（回放生成中）",
+    "subTitle": {
+      "raw": "和舔甜的愉快电台",
+      "base64": "5ZKM6IiU55Sc55qE5oSJ5b+r55S15Y+w"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15454022440138OuxhNU7V0.png",
+      "https://source.48.cn/mediasource/profile_icon.png"
+    ],
+    "startTime": {
+      "timestamp": 1545402244244,
+      "datetime": "2018-12-21T22:24:04Z"
+    },
+    "memberId": 869171,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/f6df34f0-7765-4bc2-9429-ca4df14cb062.mp4"
+  },
+  {
+    "title": "鲁静萍的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "首播耶",
+      "base64": "6aaW5pKt6IC2"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1545233518351M39TbS0VRa.png"
+    ],
+    "startTime": {
+      "timestamp": 1545233518789,
+      "datetime": "2018-12-19T23:31:58Z"
+    },
+    "memberId": 869171,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/214cef98-fede-4183-8430-980bfa8bcf73.mp4"
+  }
+]

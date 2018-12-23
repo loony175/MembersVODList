@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1536054446684Gtr7WmyKPI.jpg"
     ],
     "startTime": {
+      "timestamp": 1542456523831,
+      "datetime": "2018-11-17T20:08:43Z"
+    },
+    "memberId": 407126,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/3d175f1a-9f47-464a-b9b2-30a6c8be440c.mp4"
+  },
+  {
+    "title": "杨晔的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "呦",
+      "base64": "5ZGm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1536054446684Gtr7WmyKPI.jpg"
+    ],
+    "startTime": {
       "timestamp": 1540115612938,
       "datetime": "2018-10-21T17:53:32Z"
     },

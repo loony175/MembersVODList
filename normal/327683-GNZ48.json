@@ -2,6 +2,40 @@
   {
     "title": "GNZ48的直播间（回放生成中）",
     "subTitle": {
+      "raw": "酷我音乐探班",
+      "base64": "6YW35oiR6Z+z5LmQ5o6i54+t"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/avatar/327683.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1543304577708,
+      "datetime": "2018-11-27T15:42:57Z"
+    },
+    "memberId": 327683,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/001lPLE5jx07pwEjYx0j070d010002eW0k01.m3u8"
+  },
+  {
+    "title": "GNZ48的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "酷我音乐探班",
+      "base64": "6YW35oiR6Z+z5LmQ5o6i54+t"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/avatar/327683.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1543303641371,
+      "datetime": "2018-11-27T15:27:21Z"
+    },
+    "memberId": 327683,
+    "liveType": 1,
+    "streamPath": "https://live.us.sinaimg.cn/00413IDSjx07pwCuEHjW070d010001eQ0k01.m3u8"
+  },
+  {
+    "title": "GNZ48的直播间（回放生成中）",
+    "subTitle": {
       "raw": "TEAMG《双面偶像：又又》首演感想",
       "base64": "VEVBTUfjgIrlj4zpnaLlgbblg4/vvJrlj4jlj4jjgIvpppbmvJTmhJ/mg7M="
     },

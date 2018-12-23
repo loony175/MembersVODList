@@ -58,7 +58,7 @@ def main():
     logging.basicConfig(level=logging.INFO,format='%(levelname)s: %(message)s')
     pathlib.Path('normal').mkdir(exist_ok=True)
     pathlib.Path('quiet').mkdir(exist_ok=True)
-    resp=requests.post('https://plive.48.cn/livesystem/api/live/v1/memberLivePage',headers={'Content-Type':'application/json','version':'5.3.2','os':'android'},json={'lastTime':0,'groupId':0,'memberId':0,'limit':30000}).json()
+    resp=requests.post('https://plive.48.cn/livesystem/api/live/v1/memberLivePage',headers={'Content-Type':'application/json','version':'5.3.2','os':'android'},json={'lastTime':0,'groupId':0,'memberId':0,'limit':40000}).json()
     review_list=resp['content']['reviewList']
     data=[]
     members=[]

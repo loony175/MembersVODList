@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/150754685953297jN32yhR1.png"
     ],
     "startTime": {
+      "timestamp": 1543927098940,
+      "datetime": "2018-12-04T20:38:18Z"
+    },
+    "memberId": 407168,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/04fe8dc9-1f63-4c8e-bfcf-afd80dede4f8.mp4"
+  },
+  {
+    "title": "王雨煊的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "请输入直播宣言",
+      "base64": "6K+36L6T5YWl55u05pKt5a6j6KiA"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/150754685953297jN32yhR1.png"
+    ],
+    "startTime": {
       "timestamp": 1538571653769,
       "datetime": "2018-10-03T21:00:53Z"
     },
