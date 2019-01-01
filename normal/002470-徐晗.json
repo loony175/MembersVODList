@@ -1,0 +1,36 @@
+[
+  {
+    "title": "徐晗的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "✨",
+      "base64": "4pyo"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1541421035992fR9c32qbPO.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1546269373408,
+      "datetime": "2018-12-31T23:16:13Z"
+    },
+    "memberId": 2470,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/201911/abd/ced/AQcaQzAXRBv6VUo9/index.m3u8"
+  },
+  {
+    "title": "徐晗的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "✨",
+      "base64": "4pyo"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1541421035992fR9c32qbPO.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1546267403855,
+      "datetime": "2018-12-31T22:43:23Z"
+    },
+    "memberId": 2470,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/570cbbd0-786b-46f4-9056-2bcb7ec4a857.mp4"
+  }
+]

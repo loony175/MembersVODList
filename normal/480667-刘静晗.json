@@ -2,6 +2,23 @@
   {
     "title": "刘静晗的直播间（回放生成中）",
     "subTitle": {
+      "raw": "外务去了！",
+      "base64": "5aSW5Yqh5Y675LqG77yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1542290519053w0Su6475qO.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1545660036150,
+      "datetime": "2018-12-24T22:00:36Z"
+    },
+    "memberId": 480667,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/20181224/385/99a/kLXv6fGUNxlGfllH/index.m3u8"
+  },
+  {
+    "title": "刘静晗的直播间（回放生成中）",
+    "subTitle": {
       "raw": "hello讨论miumiu专用",
       "base64": "aGVsbG/orqjorrptaXVtaXXkuJPnlKg="
     },

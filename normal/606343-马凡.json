@@ -2,6 +2,23 @@
   {
     "title": "马凡的直播间（回放生成中）",
     "subTitle": {
+      "raw": "圣诞快乐🎅",
+      "base64": "5Zyj6K+e5b+r5LmQ8J+OhQ=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1545748044953Hy3qK23WdJ.png"
+    ],
+    "startTime": {
+      "timestamp": 1545748044676,
+      "datetime": "2018-12-25T22:27:24Z"
+    },
+    "memberId": 606343,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/97f8bc41-cb63-431b-a7f7-bae5f6e17c4b.mp4"
+  },
+  {
+    "title": "马凡的直播间（回放生成中）",
+    "subTitle": {
       "raw": "网速测试",
       "base64": "572R6YCf5rWL6K+V"
     },

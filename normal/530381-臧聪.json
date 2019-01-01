@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/15436667194035aa467fV9K.jpg"
     ],
     "startTime": {
+      "timestamp": 1546350307815,
+      "datetime": "2019-01-01T21:45:07Z"
+    },
+    "memberId": 530381,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/af438437-8ee8-45fa-ba55-93983fe0c8a7.mp4"
+  },
+  {
+    "title": "臧聪的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "❤️",
+      "base64": "4p2k77iP"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15436667194035aa467fV9K.jpg"
+    ],
+    "startTime": {
       "timestamp": 1544278533913,
       "datetime": "2018-12-08T22:15:33Z"
     },

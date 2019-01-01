@@ -2,6 +2,23 @@
   {
     "title": "孙歆文的直播间（回放生成中）",
     "subTitle": {
+      "raw": "123",
+      "base64": "MTIz"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1545660606614fC08Y0k9u7.png"
+    ],
+    "startTime": {
+      "timestamp": 1545660606853,
+      "datetime": "2018-12-24T22:10:06Z"
+    },
+    "memberId": 6739,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/20181225/e16/e85/1LKaVOtO4ae3vFCz/index.m3u8"
+  },
+  {
+    "title": "孙歆文的直播间（回放生成中）",
+    "subTitle": {
       "raw": "饿了么",
       "base64": "6aW/5LqG5LmI"
     },

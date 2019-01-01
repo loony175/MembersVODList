@@ -9,6 +9,40 @@
       "https://source.48.cn/mediasource/live/153002697350466hP1vr0hB.jpg"
     ],
     "startTime": {
+      "timestamp": 1545908388375,
+      "datetime": "2018-12-27T18:59:48Z"
+    },
+    "memberId": 327596,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/5a47a0a1-37eb-4a62-a39b-26446bfa80f6.mp4"
+  },
+  {
+    "title": "马玉灵的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "hi",
+      "base64": "aGk="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/153002697350466hP1vr0hB.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1545907065054,
+      "datetime": "2018-12-27T18:37:45Z"
+    },
+    "memberId": 327596,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/6615f05d-cf6d-4d49-951b-e2316e7010fb.mp4"
+  },
+  {
+    "title": "马玉灵的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "hi",
+      "base64": "aGk="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/153002697350466hP1vr0hB.jpg"
+    ],
+    "startTime": {
       "timestamp": 1545385318928,
       "datetime": "2018-12-21T17:41:58Z"
     },

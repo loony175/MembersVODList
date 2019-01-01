@@ -2,6 +2,23 @@
   {
     "title": "李晴的直播间（回放生成中）",
     "subTitle": {
+      "raw": "吃苹果了吗🍎",
+      "base64": "5ZCD6Iu55p6c5LqG5ZCX8J+Njg=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1533042179259jh7246hrvW.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1545661154329,
+      "datetime": "2018-12-24T22:19:14Z"
+    },
+    "memberId": 480668,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/e539978b-3e9b-4053-9513-c5636d5b772e.mp4"
+  },
+  {
+    "title": "李晴的直播间（回放生成中）",
+    "subTitle": {
       "raw": "你来不来。",
       "base64": "5L2g5p2l5LiN5p2l44CC"
     },

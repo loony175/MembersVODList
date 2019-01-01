@@ -6,14 +6,31 @@
       "base64": "5ZOf"
     },
     "picPath": [
-      "https://source.48.cn/mediasource/live/154185334063444frhQ77i5.jpg"
+      "https://source.48.cn/mediasource/live/1545142167960Aj8aJlr23v.jpg"
     ],
     "startTime": {
-      "timestamp": 1542292921515,
-      "datetime": "2018-11-15T22:42:01Z"
+      "timestamp": 1546087564248,
+      "datetime": "2018-12-29T20:46:04Z"
     },
     "memberId": 286977,
     "liveType": 1,
-    "streamPath": "https://live.us.sinaimg.cn/001wjmf9jx07pdZ0OgGj070d010003hH0k01.m3u8"
+    "streamPath": "https://mp4.48.cn/live/6670f16a-92c2-4f3c-96f0-88b45d1dcbf9.mp4"
+  },
+  {
+    "title": "孙珍妮的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "哟",
+      "base64": "5ZOf"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1545142167960Aj8aJlr23v.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1546086836184,
+      "datetime": "2018-12-29T20:33:56Z"
+    },
+    "memberId": 286977,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/20181229/d6a/cd2/dDonpoxsbVoahRyg/index.m3u8"
   }
 ]

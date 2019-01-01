@@ -2,6 +2,23 @@
   {
     "title": "SHY48的直播间（回放生成中）",
     "subTitle": {
+      "raw": "SHY48万达平安夜外务",
+      "base64": "U0hZNDjkuIfovr7lubPlronlpJzlpJbliqE="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/avatar/460933Bjs0lPjq3i.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1545653952289,
+      "datetime": "2018-12-24T20:19:12Z"
+    },
+    "memberId": 460933,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/7ff211d5-9966-4282-b8b8-1871e191525c.mp4"
+  },
+  {
+    "title": "SHY48的直播间（回放生成中）",
+    "subTitle": {
       "raw": "SHY48K11保利影院外务",
       "base64": "U0hZNDhLMTHkv53liKnlvbHpmaLlpJbliqE="
     },

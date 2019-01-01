@@ -2,6 +2,40 @@
   {
     "title": "谢蕾蕾的直播间（回放生成中）",
     "subTitle": {
+      "raw": "新年快乐🎉",
+      "base64": "5paw5bm05b+r5LmQ8J+OiQ=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1546339931441gPlT5Vd486.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1546339931688,
+      "datetime": "2019-01-01T18:52:11Z"
+    },
+    "memberId": 63572,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/201911/ddf/dc1/b_GB3borFA3rW9Do/index.m3u8"
+  },
+  {
+    "title": "谢蕾蕾的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "短发真的很不错",
+      "base64": "55+t5Y+R55yf55qE5b6I5LiN6ZSZ"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1545919098446tnDU83g7mv.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1545919098365,
+      "datetime": "2018-12-27T21:58:18Z"
+    },
+    "memberId": 63572,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/20181227/5cd/b5b/4EIgPs51UHn7xIzO/index.m3u8"
+  },
+  {
+    "title": "谢蕾蕾的直播间（回放生成中）",
+    "subTitle": {
       "raw": "哇",
       "base64": "5ZOH"
     },
