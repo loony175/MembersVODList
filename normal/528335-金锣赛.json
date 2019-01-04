@@ -1,39 +1,5 @@
 [
   {
-    "title": "金锣赛的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "😊",
-      "base64": "8J+Yig=="
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1541054209238CH09QiNLp9.png"
-    ],
-    "startTime": {
-      "timestamp": 1541949696136,
-      "datetime": "2018-11-11T23:21:36Z"
-    },
-    "memberId": 528335,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/d9a88ea9-fb70-49b5-98e0-7a6df9aa69d0.mp4"
-  },
-  {
-    "title": "金锣赛的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "😊",
-      "base64": "8J+Yig=="
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1541054209238CH09QiNLp9.png"
-    ],
-    "startTime": {
-      "timestamp": 1541945138212,
-      "datetime": "2018-11-11T22:05:38Z"
-    },
-    "memberId": 528335,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/62e22e1c-3b15-44be-9af4-16bdea49841c.mp4"
-  },
-  {
     "title": "金锣赛的电台（回放生成中）",
     "subTitle": {
       "raw": "没想到吧哈哈",
@@ -155,23 +121,6 @@
     "streamPath": "https://mp6.48.cn/live/596541ab-2166-4344-b30a-c50c5366207e.mp4"
   },
   {
-    "title": "金锣赛的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "啾啾",
-      "base64": "5ZW+5ZW+"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1516273119609P23J54dak1.png"
-    ],
-    "startTime": {
-      "timestamp": 1516273119808,
-      "datetime": "2018-01-18T18:58:39Z"
-    },
-    "memberId": 528335,
-    "liveType": 1,
-    "streamPath": "https://mp6.48.cn/live/6160772e-edf8-460f-85cf-330d565ab5a8.mp4"
-  },
-  {
     "title": "金锣赛的电台（回放生成中）",
     "subTitle": {
       "raw": "嘻嘻",
@@ -222,28 +171,5 @@
     "memberId": 528335,
     "liveType": 2,
     "streamPath": "https://mp6.48.cn/live/11624815-8851-4056-8703-ff47090c5628.mp4"
-  },
-  {
-    "title": "金锣赛的电台（回放生成中）",
-    "subTitle": {
-      "raw": "讲故事哈哈",
-      "base64": "6K6y5pWF5LqL5ZOI5ZOI"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/14984762248628O44dFd7WJ.png",
-      "https://source.48.cn/mediasource/live/1499173474256UYUq46Wf2Y.jpg",
-      "https://source.48.cn/mediasource/live/149917347459154nau71UQp.jpg",
-      "https://source.48.cn/mediasource/live/1499173474852N5KmYfVVeF.jpg",
-      "https://source.48.cn/mediasource/live/1499173475138R9ibWX1Fp6.jpg",
-      "https://source.48.cn/mediasource/live/149917347548973t16777M8.jpg",
-      "https://source.48.cn/mediasource/live/1499173475780X1753CA1Cg.jpg"
-    ],
-    "startTime": {
-      "timestamp": 1499173476027,
-      "datetime": "2017-07-04T21:04:36Z"
-    },
-    "memberId": 528335,
-    "liveType": 2,
-    "streamPath": "https://mp6.48.cn/live/5b26b75c-f8a4-4518-a9e3-715293ad3e88.mp4"
   }
 ]

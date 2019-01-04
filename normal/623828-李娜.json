@@ -2,6 +2,24 @@
   {
     "title": "李娜的电台（回放生成中）",
     "subTitle": {
+      "raw": "北漂不容易",
+      "base64": "5YyX5ryC5LiN5a655piT"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/154617321640807s7f234tj.jpg",
+      "https://source.48.cn/mediasource/live/15465185752534dvKqr4wN9.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1546518575489,
+      "datetime": "2019-01-03T20:29:35Z"
+    },
+    "memberId": 623828,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/d9eeaf1e-b5ce-4fba-a0dd-7589215c1ef5.mp4"
+  },
+  {
+    "title": "李娜的电台（回放生成中）",
+    "subTitle": {
       "raw": "2018倒计时⌛",
       "base64": "MjAxOOWAkuiuoeaXtuKMmw=="
     },

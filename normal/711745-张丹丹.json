@@ -2,6 +2,23 @@
   {
     "title": "张丹丹的直播间（回放生成中）",
     "subTitle": {
+      "raw": "哇哦",
+      "base64": "5ZOH5ZOm"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1546529123033jDt2XZLt5S.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1546529123332,
+      "datetime": "2019-01-03T23:25:23Z"
+    },
+    "memberId": 711745,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/cf0a7cb7-2d94-4898-815f-f8a403b501b3.mp4"
+  },
+  {
+    "title": "张丹丹的直播间（回放生成中）",
+    "subTitle": {
       "raw": "So元旦快乐",
       "base64": "U2/lhYPml6blv6vkuZA="
     },

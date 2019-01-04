@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/154600950974447yGOv8UZT.jpg"
     ],
     "startTime": {
+      "timestamp": 1546438042313,
+      "datetime": "2019-01-02T22:07:22Z"
+    },
+    "memberId": 49005,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/9a40c4f0-c563-4bed-a69a-15fa68da63d1.mp4"
+  },
+  {
+    "title": "沈梦瑶的直播间（回放生成中）",
+    "subTitle": {
+      "raw": ".",
+      "base64": "Lg=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/154600950974447yGOv8UZT.jpg"
+    ],
+    "startTime": {
       "timestamp": 1546086943411,
       "datetime": "2018-12-29T20:35:43Z"
     },

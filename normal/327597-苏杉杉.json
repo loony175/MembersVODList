@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1522763390812yCEPS1Ac70.png"
     ],
     "startTime": {
+      "timestamp": 1546519230753,
+      "datetime": "2019-01-03T20:40:30Z"
+    },
+    "memberId": 327597,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/201913/80d/061/OcJsmpX2HXhvBQyW/index.m3u8"
+  },
+  {
+    "title": "苏杉杉的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "唠五毛钱滴",
+      "base64": "5ZSg5LqU5q+b6ZKx5ru0"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1522763390812yCEPS1Ac70.png"
+    ],
+    "startTime": {
       "timestamp": 1546012001805,
       "datetime": "2018-12-28T23:46:41Z"
     },

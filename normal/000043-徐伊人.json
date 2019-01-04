@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/15454925749119sZ15pkufE.jpg"
     ],
     "startTime": {
+      "timestamp": 1546610487498,
+      "datetime": "2019-01-04T22:01:27Z"
+    },
+    "memberId": 43,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/201914/cc0/1f9/Zy-Eo1cIPahk01uj/index.m3u8"
+  },
+  {
+    "title": "徐伊人的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "来，我们聊聊天～",
+      "base64": "5p2l77yM5oiR5Lus6IGK6IGK5aSp772e"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15454925749119sZ15pkufE.jpg"
+    ],
+    "startTime": {
       "timestamp": 1545492808660,
       "datetime": "2018-12-22T23:33:28Z"
     },

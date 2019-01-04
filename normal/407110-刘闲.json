@@ -2,6 +2,23 @@
   {
     "title": "刘闲的直播间（回放生成中）",
     "subTitle": {
+      "raw": "深夜直播",
+      "base64": "5rex5aSc55u05pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1541944751356J373YcXP55.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1546619298935,
+      "datetime": "2019-01-05T00:28:18Z"
+    },
+    "memberId": 407110,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/201915/7b0/760/1bTcAUqc-DyzqwDk/index.m3u8"
+  },
+  {
+    "title": "刘闲的直播间（回放生成中）",
+    "subTitle": {
       "raw": "新年快乐🎉",
       "base64": "5paw5bm05b+r5LmQ8J+OiQ=="
     },
