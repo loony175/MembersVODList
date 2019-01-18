@@ -2,6 +2,23 @@
   {
     "title": "舒湘的直播间（回放生成中）",
     "subTitle": {
+      "raw": "看安吃饭",
+      "base64": "55yL5a6J5ZCD6aWt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1546773001599owU3HFkx3i.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1546773001854,
+      "datetime": "2019-01-06T19:10:01Z"
+    },
+    "memberId": 624312,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/a4c775ee-786b-41c1-9d70-9980331565d1.mp4"
+  },
+  {
+    "title": "舒湘的直播间（回放生成中）",
+    "subTitle": {
       "raw": "嗨",
       "base64": "5Zeo"
     },

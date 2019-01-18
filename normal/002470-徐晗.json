@@ -2,35 +2,18 @@
   {
     "title": "徐晗的直播间（回放生成中）",
     "subTitle": {
-      "raw": "✨",
-      "base64": "4pyo"
+      "raw": "这是一个生日直播(ฅ>ω<*ฅ)",
+      "base64": "6L+Z5piv5LiA5Liq55Sf5pel55u05pKtKOC4hT7PiTwq4LiFKQ=="
     },
     "picPath": [
       "https://source.48.cn/mediasource/live/1541421035992fR9c32qbPO.jpg"
     ],
     "startTime": {
-      "timestamp": 1546617707455,
-      "datetime": "2019-01-05T00:01:47Z"
+      "timestamp": 1547480301987,
+      "datetime": "2019-01-14T23:38:21Z"
     },
     "memberId": 2470,
     "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/0c6ee32c-df46-40a5-82e6-ad4cb6d2bdff.mp4"
-  },
-  {
-    "title": "徐晗的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "✨",
-      "base64": "4pyo"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/1541421035992fR9c32qbPO.jpg"
-    ],
-    "startTime": {
-      "timestamp": 1546616830096,
-      "datetime": "2019-01-04T23:47:10Z"
-    },
-    "memberId": 2470,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/68387102-75ad-416e-883b-58bdf967fbf8.mp4"
+    "streamPath": "https://alcdn.hls.xiaoka.tv/2019115/8c4/0b4/kOEVr2jCim9GF1U6/index.m3u8"
   }
 ]

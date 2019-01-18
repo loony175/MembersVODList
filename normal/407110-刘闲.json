@@ -2,6 +2,23 @@
   {
     "title": "刘闲的直播间（回放生成中）",
     "subTitle": {
+      "raw": "你要是唠这个，我可不困了啊",
+      "base64": "5L2g6KaB5piv5ZSg6L+Z5Liq77yM5oiR5Y+v5LiN5Zuw5LqG5ZWK"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15467001363652m4fyp5CYv.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1546700136650,
+      "datetime": "2019-01-05T22:55:36Z"
+    },
+    "memberId": 407110,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/201916/726/bbb/rCjX-HxBj9gLhHBH/index.m3u8"
+  },
+  {
+    "title": "刘闲的直播间（回放生成中）",
+    "subTitle": {
       "raw": "深夜直播",
       "base64": "5rex5aSc55u05pKt"
     },

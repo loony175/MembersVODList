@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1541153475679O6u1an9Vrr.jpg"
     ],
     "startTime": {
+      "timestamp": 1546773754821,
+      "datetime": "2019-01-06T19:22:34Z"
+    },
+    "memberId": 327580,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/201916/525/351/eeIIeBbWSjQs4sKa/index.m3u8"
+  },
+  {
+    "title": "张梦慧的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "丑陋妹妹在线聊天~~",
+      "base64": "5LiR6ZmL5aa55aa55Zyo57q/6IGK5aSpfn4="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1541153475679O6u1an9Vrr.jpg"
+    ],
+    "startTime": {
       "timestamp": 1546438990781,
       "datetime": "2019-01-02T22:23:10Z"
     },

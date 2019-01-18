@@ -2,6 +2,23 @@
   {
     "title": "谢妮的直播间（回放生成中）",
     "subTitle": {
+      "raw": "周五",
+      "base64": "5ZGo5LqU"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1533395962334ntxc6oWR0A.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1547220392195,
+      "datetime": "2019-01-11T23:26:32Z"
+    },
+    "memberId": 45,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/2dc14724-e0f8-416f-891e-86a20422777e.mp4"
+  },
+  {
+    "title": "谢妮的直播间（回放生成中）",
+    "subTitle": {
       "raw": "我不是傻子",
       "base64": "5oiR5LiN5piv5YK75a2Q"
     },

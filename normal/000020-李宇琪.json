@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1534660964308O444LogF2B.jpg"
     ],
     "startTime": {
+      "timestamp": 1547299517836,
+      "datetime": "2019-01-12T21:25:17Z"
+    },
+    "memberId": 20,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/bc62fb23-3993-4a4e-8ba7-4f4857b60795.mp4"
+  },
+  {
+    "title": "李宇琪的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "💙",
+      "base64": "8J+SmQ=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1534660964308O444LogF2B.jpg"
+    ],
+    "startTime": {
       "timestamp": 1544007891088,
       "datetime": "2018-12-05T19:04:51Z"
     },
