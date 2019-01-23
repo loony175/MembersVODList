@@ -2,6 +2,23 @@
   {
     "title": "陈观慧的直播间（回放生成中）",
     "subTitle": {
+      "raw": "。",
+      "base64": "44CC"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15164459573808z8pjD8eUZ.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1547962423712,
+      "datetime": "2019-01-20T13:33:43Z"
+    },
+    "memberId": 3,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/260c1b22-12a6-4bb9-9b8a-be1685172e01.mp4"
+  },
+  {
+    "title": "陈观慧的直播间（回放生成中）",
+    "subTitle": {
       "raw": "元旦快乐~",
       "base64": "5YWD5pem5b+r5LmQfg=="
     },

@@ -2,6 +2,23 @@
   {
     "title": "袁丹妮的直播间（回放生成中）",
     "subTitle": {
+      "raw": "一起看金曲~",
+      "base64": "5LiA6LW355yL6YeR5puyfg=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15472954575291BvWNLYfFa.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1547893163858,
+      "datetime": "2019-01-19T18:19:23Z"
+    },
+    "memberId": 67,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/2019119/38e/782/3JBUmdOjBfE7RF22/index.m3u8"
+  },
+  {
+    "title": "袁丹妮的直播间（回放生成中）",
+    "subTitle": {
       "raw": "嗯",
       "base64": "5Zev"
     },

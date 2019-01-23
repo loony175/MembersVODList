@@ -2,6 +2,23 @@
   {
     "title": "朱敏的直播间（回放生成中）",
     "subTitle": {
+      "raw": "好久不见",
+      "base64": "5aW95LmF5LiN6KeB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1547823922654S348XLbE9Z.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1547823922913,
+      "datetime": "2019-01-18T23:05:22Z"
+    },
+    "memberId": 679467,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/202c0aca-0a6c-4d25-b1c8-b7b9c41c4a74.mp4"
+  },
+  {
+    "title": "朱敏的直播间（回放生成中）",
+    "subTitle": {
       "raw": "一起跨年吧",
       "base64": "5LiA6LW36Leo5bm05ZCn"
     },

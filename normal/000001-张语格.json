@@ -2,6 +2,23 @@
   {
     "title": "张语格的直播间（回放生成中）",
     "subTitle": {
+      "raw": "。",
+      "base64": "44CC"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1548167382971sgt1jM8fQC.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1548167811477,
+      "datetime": "2019-01-22T22:36:51Z"
+    },
+    "memberId": 1,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/054ebbf7-7bc0-4b33-9697-6e780911f649.mp4"
+  },
+  {
+    "title": "张语格的直播间（回放生成中）",
+    "subTitle": {
       "raw": "跨年啦",
       "base64": "6Leo5bm05ZWm"
     },

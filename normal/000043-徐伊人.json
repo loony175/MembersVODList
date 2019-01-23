@@ -2,6 +2,58 @@
   {
     "title": "徐伊人的直播间（回放生成中）",
     "subTitle": {
+      "raw": "聊天吧",
+      "base64": "6IGK5aSp5ZCn"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15454925749119sZ15pkufE.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1548251810918,
+      "datetime": "2019-01-23T21:56:50Z"
+    },
+    "memberId": 43,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/4adc7128-58db-4eab-a342-9ecbeabfe3cc.mp4"
+  },
+  {
+    "title": "徐伊人的电台（回放生成中）",
+    "subTitle": {
+      "raw": "聊天～",
+      "base64": "6IGK5aSp772e"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1541851060581O5PD3bzRph.jpg",
+      "https://source.48.cn/mediasource/live/1548000208252tTu6CRaV9U.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1548000207907,
+      "datetime": "2019-01-21T00:03:27Z"
+    },
+    "memberId": 43,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/1d5df7f7-01b0-4dd8-a43f-157d277ea858.mp4"
+  },
+  {
+    "title": "徐伊人的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "B50",
+      "base64": "QjUw"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15454925749119sZ15pkufE.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1547891848784,
+      "datetime": "2019-01-19T17:57:28Z"
+    },
+    "memberId": 43,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/2019119/0ba/15c/aigef_E7XtocN3aE/index.m3u8"
+  },
+  {
+    "title": "徐伊人的直播间（回放生成中）",
+    "subTitle": {
       "raw": "来，我们聊聊天～",
       "base64": "5p2l77yM5oiR5Lus6IGK6IGK5aSp772e"
     },

@@ -12,6 +12,26 @@
       "https://source.48.cn/mediasource/live/1547731852121p9O5TD6A5m.jpg"
     ],
     "startTime": {
+      "timestamp": 1548086688553,
+      "datetime": "2019-01-22T00:04:48Z"
+    },
+    "memberId": 707371,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/3c69e156-eafd-42df-b104-d61064bd8114.mp4"
+  },
+  {
+    "title": "徐楚雯的电台（回放生成中）",
+    "subTitle": {
+      "raw": "听听雯唱的吧",
+      "base64": "5ZCs5ZCs6Zuv5ZSx55qE5ZCn"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15469608751622663dl3DfY.jpg",
+      "https://source.48.cn/mediasource/live/1547731851732yA4637Vpf3.jpg",
+      "https://source.48.cn/mediasource/live/1547731851924iw1Ri0VrNR.jpg",
+      "https://source.48.cn/mediasource/live/1547731852121p9O5TD6A5m.jpg"
+    ],
+    "startTime": {
       "timestamp": 1547734527724,
       "datetime": "2019-01-17T22:15:27Z"
     },
