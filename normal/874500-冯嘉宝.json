@@ -1,0 +1,61 @@
+[
+  {
+    "title": "冯嘉宝的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "首播",
+      "base64": "6aaW5pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1551611863025WQ5LMfc3Ju.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1551620791497,
+      "datetime": "2019-03-03T21:46:31Z"
+    },
+    "memberId": 874500,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/807eac35-3702-4669-ac01-ccd1636cc4ff.mp4"
+  },
+  {
+    "title": "冯嘉宝的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "首播",
+      "base64": "6aaW5pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1551611863025WQ5LMfc3Ju.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1551611863072,
+      "datetime": "2019-03-03T19:17:43Z"
+    },
+    "memberId": 874500,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/eb8c20a0-c0b0-4e18-91ab-d6d6e3eea4f5.mp4"
+  },
+  {
+    "title": "冯嘉宝的电台（回放生成中）",
+    "subTitle": {
+      "raw": "今天能得到1000分吗",
+      "base64": "5LuK5aSp6IO95b6X5YiwMTAwMOWIhuWQlw=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1551272671161WYjeUC6bgn.jpg",
+      "https://source.48.cn/mediasource/live/15513634131662y1pf22uAe.jpg",
+      "https://source.48.cn/mediasource/live/155136341332557Ik5xkeHt.jpg",
+      "https://source.48.cn/mediasource/live/15513634135102F8Qoie81B.jpg",
+      "https://source.48.cn/mediasource/live/1551363413720q7LnJJXuzG.jpg",
+      "https://source.48.cn/mediasource/live/1551363413970xDS9l540yE.jpg",
+      "https://source.48.cn/mediasource/live/15513634142219fBIkXN3Y5.jpg",
+      "https://source.48.cn/mediasource/live/15513634144414Hm9tsf32R.jpg",
+      "https://source.48.cn/mediasource/live/1551363414626J1bNFDGU8y.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1551448878489,
+      "datetime": "2019-03-01T22:01:18Z"
+    },
+    "memberId": 874500,
+    "liveType": 2,
+    "streamPath": "https://cychengyuan-vod.48.cn/874500/20190303/cy/5c793b2e0cf2c2a5d7c93599.m3u8"
+  }
+]

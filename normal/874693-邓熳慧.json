@@ -1,0 +1,37 @@
+[
+  {
+    "title": "邓熳慧的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "邓熳慧首次直播",
+      "base64": "6YKT54az5oWn6aaW5qyh55u05pKt"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1550587425752wZTJW5j34z.png"
+    ],
+    "startTime": {
+      "timestamp": 1550588049753,
+      "datetime": "2019-02-19T22:54:09Z"
+    },
+    "memberId": 874693,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/59f66caa-f6fe-4925-9938-640e6b8e09c8.mp4"
+  },
+  {
+    "title": "邓熳慧的电台（回放生成中）",
+    "subTitle": {
+      "raw": "biu～❄️",
+      "base64": "Yml1772e4p2E77iP"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1549083737336Z42G5H4y8x.jpg",
+      "https://source.48.cn/mediasource/live/1549083923268s9D8KSxg9O.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1549083923386,
+      "datetime": "2019-02-02T13:05:23Z"
+    },
+    "memberId": 874693,
+    "liveType": 2,
+    "streamPath": "https://mp4.48.cn/live/0224ae20-a940-4e9e-9d4c-4dbc6008caba.mp4"
+  }
+]

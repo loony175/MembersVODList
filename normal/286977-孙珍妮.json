@@ -1,0 +1,19 @@
+[
+  {
+    "title": "孙珍妮的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "！",
+      "base64": "77yB"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1549370485007124RJS9dhB.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1549370485164,
+      "datetime": "2019-02-05T20:41:25Z"
+    },
+    "memberId": 286977,
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/201925/fb1/f81/CXyVYYxBaKHlGjAV/index.m3u8"
+  }
+]

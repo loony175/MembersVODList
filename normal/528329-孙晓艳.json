@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/151167647221552v3fX1CHZ.png"
     ],
     "startTime": {
+      "timestamp": 1551541248738,
+      "datetime": "2019-03-02T23:40:48Z"
+    },
+    "memberId": 528329,
+    "liveType": 1,
+    "streamPath": "https://cychengyuan-vod.48.cn/528329/20190303/cy/5c7aa4000cf2fa7045aaf03c.m3u8"
+  },
+  {
+    "title": "孙晓艳的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "开直播啦～",
+      "base64": "5byA55u05pKt5ZWm772e"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/151167647221552v3fX1CHZ.png"
+    ],
+    "startTime": {
       "timestamp": 1547476033807,
       "datetime": "2019-01-14T22:27:13Z"
     },
@@ -109,23 +126,6 @@
     "memberId": 528329,
     "liveType": 1,
     "streamPath": "https://mp4.48.cn/live/ecb7ab14-e93d-4455-b441-32d6f70598c5.mp4"
-  },
-  {
-    "title": "孙晓艳的直播间（回放生成中）",
-    "subTitle": {
-      "raw": "可以帮我个忙么，什么忙？帮忙快点喜欢我～",
-      "base64": "5Y+v5Lul5biu5oiR5Liq5b+Z5LmI77yM5LuA5LmI5b+Z77yf5biu5b+Z5b+r54K55Zac5qyi5oiR772e"
-    },
-    "picPath": [
-      "https://source.48.cn/mediasource/live/151167647221552v3fX1CHZ.png"
-    ],
-    "startTime": {
-      "timestamp": 1541144601966,
-      "datetime": "2018-11-02T15:43:21Z"
-    },
-    "memberId": 528329,
-    "liveType": 1,
-    "streamPath": "https://mp4.48.cn/live/6ec2b0ec-7c95-43ca-8f6d-cc34a7044b68.mp4"
   },
   {
     "title": "孙晓艳的直播间（回放生成中）",

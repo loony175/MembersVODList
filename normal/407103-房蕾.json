@@ -1,29 +1,20 @@
 [
   {
-    "title": "房蕾的电台（回放生成中）",
+    "title": "房蕾的直播间（回放生成中）",
     "subTitle": {
-      "raw": "打不到车哭了",
-      "base64": "5omT5LiN5Yiw6L2m5ZOt5LqG"
+      "raw": "营业ing.....",
+      "base64": "6JCl5LiaaW5nLi4uLi4="
     },
     "picPath": [
-      "https://source.48.cn/mediasource/live/1544367281645AZ78ODR50m.jpg",
-      "https://source.48.cn/mediasource/live/1545580110813cYLHaMSPZU.jpg",
-      "https://source.48.cn/mediasource/live/1545580110953G4u28W7yCR.jpg",
-      "https://source.48.cn/mediasource/live/15455801110874zory58o83.jpg",
-      "https://source.48.cn/mediasource/live/1545580111213iSgg9WIZaF.jpg",
-      "https://source.48.cn/mediasource/live/1545580111438o43v09NLDi.jpg",
-      "https://source.48.cn/mediasource/live/15455801116302D4vZ6PplL.jpg",
-      "https://source.48.cn/mediasource/live/1545580111898TkMTtAx81Z.jpg",
-      "https://source.48.cn/mediasource/live/15455801121172eivBz3D7j.jpg",
-      "https://source.48.cn/mediasource/live/1545580112234Wb83CFaRX4.jpg"
+      "https://source.48.cn/mediasource/live/1550835584178sPp53NAo90.jpg"
     ],
     "startTime": {
-      "timestamp": 1546009319772,
-      "datetime": "2018-12-28T23:01:59Z"
+      "timestamp": 1550835584098,
+      "datetime": "2019-02-22T19:39:44Z"
     },
     "memberId": 407103,
-    "liveType": 2,
-    "streamPath": "https://mp4.48.cn/live/c123afcd-f43b-4732-b833-fa3b8d45fac7.mp4"
+    "liveType": 1,
+    "streamPath": "https://alcdn.hls.xiaoka.tv/2019222/a84/6e9/hD0Va3rYfiiyleV2/index.m3u8"
   },
   {
     "title": "房蕾的电台（回放生成中）",

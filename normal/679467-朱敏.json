@@ -2,6 +2,23 @@
   {
     "title": "朱敏的直播间（回放生成中）",
     "subTitle": {
+      "raw": "晚上好",
+      "base64": "5pma5LiK5aW9"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15490193970522I8I4G8jum.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1549019456519,
+      "datetime": "2019-02-01T19:10:56Z"
+    },
+    "memberId": 679467,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/b09eafd6-8134-4e85-8f1c-beb6d90537df.mp4"
+  },
+  {
+    "title": "朱敏的直播间（回放生成中）",
+    "subTitle": {
       "raw": "好久不见",
       "base64": "5aW95LmF5LiN6KeB"
     },

@@ -2,6 +2,57 @@
   {
     "title": "谢蕾蕾的直播间（回放生成中）",
     "subTitle": {
+      "raw": "嘻嘻嘻",
+      "base64": "5Zi75Zi75Zi7"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1551543074287A1rc59La19.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1551617382447,
+      "datetime": "2019-03-03T20:49:42Z"
+    },
+    "memberId": 63572,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/a35b6097-2831-41cc-a0d7-d6711c3493aa.mp4"
+  },
+  {
+    "title": "谢蕾蕾的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "biubiu",
+      "base64": "Yml1Yml1"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1551543074287A1rc59La19.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1551543351401,
+      "datetime": "2019-03-03T00:15:51Z"
+    },
+    "memberId": 63572,
+    "liveType": 1,
+    "streamPath": "https://cychengyuan-vod.48.cn/63572/20190303/cy/5c7aac370cf2a12e1d52eb02.m3u8"
+  },
+  {
+    "title": "谢蕾蕾的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "biubiu",
+      "base64": "Yml1Yml1"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1548603905439Ut8TM66Ty4.jpg"
+    ],
+    "startTime": {
+      "timestamp": 1548603907813,
+      "datetime": "2019-01-27T23:45:07Z"
+    },
+    "memberId": 63572,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/e6b492b3-9f90-4b49-8fba-176164d9b4b4.mp4"
+  },
+  {
+    "title": "谢蕾蕾的直播间（回放生成中）",
+    "subTitle": {
       "raw": "biubiu",
       "base64": "Yml1Yml1"
     },
