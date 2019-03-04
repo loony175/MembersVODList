@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/15476240352635h8tRw1XId.jpg"
     ],
     "startTime": {
+      "timestamp": 1551691198587,
+      "datetime": "2019-03-04T17:19:58Z"
+    },
+    "memberId": 327587,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/64087374-c3ce-4bf5-af24-b274606b634c.mp4"
+  },
+  {
+    "title": "冯思佳的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "。",
+      "base64": "44CC"
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/15476240352635h8tRw1XId.jpg"
+    ],
+    "startTime": {
       "timestamp": 1551279356572,
       "datetime": "2019-02-27T22:55:56Z"
     },

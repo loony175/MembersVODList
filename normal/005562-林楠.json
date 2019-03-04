@@ -9,6 +9,23 @@
       "https://source.48.cn/mediasource/live/1541776009957pPs9Ja2Np9.jpg"
     ],
     "startTime": {
+      "timestamp": 1551709291513,
+      "datetime": "2019-03-04T22:21:31Z"
+    },
+    "memberId": 5562,
+    "liveType": 1,
+    "streamPath": "https://mp4.48.cn/live/747ab279-7e64-4308-a238-9c9eba3f3cff.mp4"
+  },
+  {
+    "title": "林楠的直播间（回放生成中）",
+    "subTitle": {
+      "raw": "小楠上线🎰",
+      "base64": "5bCP5qWg5LiK57q/8J+OsA=="
+    },
+    "picPath": [
+      "https://source.48.cn/mediasource/live/1541776009957pPs9Ja2Np9.jpg"
+    ],
+    "startTime": {
       "timestamp": 1551281914299,
       "datetime": "2019-02-27T23:38:34Z"
     },
